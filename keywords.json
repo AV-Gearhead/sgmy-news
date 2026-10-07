@@ -1,0 +1,18 @@
+{
+  "_help": "fatal = someone died. major = serious accident or incident. ignore = phrases that look like a match but are not (they are removed before checking). English and Malay match whole words; Chinese matches anywhere in the headline. Add or remove words freely.",
+  "fatal": {
+    "en": ["killed", "dead", "dies", "died", "death", "deaths", "fatal", "fatally", "body found", "bodies", "drowned", "drowns", "lost his life", "lost her life", "perished", "death toll"],
+    "ms": ["maut", "meninggal", "meninggal dunia", "terbunuh", "korban", "mati", "rentung", "lemas", "tewas", "mayat", "kematian", "terkorban"],
+    "zh": ["死亡", "身亡", "丧命", "丧生", "罹难", "遇难", "毙命", "惨死", "命丧", "不治", "溺毙", "尸体", "遗体", "殒命"]
+  },
+  "major": {
+    "en": ["crash", "crashed", "collision", "collided", "accident", "injured", "injuries", "hurt", "fire", "blaze", "explosion", "exploded", "overturned", "collapse", "collapsed", "landslide", "flash flood", "hospitalised", "hospitalized", "rescued", "pile-up", "derailed", "critical condition"],
+    "ms": ["kemalangan", "nahas", "cedera", "parah", "kebakaran", "terbakar", "letupan", "rempuh", "bertembung", "terbalik", "runtuh", "tanah runtuh", "banjir kilat", "kritikal", "diselamatkan"],
+    "zh": ["车祸", "意外", "相撞", "撞车", "受伤", "重伤", "轻伤", "火灾", "起火", "失火", "爆炸", "翻车", "坍塌", "倒塌", "土崩", "闪电水灾", "送院", "危殆", "获救"]
+  },
+  "ignore": {
+    "en": ["deadline", "dead heat", "dead end", "death penalty", "fire sale", "ceasefire", "cease-fire", "fired from", "crash course", "market crash", "stock crash", "crypto crash"],
+    "ms": ["hukuman mati", "gencatan senjata"],
+    "zh": ["死刑", "停火", "死忠"]
+  }
+}

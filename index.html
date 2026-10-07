@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SG–MY News Watch</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #F2F5F7;
+    --surface: #FFFFFF;
+    --ink: #13303A;
+    --muted: #5E717A;
+    --rule: #D3DCE1;
+    --fatal: #B3202A;
+    --fatal-soft: #F8E3E4;
+    --major: #B86E00;
+    --major-soft: #FBEFD9;
+    --other: #6E828B;
+    --gov: #1D5A86;
+    --gov-soft: #E1ECF5;
+    --focus: #1D5A86;
+    --font: "Public Sans", "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", "Noto Sans SC", system-ui, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper: #0F1E24;
+      --surface: #16282F;
+      --ink: #E4EDF0;
+      --muted: #93A6AE;
+      --rule: #2A4049;
+      --fatal: #F0666E;
+      --fatal-soft: #3A1E22;
+      --major: #F0AA45;
+      --major-soft: #382A14;
+      --other: #8EA2AA;
+      --gov: #7DB6E3;
+      --gov-soft: #1B3445;
+      --focus: #7DB6E3;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font: 400 16px/1.5 var(--font);
+  }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 28px 20px 64px; }
+  a { color: inherit; }
+  :focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; border-radius: 4px; }
+
+  /* Header */
+  header { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 4px 16px; margin-bottom: 22px; }
+  h1 { margin: 0; font-size: 1.75rem; font-weight: 800; letter-spacing: -0.02em; }
+  .updated { color: var(--muted); font-size: 0.875rem; }
+
+  /* Severity tiles: the main control */
+  .tiles { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 18px; }
+  .tile {
+    appearance: none; text-align: left; cursor: pointer;
+    font: inherit; color: var(--ink);
+    background: var(--surface);
+    border: 2px solid var(--rule);
+    border-radius: 10px;
+    padding: 12px 14px 10px;
+    border-top-width: 6px;
+    display: flex; flex-direction: column; justify-content: flex-start;
+  }
+  .tile .n { display: block; font-size: 2.25rem; font-weight: 800; line-height: 1.05; font-variant-numeric: tabular-nums; }
+  .tile .l { font-size: 0.9375rem; font-weight: 600; }
+  .tile[data-sev="fatal"] { border-top-color: var(--fatal); }
+  .tile[data-sev="fatal"] .n { color: var(--fatal); }
+  .tile[data-sev="major"] { border-top-color: var(--major); }
+  .tile[data-sev="major"] .n { color: var(--major); }
+  .tile[data-sev="other"] { border-top-color: var(--other); }
+  .tile[aria-pressed="true"][data-sev="fatal"] { background: var(--fatal-soft); border-color: var(--fatal); }
+  .tile[aria-pressed="true"][data-sev="major"] { background: var(--major-soft); border-color: var(--major); }
+  .tile[aria-pressed="true"][data-sev="other"] { border-color: var(--other); }
+
+  /* Filter row */
+  .filters { display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: center; margin-bottom: 8px; }
+  .group { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+  .group > span { color: var(--muted); font-size: 0.8125rem; margin-right: 2px; }
+  .chip {
+    appearance: none; cursor: pointer; font: 500 0.875rem/1 var(--font);
+    color: var(--ink); background: transparent;
+    border: 1px solid var(--rule); border-radius: 999px; padding: 7px 12px;
+  }
+  .chip[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+  .search {
+    flex: 1 1 220px; min-width: 0;
+    font: inherit; color: var(--ink); background: var(--surface);
+    border: 1px solid var(--rule); border-radius: 8px; padding: 9px 12px;
+  }
+  .resultline { color: var(--muted); font-size: 0.875rem; margin: 14px 0 6px; }
+  .resultline button { appearance: none; border: 0; background: none; color: var(--gov); font: inherit; cursor: pointer; text-decoration: underline; padding: 0; }
+
+  /* Story list */
+  ol.stories { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--rule); }
+  .story {
+    display: grid; grid-template-columns: 4px 64px 1fr; gap: 0 14px;
+    padding: 12px 0; border-bottom: 1px solid var(--rule);
+  }
+  .bar { border-radius: 2px; background: transparent; }
+  .story[data-sev="fatal"] .bar { background: var(--fatal); }
+  .story[data-sev="major"] .bar { background: var(--major); }
+  .time { color: var(--muted); font-size: 0.8125rem; font-variant-numeric: tabular-nums; padding-top: 3px; }
+  .title { font-weight: 600; font-size: 1.0625rem; line-height: 1.4; text-decoration: none; overflow-wrap: anywhere; }
+  .title:hover { text-decoration: underline; }
+  .snippet { margin: 3px 0 0; color: var(--muted); font-size: 0.9375rem; max-width: 70ch; }
+  .meta { display: flex; flex-wrap: wrap; gap: 4px 10px; margin-top: 5px; font-size: 0.8125rem; color: var(--muted); align-items: center; }
+  .tag { font-weight: 600; border-radius: 4px; padding: 1px 6px; }
+  .tag.gov { background: var(--gov-soft); color: var(--gov); }
+  .tag.fatal { background: var(--fatal-soft); color: var(--fatal); }
+  .tag.major { background: var(--major-soft); color: var(--major); }
+
+  .empty { padding: 40px 0; color: var(--muted); }
+  .empty strong { color: var(--ink); display: block; margin-bottom: 4px; }
+
+  details.health { margin-top: 32px; font-size: 0.875rem; color: var(--muted); }
+  details.health summary { cursor: pointer; }
+  details.health ul { padding-left: 18px; columns: 2 260px; }
+  .bad { color: var(--fatal); }
+  footer { margin-top: 18px; font-size: 0.8125rem; color: var(--muted); }
+
+  @media (max-width: 560px) {
+    .wrap { padding-top: 18px; }
+    .tile { padding: 10px 10px 8px; }
+    .tile .n { font-size: 1.75rem; }
+    .tile .l { font-size: 0.8125rem; }
+    .story { grid-template-columns: 4px 1fr; }
+    .time { grid-column: 2; padding: 0 0 2px; }
+    .story > div:last-child { grid-column: 2; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>SG–MY News Watch</h1>
+    <div class="updated" id="updated">Loading…</div>
+  </header>
+
+  <div class="tiles" role="group" aria-label="Filter by severity">
+    <button class="tile" data-sev="fatal" aria-pressed="false"><span class="n" id="n-fatal">–</span><span class="l">Fatal</span></button>
+    <button class="tile" data-sev="major" aria-pressed="false"><span class="n" id="n-major">–</span><span class="l">Major incident</span></button>
+    <button class="tile" data-sev="other" aria-pressed="false"><span class="n" id="n-other">–</span><span class="l">Other news</span></button>
+  </div>
+
+  <div class="filters">
+    <div class="group" role="group" aria-label="Source type">
+      <span>Source</span>
+      <button class="chip" data-f="group" data-v="all" aria-pressed="true">All</button>
+      <button class="chip" data-f="group" data-v="gov" aria-pressed="false">Government</button>
+      <button class="chip" data-f="group" data-v="non-gov" aria-pressed="false">Non-government</button>
+    </div>
+    <div class="group" role="group" aria-label="Country">
+      <span>Country</span>
+      <button class="chip" data-f="country" data-v="all" aria-pressed="true">Both</button>
+      <button class="chip" data-f="country" data-v="SG" aria-pressed="false">Singapore</button>
+      <button class="chip" data-f="country" data-v="MY" aria-pressed="false">Malaysia</button>
+    </div>
+    <div class="group" role="group" aria-label="Language">
+      <span>Language</span>
+      <button class="chip" data-lang="en" aria-pressed="true">English</button>
+      <button class="chip" data-lang="ms" aria-pressed="true">Malay</button>
+      <button class="chip" data-lang="zh" aria-pressed="true">中文</button>
+    </div>
+    <input class="search" id="q" type="search" placeholder="Search headlines, e.g. Johor, MRT, 车祸" aria-label="Search headlines">
+  </div>
+
+  <p class="resultline" id="resultline"></p>
+  <ol class="stories" id="list"></ol>
+
+  <details class="health">
+    <summary>Sources checked</summary>
+    <ul id="health"></ul>
+  </details>
+  <footer>Headlines link to the original publisher. Labels are added automatically from keywords and can be wrong, so open the story before sharing it.</footer>
+</div>
+
+<script>
+(function () {
+  const state = { sev: null, group: "all", country: "all", langs: new Set(["en", "ms", "zh"]), q: "" };
+  let stories = [];
+
+  const $ = (id) => document.getElementById(id);
+  const LABEL = { fatal: "Fatal", major: "Major incident" };
+  const COUNTRY = { SG: "Singapore", MY: "Malaysia" };
+  const tz = "Asia/Singapore";
+  const dayFmt = new Intl.DateTimeFormat("en-SG", { timeZone: tz, year: "numeric", month: "2-digit", day: "2-digit" });
+  const timeFmt = new Intl.DateTimeFormat("en-SG", { timeZone: tz, hour: "2-digit", minute: "2-digit", hour12: false });
+  const shortDayFmt = new Intl.DateTimeFormat("en-SG", { timeZone: tz, day: "numeric", month: "short" });
+
+  function when(iso) {
+    const d = new Date(iso), now = new Date();
+    const today = dayFmt.format(now);
+    const yest = dayFmt.format(new Date(now - 864e5));
+    const day = dayFmt.format(d);
+    if (day === today) return timeFmt.format(d);
+    if (day === yest) return "Yesterday " + timeFmt.format(d);
+    return shortDayFmt.format(d);
+  }
+  function ago(iso) {
+    const m = Math.round((Date.now() - new Date(iso)) / 60000);
+    if (m < 1) return "just now";
+    if (m < 60) return m + " min ago";
+    const h = Math.round(m / 60);
+    return h + (h === 1 ? " hour ago" : " hours ago");
+  }
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  }
+
+  function matchesBase(s) {
+    if (state.group !== "all" && s.group !== state.group) return false;
+    if (state.country !== "all" && s.country !== state.country) return false;
+    if (!state.langs.has(s.lang)) return false;
+    if (state.q) {
+      const hay = (s.title + " " + s.snippet + " " + s.source).toLowerCase();
+      if (!hay.includes(state.q)) return false;
+    }
+    return true;
+  }
+
+  function render() {
+    const base = stories.filter(matchesBase);
+    for (const k of ["fatal", "major", "other"]) {
+      $("n-" + k).textContent = base.filter((s) => s.severity === k).length;
+    }
+    const shown = state.sev ? base.filter((s) => s.severity === state.sev) : base;
+
+    const filtered = state.sev || state.group !== "all" || state.country !== "all" || state.langs.size < 3 || state.q;
+    $("resultline").innerHTML = shown.length + (shown.length === 1 ? " story" : " stories") + " from the last 3 days" +
+      (filtered ? ' <button type="button" id="reset">Clear filters</button>' : "");
+    const reset = $("reset");
+    if (reset) reset.onclick = resetAll;
+
+    if (!shown.length) {
+      $("list").innerHTML = '<li class="empty"><strong>No stories match these filters.</strong>Try another country or language, or clear the search.</li>';
+      return;
+    }
+    $("list").innerHTML = shown.slice(0, 300).map((s) => `
+      <li class="story" data-sev="${s.severity}">
+        <span class="bar" aria-hidden="true"></span>
+        <time class="time" datetime="${esc(s.published)}">${when(s.published)}</time>
+        <div>
+          <a class="title" href="${esc(s.link)}" target="_blank" rel="noopener noreferrer" lang="${esc(s.lang)}">${esc(s.title)}</a>
+          ${s.snippet ? `<p class="snippet" lang="${esc(s.lang)}">${esc(s.snippet)}</p>` : ""}
+          <div class="meta">
+            ${LABEL[s.severity] ? `<span class="tag ${s.severity}">${LABEL[s.severity]}</span>` : ""}
+            ${s.group === "gov" ? '<span class="tag gov">Government</span>' : ""}
+            <span>${esc(s.source)}</span>
+            <span>${COUNTRY[s.country] || esc(s.country)}</span>
+          </div>
+        </div>
+      </li>`).join("");
+  }
+
+  function setPressed(selector, pick) {
+    document.querySelectorAll(selector).forEach((b) => b.setAttribute("aria-pressed", String(pick(b))));
+  }
+
+  function resetAll() {
+    Object.assign(state, { sev: null, group: "all", country: "all", q: "" });
+    state.langs = new Set(["en", "ms", "zh"]);
+    $("q").value = "";
+    setPressed(".tile", () => false);
+    setPressed("[data-f]", (b) => b.dataset.v === "all");
+    setPressed("[data-lang]", () => true);
+    render();
+  }
+
+  document.querySelectorAll(".tile").forEach((b) => b.addEventListener("click", () => {
+    state.sev = state.sev === b.dataset.sev ? null : b.dataset.sev;
+    setPressed(".tile", (t) => t.dataset.sev === state.sev);
+    render();
+  }));
+  document.querySelectorAll("[data-f]").forEach((b) => b.addEventListener("click", () => {
+    const f = b.dataset.f;
+    state[f] = b.dataset.v;
+    setPressed(`[data-f="${f}"]`, (c) => c.dataset.v === state[f]);
+    render();
+  }));
+  document.querySelectorAll("[data-lang]").forEach((b) => b.addEventListener("click", () => {
+    const l = b.dataset.lang;
+    if (state.langs.has(l) && state.langs.size > 1) state.langs.delete(l); else state.langs.add(l);
+    setPressed("[data-lang]", (c) => state.langs.has(c.dataset.lang));
+    render();
+  }));
+  let t;
+  $("q").addEventListener("input", (e) => {
+    clearTimeout(t);
+    t = setTimeout(() => { state.q = e.target.value.trim().toLowerCase(); render(); }, 150);
+  });
+
+  async function load() {
+    try {
+      const res = await fetch("news.json?t=" + Date.now(), { cache: "no-store" });
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      const data = await res.json();
+      stories = data.stories || [];
+      $("updated").textContent = "Updated " + ago(data.updated);
+      $("health").innerHTML = (data.sources || []).map((s) =>
+        `<li>${esc(s.name)}: ${s.ok ? s.count + " stories" : `<span class="bad">not reachable</span>`}</li>`).join("");
+      render();
+    } catch (err) {
+      $("updated").textContent = "";
+      $("list").innerHTML = '<li class="empty"><strong>News hasn\'t been collected yet.</strong>Run the "Update news" workflow once on GitHub, wait two minutes, then reload this page.</li>';
+    }
+  }
+  load();
+  setInterval(load, 10 * 60 * 1000); // refresh every 10 minutes while the page is open
+})();
+</script>
+</body>
+</html>

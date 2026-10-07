@@ -1,0 +1,24 @@
+{
+  "_help": "Each source needs: name, country (SG or MY), group (gov or non-gov), lang (en, ms or zh). Give either 'domain' (read via Google News) or 'rss' (the site's own feed). Set enabled to false to switch a source off.",
+  "sources": [
+    { "name": "Gov.sg (all SG agencies)", "domain": "gov.sg",              "country": "SG", "group": "gov",     "lang": "en", "enabled": true },
+    { "name": "CNA",                      "domain": "channelnewsasia.com", "country": "SG", "group": "non-gov", "lang": "en", "enabled": true },
+    { "name": "The Straits Times",        "domain": "straitstimes.com",    "country": "SG", "group": "non-gov", "lang": "en", "enabled": true },
+    { "name": "Mothership",               "rss": "https://mothership.sg/feed/", "country": "SG", "group": "non-gov", "lang": "en", "enabled": true },
+    { "name": "Berita Harian SG",         "domain": "beritaharian.sg",     "country": "SG", "group": "non-gov", "lang": "ms", "enabled": true },
+    { "name": "Lianhe Zaobao",            "domain": "zaobao.com.sg",       "country": "SG", "group": "non-gov", "lang": "zh", "enabled": true },
+    { "name": "8world",                   "domain": "8world.com",          "country": "SG", "group": "non-gov", "lang": "zh", "enabled": true },
+
+    { "name": "Gov.my (all MY agencies)", "domain": "gov.my",              "country": "MY", "group": "gov",     "lang": "ms", "enabled": true },
+    { "name": "Bernama (state news agency)", "domain": "bernama.com",      "country": "MY", "group": "gov",     "lang": "en", "enabled": true },
+    { "name": "The Star",                 "domain": "thestar.com.my",      "country": "MY", "group": "non-gov", "lang": "en", "enabled": true },
+    { "name": "Malay Mail",               "domain": "malaymail.com",       "country": "MY", "group": "non-gov", "lang": "en", "enabled": true },
+    { "name": "Free Malaysia Today",      "rss": "https://www.freemalaysiatoday.com/feed/", "country": "MY", "group": "non-gov", "lang": "en", "enabled": true },
+    { "name": "Berita Harian",            "domain": "bharian.com.my",      "country": "MY", "group": "non-gov", "lang": "ms", "enabled": true },
+    { "name": "Harian Metro",             "domain": "hmetro.com.my",       "country": "MY", "group": "non-gov", "lang": "ms", "enabled": true },
+    { "name": "Sinar Harian",             "domain": "sinarharian.com.my",  "country": "MY", "group": "non-gov", "lang": "ms", "enabled": true },
+    { "name": "Sin Chew Daily",           "domain": "sinchew.com.my",      "country": "MY", "group": "non-gov", "lang": "zh", "enabled": true },
+    { "name": "China Press",              "domain": "chinapress.com.my",   "country": "MY", "group": "non-gov", "lang": "zh", "enabled": true },
+    { "name": "Oriental Daily",           "domain": "orientaldaily.com.my", "country": "MY", "group": "non-gov", "lang": "zh", "enabled": true }
+  ]
+}
