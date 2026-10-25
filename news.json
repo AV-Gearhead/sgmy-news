@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T19:52:14.142949+00:00",
+ "updated": "2026-10-25T22:19:23.275549+00:00",
  "sources": [
   {
    "name": "Gov.sg (all SG agencies)",
@@ -34,7 +34,7 @@
   {
    "name": "8world",
    "ok": true,
-   "count": 100
+   "count": 90
   },
   {
    "name": "Gov.my (all MY agencies)",
@@ -44,7 +44,7 @@
   {
    "name": "Bernama (state news agency)",
    "ok": true,
-   "count": 100
+   "count": 68
   },
   {
    "name": "The Star",
@@ -94,6 +94,174 @@
  ],
  "stories": [
   {
+   "id": "21a239a238695045",
+   "title": "CNA Correspondent - Can Japan stop bear attacks without culling?",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRGZvUnNQN1dRQ0xpTmw2aGlfNnBzU2V4SExYWFBHTG9adVU1dVpLWkdzcTNURzcxSi15NjVwX193cFJYR0k0Qkg5OUlkdEFYcXBQREJhNm5kREtvUER4a3YwLVNYRURrQUtFeFhRemdDQVR2WmJiY1pTdk5LdUVkUTlhSWVfcUdHRFBLV3hPVUFqWHZ4ZW96N3paS0hVdVZKc1ZjbkJaRnkwVldl?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T21:48:39+00:00",
+   "source": "CNA",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "82547eb990744fe5",
+   "title": "Peribahasa Minggu Ini, Berita Bahasa Budaya",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85WEFvbFpOTWhIbGlDcUttcy00X0FFWEhXMWlPVlhfS3ZUeHhkcUl4aFRSRlFFci0wUzlfazk1VzBpbl9oOUxUTjlCQ1U1cVZoNmdzZk1PNEIzYmoxZFhOWXJSYmZGQ2RqOEhLNGZB?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T21:30:00+00:00",
+   "source": "Berita Harian SG",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "ms",
+   "severity": "other"
+  },
+  {
+   "id": "b62e766f3863bbbd",
+   "title": "Berhati-hati di jalan raya, Berita Gen G",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RY2N0d3ZUQk1kTTJ6ZG1KZGMxNnBEQkhzanZteHd2TFdUR0x2dWVTaFpKYTB4WWxsRnR1Q191R3VrUFNxREltRjBKXzBySkY2alU4TTdPSE5QLWZxbmFTanNXR1FmbEVYS2otUw?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T21:30:00+00:00",
+   "source": "Berita Harian SG",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "ms",
+   "severity": "other"
+  },
+  {
+   "id": "a77a4ce83cffa614",
+   "title": "Latest Anugerah",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zU2RkQWd4NmRwYmJHaFlpQWZpY2ppQWZ4TEQxbW1HLVU1dEVuQ3BzVGwwckwzYVNwdlB2UnFEU3N0OWoyZkxkOUVOMkdkakRhelpj?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T21:30:00+00:00",
+   "source": "Berita Harian SG",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "ms",
+   "severity": "other"
+  },
+  {
+   "id": "b7bd97626a28dec4",
+   "title": "Cabaran Mencari Jodoh: Kestabilan Kewangan & Keyakinan Diri Lelaki",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmtKZTdqX3FZZldnbmE3MEdjdUZ2ajhDRWQ2TTZVSEZJUGc0cEdoVXJsZGpTaUFuYVhvSV9Gd2F4dGlzS0tTd0lqMllEUVpoT0dFUDN4MC1GLWlhU0poX3BDYUVmYXJYOVZzYzFyM2N0cUZfMzdNc2dWU1RYZS1WWWtrTlItd2xYNWJtQ2VzQlI?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T21:30:00+00:00",
+   "source": "Berita Harian SG",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "ms",
+   "severity": "other"
+  },
+  {
+   "id": "c4c1a2ea812b5d55",
+   "title": "Anugerah 2026: Finalis dan Kejutan Pentas Akhir",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdDlDeVRxRFJVckNxcHNBcTVINlpVZThROTRXVDl1MXY4WHRKRWNfT0pFd1F3VHpwMFNNT3VHWTBjN1N4ejl6d3hxazhvdll6bEYzcFN3TnRjNl81MHZWN3U1cjJ2Tjg2bHlRNUpxdjNxb1pzQlZRUGVVUS0zZFdkcWpJREhEMHRKOVE?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T21:30:00+00:00",
+   "source": "Berita Harian SG",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "ms",
+   "severity": "other"
+  },
+  {
+   "id": "1664d6f7acc95957",
+   "title": "- CNA",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTlNaRjVxWjl5WVZLTFd2UjhBZjNrc2FGcWprYndFajJYa2pIVXZMOFZybmMyNXpDaVY5WC00Y2trVk9QT0w5TEJ0X2VENFdEemw4UEtERURyejYybXRLTnFkS0JWVlFNaGhHNWlRdk1ZUk53SS14eEp1UUpHQ2NoNTJWOVV6YnUwR0s4dW5FSFA1R0tMMXJ1SEhNeDNHZDFwV3NINExjNWlNU1R0TTJvQXVMdjdHQVdNa2hfNlh1SlpBT3B6Uncwb01TVzdMU0Z3a2o5cGxndi0za1cycEpaV2YzRG5GTGljT0M4RG0wcmQ1ZzFXMWVrUEF5WlBnRGdRZnJR?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T21:27:14+00:00",
+   "source": "CNA",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "70445ddaa77e082f",
+   "title": "Bayern survive late scare to beat Freiburg 3-1",
+   "link": "https://www.freemalaysiatoday.com/category/sports/2026/10/26/bayern-survive-late-scare-to-beat-freiburg-3-1",
+   "snippet": "The Bundesliga champions preserved their unbeaten start but had to withstand late pressure from Freiburg, who pushed for an equaliser.",
+   "published": "2026-10-25T21:22:30+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "642c2c1ee1195d40",
+   "title": "Israel’s Eisenkot vows unity as Netanyahu paints him as soft on Iran",
+   "link": "https://www.freemalaysiatoday.com/category/highlight/2026/10/26/israel-s-eisenkot-vows-unity-as-netanyahu-paints-him-as-soft-on-iran",
+   "snippet": "Gadi Eisenkot pledged to heal divisions, portraying Benjamin Netanyahu as unfit to lead at his final major rally before Israelis vote.",
+   "published": "2026-10-25T21:15:48+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "f814469cc9cb6bcd",
+   "title": "Carrick unsure over Man Utd future after Bournemouth loss",
+   "link": "https://www.freemalaysiatoday.com/category/sports/2026/10/26/carrick-unsure-over-man-utd-future-after-bournemouth-loss",
+   "snippet": "The 20-time English champions slipped to within one point of the relegation zone after a damaging 3-0 defeat at Old Trafford.",
+   "published": "2026-10-25T21:01:51+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "3aa9b9714421de79",
+   "title": "早报漫画",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BSGlORm1oZWNfb3U5THRKSE9NYnJ4ZjdxcXlxZm9vTjZsVlp1V2NFZEZPLXFZWWVQVVloc21sN2RjbFlreVFaWUhzaEVnMmZBQVZyOWgzWW0tMXBucG42Z0lVejBRM09wQklB?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T21:00:00+00:00",
+   "source": "Lianhe Zaobao",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "27158be41a8e451c",
+   "title": "Sukan Para Asia: Malaysia pergiat pencarian bakat baharu",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZW1hZjBpUXhsNDFvTnhIQ2RVTm5rMWZZVmJST3JIbzBmdEZjRVRabVpjaDZINWZuM09yOVhWdG9BNFRGSUhnQmh0ZzJnZGgtY0NKWFF0MlJVMnhEdjk0dUhxMURvak1pdF9hRnBLNkJ2VnR0SWd1WnRZWTFwNUdYVi14eW42ZVpETE52a0xXLVJOaXpPWm00SFR4bFR6dmVrekdfTnl3a2pTZHhCamttekc1LVdIa2MtZ2dCR2N2Qk1XTlk?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T20:03:12+00:00",
+   "source": "Gov.my (all MY agencies)",
+   "country": "MY",
+   "group": "gov",
+   "lang": "ms",
+   "severity": "other"
+  },
+  {
+   "id": "791fe8b6c6a7540e",
+   "title": "下午察",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzbzZqVk02R09aNzgxSWdkZ1NQUzhxRW9FUEZCc2xsRVJEdUtSb25lRDdmUzNFRXFCX04yZlpqRE5NNmFaVG91WjJHdzlfQlA1c0FvdENyQlo?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T19:51:22+00:00",
+   "source": "Lianhe Zaobao",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "f2f0ee1083279fb3",
+   "title": "The Singapore Startup Ecosystem",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EOUZmMEtCU3JqT1ZtaXMyeWYwaGsybFQtdHVEeldIdVhTVkQzbXFnVDNDd2ZEZnhnS3ZJdnM0bEI3N1hWR1RGVWNpV3RZYXZ5Q1VWa01mcEFxRmdMTXlTVWc3ZjY1dDdkV1hTQk5nbi1fd2ZIWXpfWVROMnFjUQ?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T19:29:47+00:00",
+   "source": "Gov.sg (all SG agencies)",
+   "country": "SG",
+   "group": "gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
    "id": "94f64476dc32aa02",
    "title": "Mr Foo Cexiang",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVJPTTFXdHg1U2lyZmdGamNvTjAxRnljek4zcUp5UjNRRWNMLWROVzY2WF94ZXJrT3A1Snl4OTNGZmFpNF9uUDd6UDhSbGhFLUwzVjZSMzQ2ZnloOXR3VTdsaDJCUlVYRGRCSkJLQXB0V3p0Y3RnWmlOMkxaLVU4QVRpSktYdER5RlZmTW5n?oc=5",
@@ -115,18 +283,6 @@
    "country": "MY",
    "group": "gov",
    "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "21a239a238695045",
-   "title": "CNA Correspondent - Can Japan stop bear attacks without culling?",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRGZvUnNQN1dRQ0xpTmw2aGlfNnBzU2V4SExYWFBHTG9adVU1dVpLWkdzcTNURzcxSi15NjVwX193cFJYR0k0Qkg5OUlkdEFYcXBQREJhNm5kREtvUER4a3YwLVNYRURrQUtFeFhRemdDQVR2WmJiY1pTdk5LdUVkUTlhSWVfcUdHRFBLV3hPVUFqWHZ4ZW96N3paS0hVdVZKc1ZjbkJaRnkwVldl?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T18:48:38+00:00",
-   "source": "CNA",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "en",
    "severity": "other"
   },
   {
@@ -154,11 +310,83 @@
    "severity": "other"
   },
   {
+   "id": "0de96abc7d3c25a7",
+   "title": "2026州选 | 星洲网 Sin Chew Daily Malaysia Latest News and Headlines",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBIMWtrdldEMm5BMzhQVXlBYmk0cXN4amE3LWdHQlVrM1ZQbWU5MEh3djZUX3NSeGd4V2pHcl9fUmZtSkZoRlE?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T18:12:42+00:00",
+   "source": "Sin Chew Daily",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "36427fe60592910a",
+   "title": "NOTIS KECEMASAN GANGGUAN BEKALAN AIR DI RANAU",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WM2JSemtKUjBxLVhNeWN4N2ZoUEVYTXFSVHVleFc1VER4cndVckJOVUU0em5MaVp2NnpycGhybHEzM1NsWGVLbWZHcFpGdw?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T17:45:57+00:00",
+   "source": "Gov.my (all MY agencies)",
+   "country": "MY",
+   "group": "gov",
+   "lang": "ms",
+   "severity": "other"
+  },
+  {
+   "id": "af7fea334f663684",
+   "title": "NOTIS KECEMASAN GANGGUAN BEKALAN AIR DI SIPITANG",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhS1ZKV21tY1FLckpya1JzN0tOQjVZNjJ2MktMdUlRYjhiOWg1WE0wZHBJV3ZVMFhMd05LNmllOGZHQ0d3WlQwNHgtLWZKNHgyTHc?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T17:45:56+00:00",
+   "source": "Gov.my (all MY agencies)",
+   "country": "MY",
+   "group": "gov",
+   "lang": "ms",
+   "severity": "other"
+  },
+  {
+   "id": "3e2dbdd8eb1f289a",
+   "title": "缪宗翰 作者的文章",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1BTEdPTUU4LUhLc1drWUFiY1RlWU4zdkNvOWU5MFpPU2hZMGNZYi1oRWJXanFOYzJyWTIxYXFQZmJvVWFLWm43bzhpYWR3YXpqWi1fTDJNR3Q?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T17:34:51+00:00",
+   "source": "Lianhe Zaobao",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
    "id": "e7e3119da1ace8a1",
    "title": "即时新闻",
    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9UVmI5alRST3JIQUgtZHhqWDlyRFJWeTUzR3ZyYjA3OHlXNTlnTG12TFhRUGF4aWU5TGQzOVktMkZlT1IwUjE2eWhB?oc=5",
    "snippet": "",
    "published": "2026-10-25T17:26:37+00:00",
+   "source": "Lianhe Zaobao",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "230ddb2e925c3608",
+   "title": "专题特稿 | 早报",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PRXN4QndrUjdZcXVxa3E5NG53Q2lldVJKdXZHOGI5YUMtbExNSWVyVXUwVmUwWHg1Y1Q0RV9qRkNwWTJicWlVOQ?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T17:26:34+00:00",
+   "source": "Lianhe Zaobao",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "1fc22400f7336bb1",
+   "title": "社论文章",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FLVZjYnJtMUt3cmFXZFRwemFVdUpnRFBEQ2s0WVpxTXVka1UzUk5ocTU0UW9PS1BGSnhHbUo3SDBvM0VZd1J0YWF5MWRKWFo5QWtN?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T17:26:33+00:00",
    "source": "Lianhe Zaobao",
    "country": "SG",
    "group": "non-gov",
@@ -178,11 +406,11 @@
    "severity": "other"
   },
   {
-   "id": "0de96abc7d3c25a7",
-   "title": "2026州选 | 星洲网 Sin Chew Daily Malaysia Latest News and Headlines",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBIMWtrdldEMm5BMzhQVXlBYmk0cXN4amE3LWdHQlVrM1ZQbWU5MEh3djZUX3NSeGd4V2pHcl9fUmZtSkZoRlE?oc=5",
+   "id": "ac7723f2c304c5ed",
+   "title": "法国羽球公开赛 | 需要更多讨论战术 荣君：不放弃挑战凤凰 - 体育 - 即时体育",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5eTdsUXE4SHhUQjhkN3RxSXFSbE80aUYyOVBGdmRwOS1QVkVGTUZSYUlkVDlsRVQyY0tXUmwyQlEyZkRwa2xBYWQ5cURGampab1l1RDZxOVF2SDh2cGlWZ2F2MzZQdw?oc=5",
    "snippet": "",
-   "published": "2026-10-25T16:59:11+00:00",
+   "published": "2026-10-25T17:01:42+00:00",
    "source": "Sin Chew Daily",
    "country": "MY",
    "group": "non-gov",
@@ -334,6 +562,18 @@
    "severity": "other"
   },
   {
+   "id": "58a60986e028a2b4",
+   "title": "Soccer-Liverpool grab home win, Man United slump to another defeat as pressure mounts on Carrick",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQko1WnJJc2tWb1NPd0pFLVozQ3dYb0tKU1lrQlVXQ3g2aGRtQ0lDcjVoVEhrcXZCdHh6QzRtWEx0Wk45Q3A3ZkV2N3R1aFFkcS0wSXIwVWRFZnlrQ2hGcURxVHVWU3pzODZzTlhPTTUzVEFNSGlzTHhJSGtfdnhrZEZndnVld1liY3o4bzFRUk5MXzBNb1VpaGtWMXA5U2Zfd0NwN3ZnSW9kV0htY2daNkdxeXk4LVNYd0pDUHU0ZmpYeHJxcHhJQUNYYm9QYVFEeU53WDN3SnRlUTZVSGZaV2ln?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T16:18:00+00:00",
+   "source": "The Star",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
    "id": "713b785fdf2519bf",
    "title": "Wei Chong-Kai Wun come up on top in all-Malaysian final at French Open",
    "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/26/wei-chong-kai-wun-come-up-on-top-in-all-malaysian-final-at-french-open",
@@ -343,6 +583,18 @@
    "country": "MY",
    "group": "non-gov",
    "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "1b45450dc844e380",
+   "title": "没血便、无家族史 她才23 确诊大肠癌",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQaHUzVFNQNkN4cnptc0hpZFVfWXVIYmNpckcwUUZLSDZLQlBzNEUzNkZ1dGJ2cnctUm90SG1HT3dNNEtGbXI4enludVBnVE5QZUd3ZkVnOFVwWkQ4YmE0T05qWHJvanpqQXU2b3RXTnY1UVo4LUJKVUxsSl9FdGxOU1cxM21vWVRDSWxiRHpGd0REVzk4ZzE3R1RtMHpDSjU2WnN1VzBEMXZMbXo2UmFkbnVOdVBIYXNfZ0VXSC12T2VsSnptYmtBbUpyYmZXT0F0dmdTd2N3cV9aT0RPRk5yc1ZhOVJxMlpCeklYRHFHZzIyOHdmLWcxQndneWVKRUI0bmtRSlVrOTZmOUE?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T16:11:10+00:00",
+   "source": "China Press",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
    "severity": "other"
   },
   {
@@ -382,6 +634,18 @@
    "severity": "other"
   },
   {
+   "id": "7363b06147cc006e",
+   "title": "Wei Chong-Kai Wun juara Terbuka Perancis | Sinar Harian",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSFJKVmt6XzgxWDBFd3dkZ1EzbFhJbGpRd3J3TF9rWnA2elZVR3lyczE3c0dhQmR4XzNlSG1xWkQ2eTBfMlJBV2ZqWUl5bFZqTnBFRTFrX2ZtVnRGUldjUS03M0xJWnVjdUVXVEYxSWlfdXNWdnJUTWZ1ZlJ2WHh5QTFxQ1NMRUtKSG5uQnhDYUpNTWpVR2ZBS0ZXb3ZFTnRx0gFcQVVfeXFMTlFybHdCUWtJZ2RXTDltdjY3aWdxZEE2TEt5U1JEdFpKRlRFWmw3T3VPRGpFbm14YjdwaXpUQWRhaWIteU9VUjZBZ2JIRURhZkVVOXF1X3pUdUx5UXo?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T16:02:00+00:00",
+   "source": "Sinar Harian",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "ms",
+   "severity": "other"
+  },
+  {
    "id": "1c0eac9716092427",
    "title": "Brazil chooses between Lula and Bolsonaro in nail-biter vote",
    "link": "https://www.freemalaysiatoday.com/category/world/2026/10/26/brazil-chooses-between-lula-and-bolsonaro-in-nail-biter-vote",
@@ -394,6 +658,30 @@
    "severity": "other"
   },
   {
+   "id": "46158b86f550eb92",
+   "title": "【甲州选举】安华劝勉希盟候选人 以政绩和服务回击诽谤 | 国内",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1UEtyZldILTdMYUNSLWp3RkoxRUo3dVRmbmFWZEVLcmxYVm9ZUWNnUEFOWFJ0MVRFSFN4MHJlMFpaeHRCdGxTeWc5RlNtVU9rVUwzZjNSUVRxbHRseWthYXNnOC1hNS1LNGxJMThNUQ?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T15:57:00+00:00",
+   "source": "Oriental Daily",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "3bc9ad55d40cbabf",
+   "title": "国阵宣布候选人马华离席抗议 公正党质疑巫统合作诚意 | 国内",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9lU0JGbUQyYWNPN3o2XzctbDd3S05rMTFjY0FmWlRmblptcUc3bHFmRUxUTXZYNVNBWFI3SDZhd2FxcEdqSURDZjQyR1BfU1ZqR3g5WFhTczVYNnlaTUlJYVZfdUQ1WGk4TEd5OUt2bw?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T15:57:00+00:00",
+   "source": "Oriental Daily",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
    "id": "f0566812a0d50603",
    "title": "Auction: BS26121N 6-Month T-bill (New)",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUnpZaU95dmhmZW0wUktkSFl3YlhPdlZJNFQ3Qm90UEFVa1BoUlVLbWpyYnRSSHBpcFdqYkV4SzZ6VnJDeEd1a0RYam9mWXZISWp4V080Zm13S3RrTHdQeXJvVHNuZFZxTGdaQkRrZHFVRy1TU0hnR3VqdEw4UDVKOTN2c1BFeDVRd2M4RnppckhKVHp3b0gyVmI1LTZrMEl3UTNCUTdPM1Fjem54OEwzbjFpaVM0ZG5mWlc0aWJrMm9OTk1w?oc=5",
@@ -403,6 +691,18 @@
    "country": "SG",
    "group": "gov",
    "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "37f9f1a2a36feffa",
+   "title": "【法国羽球公开赛】三局逆转飞汀 聪文获胜 大马收获一冠三亚 | 体育",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KenU1UGM3WWx1OXBGLTB1d2t3dHdmT0lfZ1BrVG5fTVpXM1lBb0tjejdNclp4TUJsWXV5eWoyeWhGcEJ5VGhPWTg3Wng2YmpyalA1YlpHWVFNdlhDT3ZJQTZ6TEc3ZzlRWTZBd2Vhbw?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T15:55:00+00:00",
+   "source": "Oriental Daily",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
    "severity": "other"
   },
   {
@@ -490,6 +790,18 @@
    "severity": "other"
   },
   {
+   "id": "64a6a485df294e44",
+   "title": "槟飞香港航班一周爆2运毒案 2中国男子先后落网 | 北马 | 地方",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tczFHRW9nSC1NYW0zOUtVR0hCUTdqOGpVTWhuUlRMalhWWWhUUmJsQWpNenhLMXlJOTJWZFBZUEd5dHdROUtBTzFWX0dRd2t0N05PMWVNXzh5SUlUYmZvOFV6RE1KaGlYUnU1S2tn?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T15:42:00+00:00",
+   "source": "Oriental Daily",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
    "id": "9203a15761c3c475",
    "title": "PN mulakan tindakan tatatertib ke atas BERSATU",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTlZwdEdYWWRjVDhCUmc3c0VkXzZaWUxiNjduYU1YdmFjSUV5bURQVTliYXpCdkU2Nk5RYWpORUZIRjNIdXNCWkwtVHIzUG00S21EOHQ2cWdrVVNQVW5rR0lZRjZmZUNKcjU0V3pqZW1wWGRtVlMtczJReVc4VndvMXRzWHZCeFY2Wk1yY3VzUGNzU0lwWEZHT21uNk1vY1lKb2hjc2FJUXPSAa4BQVVfeXFMTTBvMHZlamptYkV5WE1hNVVmUUdad2ZmRW5Ea2Fsci10ZXhCSFoxRkh2dl9aQ3NFcDR0WF9oVFJja1FRMW1Sc0wyNHdEb3ptdS1KVjVhQkh3UkZlSEsxbTFfZ2ZJbVlkWGxSYWlWNmhlS1JHN3pkdE56RUdVX3NKOE5SVnI4aTQ2TUM1azdBdlA0WkJ1cUVfTkl2d3FNMXJIN2JETkNITjR0bmU0ZVRn?oc=5",
@@ -511,6 +823,18 @@
    "country": "SG",
    "group": "non-gov",
    "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "10ae29a70cfe1e9c",
+   "title": "Melaka polls: Anwar tells PH candidates, election machinery to earn people's trust, repel slanders",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQV3V6ZU9MUlJuTVQ2NW9YOHhGWWJ1NlRXdUI1bHdzcktITDNEaC1hOXZuNTMtS2oyZU1zWUdZQ1ExVURnTm9lcFhLajFaMGhBelBZeGhHbGhrX3Q3a3FRX05rN293ZVRJaWl3LWFtRTBrbUFReGdidzlvdUtMX0ZXUlRQd1Z5clVYTzJDZmVvanNWY2lMZlZJczdxRHRKS1M1aEk1S1JHVEc3YzhRQmZSVzd3N2llQkQtc05OeGNxcUhGMFJ2MS1jQmZBNHE5Wmo5TFpwUVMwVEhRYXpYNm03ag?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T15:38:00+00:00",
+   "source": "The Star",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
    "severity": "other"
   },
   {
@@ -574,6 +898,18 @@
    "severity": "other"
   },
   {
+   "id": "5842e3b24e2c4c68",
+   "title": "中国新闻 | 联合早报 - 享誉新加坡与国际的新闻媒体",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1vdkljWlVVa01fZGJBd2dsQzV3N0cxaHRJME56cktMSDZtbll4Z1JYS3BDSkdOaXJSMzlwaXlxNmlHYWlnR0ZoR29KWjA?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T15:33:04+00:00",
+   "source": "Lianhe Zaobao",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
    "id": "519ce551e256e1f1",
    "title": "Seorang lagi lelaki China tiba di Hong Kong dari P Pinang ditahan bawa kokain",
    "link": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/25/seorang-lagi-lelaki-china-tiba-di-hong-kong-dari-p-pinang-ditahan-bawa-kokain",
@@ -598,12 +934,36 @@
    "severity": "other"
   },
   {
+   "id": "263496a477dd40a6",
+   "title": "Keinginan cipta perubahan dalam kehidupan insan jadi pendorong dua aktivis PAP",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVENadjZHT29BSjFkbVlMcjhQRURlVWdCdUtZTF9GYUo4R2tKWnR5Sk5oWlBIWWQ4VnhpdV8tTm5ROEVTYWJNdEdKVDVUckNoaXJFUjdaTWs3SWZQODhlZHRVUWV3b1V6SkRjQW45a3ZKd3dZc29QVDdYbEtFNXRINkROSmgxQnQydWhiblFDT2RhMHpobGtTNXIzRndPUVVMcFBhd1BlakZGSS1ZcHlV?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T15:27:03+00:00",
+   "source": "Berita Harian SG",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "ms",
+   "severity": "other"
+  },
+  {
    "id": "df68730820fc87f9",
    "title": "郑立慷谈马华不满议席分配 “巫统合作诚意让人质疑” - 马六甲 - 战情快报",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zdVZPSGR6RnRKSnNxWXB6MjROTzlxUHBXYTA5SExualU4R25zZm10Tk9ob083X21SVng3VFV2MUpTWjItUXNFWng3SURPM0pCXzdUZ21jTm5SVzNkeHB1dFpMVU1XSlVueVhqRw?oc=5",
    "snippet": "",
    "published": "2026-10-25T15:25:42+00:00",
    "source": "Sin Chew Daily",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "153b57dadc8b103b",
+   "title": "微博发文道歉 蔡康永：我没有支持过台独 | 娱乐",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBORGlJYUNvSUhWNlh2cUs5NDVRSGJMamhCVFZXazZROEtxWGZDZFlyRlBoMlVDQ1lybEN3NnZLN0JQT09RV0hXaFpvX2NZRF9iYVNRVlNfRnNoRmxaWExsbEI2XzRWTHdYQlhWdUlxU1FLS0FJOTluTA?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T15:24:00+00:00",
+   "source": "Oriental Daily",
    "country": "MY",
    "group": "non-gov",
    "lang": "zh",
@@ -694,6 +1054,18 @@
    "severity": "other"
   },
   {
+   "id": "6e6a930ba0a61b92",
+   "title": "Court order allows PN to operate as usual, says Takiyuddin",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPejRpcGZYc2NyY1oxamdFTDhEak5jUTJWQzdVbU05VHJUOWM3X2xpdkZTLWJ2NVZXSjIwYzl4bHJIQy1TZXV1TVVOTGY4Zkw1Yl9xdjhtVFRqS1pWZTBGX2xLQ0VOb2h2em55RXdQTTFNdHR6dTc2MGNOSzVTbkdnUnNxV0Q5MUJyeXlwTUJVeUFwQUo5MF9IaENkZFFoaTVuaGQzLUw4NVQ1dGc?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T15:01:00+00:00",
+   "source": "The Star",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
    "id": "a2a7ac3df5cf45f3",
    "title": "狮子之家推出陪唱卡拉OK机器人 多种科技助力乐龄生活",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SQ09uVVhrejF4OFh5SHM1cDgxU29DWjQ0UndyV081Y3V3LXNxMXZhOHdPWkVVaURZclQ3TjZvZS1kUHUxQS1QVVZvcUw5UTBlX2kyaGFiSnBYcG92OEpDWno1Q2ZIWUcySlVHQi1Odw?oc=5",
@@ -742,6 +1114,18 @@
    "severity": "fatal"
   },
   {
+   "id": "e9ca17d343dbf9e6",
+   "title": "蔡康永微博突发文 3点声明：没支持过台独",
+   "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOVVNLek1jVUxMWDRDMU9MdS1nci04cFp4TUM3WkFVOG9mVURQVHZ2R3Q2VlBXa1pSS18yeVJzR2g3ZFRPUUJ3SVdrQll1bUFoU28yOHl0dEJrVjdHRTdTYWkzRGkyY0RYVnZ1M3p1NWhZelN1SWdub1BoNUlnbFlwN01fOUpKaEV3THZwTHZfZjJBUnNPMVozTkN2SHJSM0I5R1VkSzc0QXZkRkRUSFVfOUt2bTRVckNHYXBrTlVwcmtvSHp3ZlVkWVRVQTZVS1l2NGgtY3ZvUTloREtTNkpXc0d6NlZjaWVpZHpBeGJIX2RWMFlIWkhHdlJBeDZMeEo0Qzk4UDJZbERjb1BXN29EMlI5TmdCb3lKWkhIODR4LWlraG1XYURUbnJSc1M?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T14:57:51+00:00",
+   "source": "China Press",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
    "id": "f0b0973e93b62145",
    "title": "Strike on Gaza university kills 3, says hospital staff",
    "link": "https://www.freemalaysiatoday.com/category/world/2026/10/25/strike-on-gaza-university-kills-three-staff-hospital",
@@ -755,7 +1139,7 @@
   },
   {
    "id": "16173446afd30432",
-   "title": "内长注册局上诉不影响 达基尤丁：国盟仍可正常运作",
+   "title": "内长注册局上诉不影响 达基尤丁：国盟仍可正常运作 | 国内",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAwN3l1dHNDbmZBRlhLdHMyb1hZaHdhV0pPYW5uODFQUjNOSTlFNlpuRlhEYzVDNTVkY21LbnI5NE52cGdaUExEYnh6elFUZy1hRmlKM1VzdFJFaTdEWG1IMmc4Q2RxX0N6ckJFSWlMaw?oc=5",
    "snippet": "",
    "published": "2026-10-25T14:55:00+00:00",
@@ -787,6 +1171,18 @@
    "country": "SG",
    "group": "non-gov",
    "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "87d3372748d8474d",
+   "title": "Kontinjen kecil, hasil tetap membanggakan",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWDh1NHEwNWctZ1FnM0xWb3d4V3BmVTZXS0djTVUxQUVQTUhFVVhrX0ZqelRYN3lwcmdIMkdjTEJKYUlpTzRhc0hxN0N3MHRCRXBMX2pDZUdSUHI0RkZhQW1PSWtrMlpJaWpqbG1ET2F2ZmtqVURFVkdHYjZqZXdMWXZDTHVKelZ3V3ExbWk0OUprdGl3cEdaONIBngFBVV95cUxQM3hwc3g5V2daUnlvMU8xRXd5ZHVYSG1SZHY3SF8xV0V5SVVtTGh4TFdkZjU0OGlJUTFCdXhCdHV6WjdIN3pLOGlNY01rdEVERFYzR1V0M2dUWXk3NHZzZl9UREJkd09iRzJxaDRXVXRNWVMwR0xVZ2RDUjVFbE93cE5kcUktYm1pXzhfWkVBUjRwVlN2NjVabmxyTWlrUQ?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T14:53:09+00:00",
+   "source": "Harian Metro",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "ms",
    "severity": "other"
   },
   {
@@ -874,6 +1270,30 @@
    "severity": "other"
   },
   {
+   "id": "5cce7203a6689498",
+   "title": "Tiga sekeluarga maut MPV bertembung pacuan empat roda | Sinar Harian",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUzl3T1pkTHBacVdtSVpoUm9vZUdRXzVqVlJEV1FGMXZaa2RFWlYzbk1fZ0hYTDdmckR5cnZBaXhYaDV0RDhILTY5Vm9VZ1NaSE5NVzdxYVRHV3J1Q204VTRwM29DODh1Z1lZUzhRdUpBUks3cVF6c1BfUW5wUHgzeXpKZzdpQlJPUWh5UkloM3NZc3c1UjFvcl8zZHZRb09YOUYyUDV1X1BJWnUyenZvNGgwONIBXEFVX3lxTE9OcUpEMjhJYnVGVXFxNjhOSHFOcVdIVmJSY2hZWlA3NnV2U0dVNk5xTHpvNjJKNHdaWXMwWWpVWE9ybUtYSzJaeG9ibU5NOFdWckp2akxjVUpkcVBm?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T14:39:00+00:00",
+   "source": "Sinar Harian",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "ms",
+   "severity": "fatal"
+  },
+  {
+   "id": "eff8956d197d6d49",
+   "title": "台风强风吹倒路人 司机停车暖心相助",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0pWSkhyeEdMWnFMclc3MEJPRHZBeGtnbDRoOV9scEJjS0tFOVJGaDRNenJiNWEyQXg3aDgyM3V3ZFdjVGZLUjJXUGs5MUFxX2hzUDdrejB0T1hjSHFHblBxSmRibm9qQU9veDAyWFdkYm5tNzhkQzFrZzVyZ3dwZG1kUHhlY1dt?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T14:37:33+00:00",
+   "source": "8world",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
    "id": "5d51392ed4d84a75",
    "title": "槟城再发生土崩 2轿车被泥土掩埋幸无伤亡 | 北马 | 地方",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FZ2lYMndpSEszNFNGVXBmb0R2WXdlckRnXzRXSFZZU1FjVWpvS3Nxc0NFWk0wNkI0SkVwYkdaU2ZJTURqeVhWWXZFdTJhOXBQQTl2clY3ckFmck9nWFF4YUg2cVpmWmpJY1BxWEdR?oc=5",
@@ -931,6 +1351,18 @@
    "country": "MY",
    "group": "non-gov",
    "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "552d4faafda52a0d",
+   "title": "Malaysia ketengah kerjasama serantau, pembangunan grid tenaga ASEAN di SIEW 2026",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVhxUVI0RnJUWHNrMWNJelB1ZklWS0VRSWlSeGJ6MmlsbFVFcG9HUTJDZHpQMWhQMldlaE1LSjNkOGxPRGdyT0RWY1R3dEJMTjc1Qi1PRGtvVEo4bUJLckN5R3RDLVFMWXQweVMxQ1VRU2FmWTlGZUF3clRybEtVUWtVaS1uV1l3QVRWVWJVN0x4eHU2YnBRZkZMd3lwamtDeG4tMjFmRGpzWjNwMVZuS25HaFNwdkRjZHhxM3ZsbEcwaE3SAcgBQVVfeXFMTW9uTUFXUU0zTjk2QTk2b1FuQ3owSjhtaHc2V2tzdHJnaGpvMGFTbEZoTVdqYW54cVZaSE5PM2RkcXlxNWQyOURtRXg3anVUZ0RQU1lzNF9KajFJZzJXaVdoNkpFbE1SdG1rb0I4a3JmUGs1SmRvdENmMnBnUzY2a3JFY3B1bUhVVk90djM2Sm9IRzE0a29zOHV3SkZqeFhLbDNnQzJoQzVSRUFDUmhucFB2U19fZkEycTY2aVlKQzFWbFd3TkxndHM?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T14:31:54+00:00",
+   "source": "Berita Harian",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "ms",
    "severity": "other"
   },
   {
@@ -994,6 +1426,30 @@
    "severity": "other"
   },
   {
+   "id": "d1f7da58e8d1895e",
+   "title": "行动党支部主席：不能将选民委托当理所当然 需聆听跟进和落实",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JRmxJcUV1NDI5Q0JFNTZrMFhVc0l1VWtRLWFaR0lsVm5iaXM3OVY4ZlBSQTlkc25lYVExUzVpUlVSaFd2NkV3MkVhQmhrY0xYT3pobVVubXNRNW9QU0RsOFd0WHBtbTdVSjVN?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T14:25:24+00:00",
+   "source": "8world",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "74e67f9435e64ad6",
+   "title": "Inter bangkit minit akhir tewaskan Fiorentina untuk rampas takhta Serie A",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQUtMX2xPeVcxamcwRTNiRF9rQmlUZjVaSGlRbXN4VkYxTTQzaS1rcHJDMUt6NmhPSUNGMlZDdkpjMFZVY1d2UnFuNXpkQlI1dDdsV1BUTmI3Qjg4bmZwejU2Nkt0bXdyTTEzMTcxZFhiT2ZWUFNQVnZ6R2NkZEI1MEQyS2RBemJqMDJOUDluV2VJSEx3NHcyaGRMaDg5RXU4bEJLNGp4WnE5d0JmRGRpT2J2SEsydU14UHNDczdHcC1Ca0nSAcgBQVVfeXFMTXItU3BXNjR4d0FfVzJpR0tNdHUtekhYU3JZOHdMWkVud1YzaTZwMDZBaHY4dFNFeUQ1SHJWYWZxZmlnQVByYkt5U0JFQkpQa29xS0k4ODJYZ0NpWDlWdC1INGFZdF9HeHZCeUZhLVFCUG9UMmdxdFpTSGRCVHNHOGtPMTdaaGJjOERjLWlGRlNPSGlzVHFTbE1DWTJkbkliY0V1eUcyV3U3OGE1QjVmc05TZF9iTXczMGh5Z1FPQ1RIZ1FUSjViYTM?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T14:22:48+00:00",
+   "source": "Berita Harian",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "ms",
+   "severity": "other"
+  },
+  {
    "id": "5af9c259eb2498e4",
    "title": "Kes bunuh pegawai AKPS: Ahli keluarga dijangka hadir prosiding esok",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX3dwV2hLQV91QnJCMjN4bXRvUnVLM1A3c0ZwOU1aWjRiX281YUZwTUxjV0tPTjFWVS0tZFNBS2d4YmVHMkhnRTNEcDRkaWVaVC1qSkZiZDRPZ0hoOHF1M0xRMDJzTGNXWmVhQnRlSHV2UEtramJjYVhkM0w0bGd1QkZ1Q0FPdWU2N3NseE4wODRoY19mdm9CVWhxQkU4M29Sa2xkTmZsR1JCM29EbHhVUWhMTHhQeFpEMVZIatIBwgFBVV95cUxNaEJSX1JxMGRBTGZRc09yVTk5RHBtaHpDS1ZnSnp1amh4M0otYWdXNkd2dVFwQVZUQl9CWXVqSUgxRXNNZk9BZDVoSF92WXZZNHBIUmJnM1hacmFzRjRNNU81LVk1UFlCNzlTV1B5TDBCVzBzUExvREl5RHNDTXFsbUhEZHNDc243SG5XUXFKQVludzVmeE1XRjBXbFZXTWdHcWpoSVRNcjVYLWVFZXVlNDdVajZIdGtuUTI5ZFM1VXZEZw?oc=5",
@@ -1003,6 +1459,18 @@
    "country": "MY",
    "group": "non-gov",
    "lang": "ms",
+   "severity": "other"
+  },
+  {
+   "id": "a00fe6b7972a1406",
+   "title": "马华离席抗议 甲州选候选人公布仪式 公正党领袖：巫统不尊重盟友",
+   "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPSHZSdmtOTmdaWmpQVTd2TC10Z0V4dnVuOXk1T184SW0wRGVQYnU0NGdRUHp0enc2S3hyOTRIU0c1VF9LbDJKUFh0MjBsTm9mVmg3czZyM2k3dHdRSUJjQXBHeDlxcTJKZl9VeFZDVFp3S3NPbTJzWWZHdzNUVmM2V3VoZEl2cEREc1dIWkFTY2RHLU0tX1MxM1Y5c0M0V2tNbEtNOU5GVmhQOUc1M0hCc0JudjVaVjF6VF9hX3N3Y1F3OFJYeHlvQWNvVmxQa2NvQzNmZThLYWk3c3BtalJ5SHQ1N3FqZW9XZWJ5blhaeWJoS2toeDNfTnhvczQ5WGMwUkpCcUtKanA1MjBwRjQyV3hMNHdiRTVnazBGendjMVJlODQ4NVNEell6ZzhtQzVkekotWHRsZ0ZWeVktWGlfQmdXa1BSSTRaTUlkMDFHcnNVVXhHZkU0LTBHUkg?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T14:20:25+00:00",
+   "source": "China Press",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
    "severity": "other"
   },
   {
@@ -1063,6 +1531,18 @@
    "country": "MY",
    "group": "non-gov",
    "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "ca1a7774dce2107a",
+   "title": "电动车",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10bVlBVnNwSjJIX0ZLeXM1dk9PZnFIVEVnay1XYWFzSlhQdnlPUzlmbWd0WDdpVXZHMXhFUnBVNFpkczI1WDQ1WFcyakY2OG9kcTZ5YldrMkVvS1J3?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T14:11:12+00:00",
+   "source": "Lianhe Zaobao",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
    "severity": "other"
   },
   {
@@ -1174,6 +1654,18 @@
    "severity": "other"
   },
   {
+   "id": "8433035d3b80ce55",
+   "title": "【独家】马华是否续战甲州选？ 魏家祥：近日召开会长理事会议决",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50N3pGS1I2Yzhsb0JyMmZYNmIwa2o0VFN6VC1ac00wRVBnRlZjNEd6czJ2eUNadjJ2aGdvZ1lUeUtqSWNKSXhjYUxkS1ZkRWZlU2ZwLTlucFJlOXphTGJDMnB3dUlObVJPdm9KTGxkUQ?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T14:00:00+00:00",
+   "source": "Oriental Daily",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
    "id": "804e74e779639f45",
    "title": "赛沙迪和妻子贝拉举办“人民婚宴” 超过一万人到场祝贺",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5rZXpqXzdMSy1iNjFqWmYzak13Ry1wamhSWk9yaEJnM0dyYVVwSV9FRXkzQ1EzNVFrdW5RVkF2bVZ2MnZCbFR5UlQ3RlZHMzg3S0E1YUVMc3IxV1NpalYyOUV6SnVnQUpNejllNUVqQ0NhZV9XVWF1X1FmVUludw?oc=5",
@@ -1222,6 +1714,18 @@
    "severity": "other"
   },
   {
+   "id": "fd562d169954e0df",
+   "title": "竹脚妇幼医院引进虚拟实境技术 助改善术后康复情况",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2d1k3NzFnem9sVmdpNkJRUVBCMzlkd2gwLVAydjRHSDVQaTB0dnpCWFkyRXlPV05kNzlWUU1vRGEwNFFQSmlaWUhtdTVxVGtodFU1bXNMRGFoanR4MUxYMGdXYTBMWWE4QVFEYTFaTEd2dw?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T13:50:52+00:00",
+   "source": "8world",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
    "id": "56e8e5bf19537918",
    "title": "Johnny Hates Jazz brings 1980s nostalgia to President’s Challenge Night 2026",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeTE2OWpxNmtHNGNvN2tPUWN4STlOc1BGc2dwWGozVnNwWm4xY1Vsa3ZDNGwxQnhHZ2xGZ1A3WXdwNl9jVVhfUjdBdkx4dTZBYlRVVzhNSGdzZWFTU29ld3A2aWJfU1dKUm1uTVp5ZUc5SjR0YW4tdFRBTXNGQ1hubm9wR0JBSGVPSzFKeXJDNTdKcXAwdnRtRnRaVDA4c0tKUWxWZ3B6NEhpYWZLR0o1UjB0V0c3THJ3aWJLbHJvS295MVBaY1VGTmdobHpUamM3UmVnejhoNEhXVjkwQkx6Q3ZzaU5iTUdQRGNhMw?oc=5",
@@ -1231,6 +1735,18 @@
    "country": "SG",
    "group": "non-gov",
    "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "6e39695f958dc1eb",
+   "title": "【金钟61】新台合制《列车人生》夺“生活风格节目奖”，周伟堂乐意挑战第2季！",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14dEVEeU0xLWtxYlRLb0o2eVV6NEJBakNfR2NzQk5na2hWNGZPWXdhNklxekNXMnYzaFNzSVI5UHZWZ21qX25DUzY2Um9wZmpmLUQweXk1VWtUUC01RHRIUHlTQm93eFBGT1dESWlB?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T13:49:30+00:00",
+   "source": "8world",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
    "severity": "other"
   },
   {
@@ -1282,6 +1798,18 @@
    "severity": "fatal"
   },
   {
+   "id": "8ad900c3abffd01a",
+   "title": "886 pengamal media terima manfaat Tabung Kasih@HAWANA, sumbangan lebih RM2.6 juta",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNGRoUjBBSWt5N1NobzFrRnhpQ2lNNUFfWjJEaF9aUVdKOTh3RW84ZHpZR2lxc2hNZTM5RUFrNkpRR0s2MkM2bDExVlVGTjQ0Q3RGOVlqeEV6b3dDTVZQSDVkOU9Md0NyLUdZUFJEelhiWW9HMlBsRWF3aW9pRjFqcTVmeWtGb1c1MDRYdTV5WGpVVzQycDRUQVN2RmNHdDhkSHdQNkVQUmx5SDdBdzQ0WEN2eDJTZ0hfMlZJUnl1a2JVLVA5N1E?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T13:45:28+00:00",
+   "source": "Berita Harian",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "ms",
+   "severity": "other"
+  },
+  {
    "id": "3400b7923e20e660",
    "title": "Kemalangan babitkan MPV, pikap : Tiga sekeluarga maut",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQWVxVVZDRlplZnFoaDZsVUhjbWZWbVlQZUVzdDdXeHBCWFotU3NSZ3NTV2hsb1JKWmRHN2F1S2VLY3ctYUdjRG5VR0huamdmazZaQTFPdUpOcWxvdjZMWGhtNGxic19sN19ONnNIdnBSYzdXbVl6LS1TVXVGSGJkdlRWeEhlSXJCYXpnU1hkRXlxalJRX19Rbk40MjNLbFpFZkRsTDN6UFE3Z08xZnlNOFJaNmRZSUE?oc=5",
@@ -1318,6 +1846,18 @@
    "severity": "other"
   },
   {
+   "id": "180e40ff1c2938a7",
+   "title": "'Ada hati lagi ke Bersatu dengan PN?' - Ahmad Samsuri | Sinar Harian",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMGtJYTFzNnBHZjNxemNjUzI4bk1mN3A2SThKaG1DY0F1SVcwT09jdzNmR28wMUlkcm9uMXE0WVBzMzNLRnRoRldEc2YwWmpTSmxmankzMnlsd0UzQWF4WjhQQVBKaGdZWGpsLUZyZHZZX19QZTU3WTk4YTlFVUE1OU9RY2pheXItUk8zbnM5LW9VeFR1ZEZYM3J6UjBBaHpJbmlFelpYWFBUaENIWTVhZdIBXEFVX3lxTE1GOFV2UktxNTZVU01ReXg5ZjNUMU9OVm1KdjZPcU5yYW1OMkhtMUF0dnAzeklGcjlwVXhKeGFWeEl6b2VKTDN6VzdVZmpCRVBjQnAtSGxZdjFBRDBT?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T13:43:00+00:00",
+   "source": "Sinar Harian",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "ms",
+   "severity": "other"
+  },
+  {
    "id": "5ed78cb8cbcebabc",
    "title": "近五个月练习 疗养院长者登台与社区乐团同台演出",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGaWF1ZUh4Z1pCbV9lUk1yekV0TGNxVHViVEhmeDlSVXh4ZHZKOVZXNU5LWXMxaGVEUEloV1I3d05TRE1QTF9TVll5Wnl4VVhXcFJDUFRFVTJOV1lWY0xFNjI1N0x3TGpteVFVVGs4bw?oc=5",
@@ -1339,6 +1879,18 @@
    "country": "MY",
    "group": "non-gov",
    "lang": "ms",
+   "severity": "other"
+  },
+  {
+   "id": "191ca296ba368e07",
+   "title": "Manager / Senior Manager – School Cockpit Administration Centre (SCAC)",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdVRDb3M2Q3BTUVU4MnF5bnJ2QVc5X0VNS191WDN3TFZBQkQwYk5yOUhyWExPUFNiOHFmd2RWLWdVZk1ob0QzVG5lMVB3R2M1NE1fOWNSZm94NWVMUFBZWk5mOGlXT2U2X0lmQnQ5WTdXZEowWlYwd2NnNVQ3MWxjUkhvczg2LTZMeGc?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T13:40:51+00:00",
+   "source": "Gov.sg (all SG agencies)",
+   "country": "SG",
+   "group": "gov",
+   "lang": "en",
    "severity": "other"
   },
   {
@@ -1450,6 +2002,18 @@
    "severity": "other"
   },
   {
+   "id": "8ea637664481a3b7",
+   "title": "Lelaki jatuh sungai dikhuatiri lemas, hanya selipar ditemui",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcnJpVlVtWVJ1TV92Q0duOEhtanhMVEZZVmFPRXVEMmJIQlJ2NTBxb1hxSWYzTmNFRFZHdHNiMUUxZzA0WFhXVW1sR3R2MEZ2bXFYT2F1SWtSLTV4LTVTaDBMTGJwTWRZbW9DVU50Z0I4ZmMxbVdfTmwwOVE3Z3ZMamQyWkxYZWJYVURQMjFoMkp0Q1V6QVhiOTJfQU9MS3RsZjNTaUlxVGNkWElSMzFYQlFn0gG3AUFVX3lxTE8zaERNejVpSzFETHo5eGRHN2tKMXBYUERGM3BJVHlhaVhNRmJuWnMzUEtWUDdDYVZHY1U4VG5KUkh6LVc0U0ljMm01WHVFMVB4TUhfdXFuWEFncUVwdDB0bGFUN1BXaUh0SDlTOGd4Q2NOUl9OYU5uNUdFVy11YmEtOHh5R2NCaVFUSVc2ZHBSZFBudm9XVGpBbUtIN2JveTVjSHFuMEVqUGVsZmQxZl9ZSGptcEgwSQ?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T13:28:58+00:00",
+   "source": "Berita Harian",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "ms",
+   "severity": "fatal"
+  },
+  {
    "id": "d42efc2e0c3212c9",
    "title": "Apply to Mediation by NATIONAL UNIVERSITY OF SINGAPORE",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNXFESWFwTThmb2VPaUNpRENrNjB0N1RXdjE4NGRFOWJCYVd3NlN4Z2ZqNGR6VFFzb2RiX3hMdDd4dEJId1NSNklRZGxJczg2T0djZUtENm9pckdnMFhGODlnZlFocnBqbllaS3V5bVNWMFJ4V1kyUzNDSXdRSkQ1d1NvLTVqNVpNX3gwRV83a3lPcVdfYjVN?oc=5",
@@ -1495,6 +2059,18 @@
    "country": "MY",
    "group": "non-gov",
    "lang": "ms",
+   "severity": "other"
+  },
+  {
+   "id": "ec9622aa31a4d3f5",
+   "title": "Snap Insight: PAP cadres chose cautious renewal in challenging times",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN3dyUFZSYzVvR1NpR2ttYWF4czlZUzFoZUpZWVE4eFZ0TmhzTGN3S1NuZDhtQk04SjhSUkNvbmhmdFpXbGFZVWN0amhMbURIa2hFbXNQM3p4cEZXdkFLSUVYNE0zd0U0dS1fcDZQMThrVlRxXzhDdU1KdE5OVU1SaGpseUNoSEM3eU5lMDBvV3VWLVo3YkE?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T13:21:00+00:00",
+   "source": "CNA",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "en",
    "severity": "other"
   },
   {
@@ -1654,6 +2230,18 @@
    "severity": "other"
   },
   {
+   "id": "e3b9143b7f92837d",
+   "title": "South Koreans face more kidnappings, disappearances in China, Cambodia and eight other countries",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPanRERDhmVGJKLXYzYWRicVc5Rzl4QWRKTXBJZWdvamt2ZDFrTkZ4eHlUSXZaaUNXT3FsNDl3Z1VFTnpQRkhmMWx1Z3R6M2dDNnI1Z3NWNzhlUjMyOVRURUZ5b2ZvYTBTUXNHVjNDUm5Bb1FKeXlnWXdlMGFOamdRTmxpckxfbEFONlNCckp1OGhybF9KRE1WRWZXZ0p2R3BrQWdWRTVwYmZZajdmRmRBbFdobzA4a2VrREVPS1NvcWlPcGR0dmxyeFRuSk5YN0l5TG82dWdzSWhTcU5uWkNuY3NYSdIB6AFBVV95cUxQR2pmcllGTWFQVVZuS0x2eUtET2FJR3cycFhzRDl1Z2dTVG5xTUdFdFlHZHhudWtmRnVhVXNCRmxWc0VqU29RZ2oyRC1uaDhhWXVuX3VXc1MzbGR3SWNPMmZhSzVISGVaZ092LXo2TnVkNEhoWVhCVDcxaXB5Smw5RF9uYW5zMGlPWXF1LVlBLThOeEl2RXdyaWxFYzhSRV9ua0kzbUtfVEd6M0JkbVlSdTJ3NjVmcndhb1VvSmRQSFhic2hrYlNsUW43MGJkY0YtNWw0Yk1RclAzanplSFB0TUVXX0J6bkFm?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T13:03:16+00:00",
+   "source": "Malay Mail",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
    "id": "b16951cdf2d6a790",
    "title": "央视批日剧《Vivant》抹黑中国 指将侵华日军酷刑嫁接中国人",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83X3A0Y0xaUTFINERGeTZ0Z2dIb2txMWdnMmVWMi1pWVVoUWlneFdWaTUyYlVwYm1VNnkwZGFHZTBuLTdSQXlBTjFLcVJSbXRxa3E1ZVBQQnlkWTA3eTB6bkp1NUloN2JsTVE?oc=5",
@@ -1711,6 +2299,30 @@
    "country": "SG",
    "group": "non-gov",
    "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "fee873072716a50a",
+   "title": "‘Call of Duty’ has Pyongyang invading Seoul, and it’s topping the charts",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbFRBWVlMWXBreWFxU1J2QnRBa1ZEdGM0MmJwOFRXUkJuVVpNQjBBVFFfNWxtSDBSNGl1V1ViREdKY1J3Q18zTG1MSk0wMVRIbEx5cVozMDdMZ19aNkFLbEZkOFZXTlFQSWFjUEVPZ0xYQnRaSFVoZk9KODdIWXZ1SUU1R0wzTmpsSjJjLVkwRlhFQjB3UlpiMGRRUnZkSG5lTXFiRElYQXZHUHBmekwzTjRSTGFLN0VVUm9WQ2x4WTlEU1k1X002UWpR0gHPAUFVX3lxTE5jWmphanQxUFZkT2I1Ujc3aWUwSHdqRnJib190dmxGbXlaQ1hpd0JWUkhKRjMwcXZNUU04VFpuakJhdFdVTW5yNjdMQU9IVWEwTFNsNkU5d000ZndGNUM5WjZ6b1FCcG5XTDM4S3hwaDRLb21RbU5VRmxSZndHc0FMc2RMMTM3UjFuQ1UwN2l4clBFMEdFUmlMaldCeVBVU0RpQVBxQnhEZm4xYmQ4NDVKWC1UWlFURngyQkE4eUxGZ3JhTWlhS3dMZDdDdU1kRQ?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T13:02:28+00:00",
+   "source": "Malay Mail",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "fc5aad7ce6098587",
+   "title": "Usahawan China cipta rekod tunggang motosikal atas air",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU21UT1IwX0kzUGZ5WjFRSW94SU5jWS1aRzRJdmFndllhODd4YUtJZGpKWjNTV193a25zUWVNa2s4NXRsbUZaN3VzdGwyakhaZGdOODBuMzdxdm5zYXBsQk1PQjFwVU00WFZxUlNjNmVsblQ1d2E5YUNRUGgzVGFOamM3UUdkSWxMOUczWnhjVFJ2MGVKOVF3YzQ5N1NfSEMyVVMzbkx0X0EtTGJi0gGyAUFVX3lxTE1wb25IZjlqMnFHUkNjaWxxalY3am1jSzhfcEFtb1VtSExCUW9rWmFXRl9lck1OQUx4M19oZm10RHV3bFEzbnNzeVF6VUZkZ21CNDNRNUN4SjY0Yi1GUEhRWmxrV2tHZHo5NGFOQlpubS1pNk1xY1ZVY0UwWjFoWV84OHpweHdNMlJQenRSd3V5ZTIxNmZmOXNCX1RSa045MWNzcVJESDMwaU14NjgwWWktN2c?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T13:01:12+00:00",
+   "source": "Berita Harian",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "ms",
    "severity": "other"
   },
   {
@@ -1810,6 +2422,18 @@
    "severity": "other"
   },
   {
+   "id": "ab6ceb8702cc6ab0",
+   "title": "SHARLIN NASYIROH AZMI",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMN0JwYzZicHoybzByaTZyOFVJU0VVamxSM0VWQjg4aEpQdDJpZHNPYmVyMlo3LXo5bHhJYVJ4aTh3VFpaVHlsOUMycFMzOFM5UHlEYi05RE9GeHItNWxFd21aSUNLZFk?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T12:55:00+00:00",
+   "source": "Berita Harian SG",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "ms",
+   "severity": "other"
+  },
+  {
    "id": "62fdd76bdc433d6d",
    "title": "Manager/Senior Manager, Ecosystem Partners, Standards and Systems (CEDD)",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMzRqSXVXRGMyWGhoQkJSd3NtOXNxSGlzWFE0NFBTTXQyVGI3QWQtZDVOT1FhRDJNZ2w0bzFTN0dRX1ByU3RxejRYdkpQdzNZa1VkY3JtYjBrVWRCNkViM0p6QkNkSlR0dlRRWWE3N3JwcGNpYmhsWVMwNFE3bXh5cXJlakY3Q1FCYmc?oc=5",
@@ -1854,6 +2478,18 @@
    "source": "CNA",
    "country": "SG",
    "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "268c2f252faf42d8",
+   "title": "Assistant / Manager (Performance and Rewards) - 2-yr Contract",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONHhjd0dzekhWUmgxMlR5Qkk4aGNjTF9sMGd3djBKTHdlNmdkZGtVRGlmWGxyV2FXaEZWeU9Zb1YtcWMwRUNLSTF0Y1BWMzFRLVprXzd2aGtOVUNpbmZKejIybjlkZDZNRlRweko2Qks2aGljYV81UTBsaUZPUnJjVm13LXpYcmdNeEE?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T12:52:50+00:00",
+   "source": "Gov.sg (all SG agencies)",
+   "country": "SG",
+   "group": "gov",
    "lang": "en",
    "severity": "other"
   },
@@ -2046,6 +2682,18 @@
    "source": "Bernama (state news agency)",
    "country": "MY",
    "group": "gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "a3c240b688a1b8c8",
+   "title": "Osaka says not far from best form despite retirement thoughts",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0FuOGZTMlF1Ym8tVlM3ZVZoZjJuQzJ0Z2FXV1g3WWFwQ2JJNmJLMnp3V3p0eEZ4b1RJdV9oSWFiNTFBNUpjRXZBanBvNkVjWHVWZHh1LU82NHRGYlR5OHExaU1FSWFMR1hlUldZcUdpSXh3NnIybWN3WTdKWV9OOXZFQVo5RG1VNWRqYnUzV1hjdHhZaFh3MUF4WGxKUlJJVnQ1Rg?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T12:33:39+00:00",
+   "source": "CNA",
+   "country": "SG",
+   "group": "non-gov",
    "lang": "en",
    "severity": "other"
   },
@@ -2263,6 +2911,18 @@
    "country": "SG",
    "group": "non-gov",
    "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "ee3ed9d9ce06458a",
+   "title": "Brazil Votes In Tight Presidential Run-Off",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52YVE1SXhkbktOX2ZxUlM3WFI4TXlGeTRUT1l2X09EanhWZkFZQndRdzlGR25nZjI3dE9renBfOWIwWWZ4eU92LUt4a1htYTl1aUthRFhmM1dIZHhYazV5a3Zn?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T12:11:15+00:00",
+   "source": "Bernama (state news agency)",
+   "country": "MY",
+   "group": "gov",
+   "lang": "en",
    "severity": "other"
   },
   {
@@ -2615,11 +3275,23 @@
   },
   {
    "id": "76a4a7328c0b9b17",
-   "title": "20余岁男子倒毙熟食档前 警方列猝死案",
+   "title": "20余岁男子倒毙熟食档前 警方列猝死案 | 社会",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nTzB6QVZJWnd6Rm1IeXBGSzNDTlVPQ3loREotRklaczg5OWFKOFk5WUFJd21oWllONnhvcDhtX3d5SFR6NUZQLTcwc2NtR2JIUm5RNzlwWjg3aFdRTXlId0lONDFpTE1aRHYxcFNKckI?oc=5",
    "snippet": "",
    "published": "2026-10-25T11:46:00+00:00",
    "source": "Oriental Daily",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "659419ab5dbeab71",
+   "title": "星洲人| 星洲网Sin Chew Daily Malaysia Latest News and Headlines",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zb3dsdndNRDl6YlBRU19NbE1OeTc5LVFmV0FfRjBWb3B0bnEzdlk2ZWQ5VVotWmpaUV9qdGZ3emxObG45WDQ3Q1pIRW5ITlVNWmVDZkpMbGFVcGhza2JpSVZVXzFrRnZtUUVzeVZRdHg?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T11:45:58+00:00",
+   "source": "Sin Chew Daily",
    "country": "MY",
    "group": "non-gov",
    "lang": "zh",
@@ -2671,6 +3343,42 @@
    "country": "MY",
    "group": "non-gov",
    "lang": "ms",
+   "severity": "other"
+  },
+  {
+   "id": "ce4aa7c38b3cfd68",
+   "title": "[LTA-PSGO] DEPUTY / ASSISTANT SAFETY & HEALTH MANAGER",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRWl6Tnh0Nlg4SFc3QVMxMHROX2g2OFktOTBrblo0Tk9Tc0JSNFI3NTBGSVJvWkdnVDJQYzN1TFU2NkJpV2I4TXk0dUJVRHZxWUMzejQxZHJMTjZ0VXVaczJrY0U4X3U5Q0tiTmFOYkpTbEF0NDF6bVNiTktxSnJYaHdYcHFfUG5yYnc?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T11:43:24+00:00",
+   "source": "Gov.sg (all SG agencies)",
+   "country": "SG",
+   "group": "gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "fe9ad151f93ac42b",
+   "title": "Singapore’s Shannon Tan finishes third at Hero Women’s Indian Open",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONDFfLW1TMXN6UHNQcVoyODRkeVA1eVRmVnlmak9WbnNFT0ZOSGM0Wi1ueVhUdE1vMWRLOFV0NXBXajl5QzlWRDJLXzdaRlFxQ3NqdFpqc2Jscmh6dGdfMnprY2NQWjd0dmVKSVJwd1FrZ2dVRGhtM1FkWDZhQ2V3VWpIX3VHd0U3cmVQWVZCd2tWd2hYZHY1anRFbnBBTWlRZkRrT0V3UTZUbkk?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T11:43:00+00:00",
+   "source": "CNA",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "134cd8c54ef92c43",
+   "title": "雪公主东姑扎塔莎中文交流 笑言“我很努力学中文” | 国内",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00bTNBelIzUUtxeVZyMzllMFVlbHBsbFYzYUJ6RU1KMkRmUkU5cThEUS1raXlDWjF5eV9DZkFjRktkSmh1ODNPQ182ZHFJVGRfdWF4SW5oSlNSUUthdjd1WlFDdG01QTQ4WUNBSkpXMA?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T11:42:00+00:00",
+   "source": "Oriental Daily",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
    "severity": "other"
   },
   {
@@ -2950,6 +3658,18 @@
    "severity": "fatal"
   },
   {
+   "id": "0746addc4b312f03",
+   "title": "赛沙迪 贝拉麻坡婚宴 万人涌现献祝福",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPaGxfWnVwMmJtTFZxcEtaNlBYa0lRNFY0cVFUZlRDTk5PVEh6MnNhMENEWGVKXzc0OWFLSkpxZllXNjd1eXNIR3dnZlVIaWU5aDI5YXp0WGJmTDVsa1VMTWFPeXZ3bDZZMGE5SnA3ZXV3dEphZXNxT3llN3V2VXRaYU1XM1hLVVRJSlJJMlZsN2JmWVBGM1RnR1ItWnhOcDlwYng2Mm9RTG9fSGw4bDNaMGhZLVpreERUS2VReWlzSEZPbUFaS3ZOU19aRG5GbDlHa1oxeUd4QS02VG5wU3hxdTNtTm9TUUs2RFNEaGR1RGt0RHdPdGxiaDkyWE9RRGZPSm9hVW45QmdZZE43blB0dWZrb1c?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T11:15:12+00:00",
+   "source": "China Press",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
    "id": "0b7183e9ce4405db",
    "title": "伟达：美国2026年中期选举将撬动国际格局",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10QlltYVh3RTNaNmpyODl0dWtLTGp3VmF6RnlkVU1yWFplWk53VWwtRkVZY0RGQVl1X29iaVBFZE9JMGRlU0NtUGdnYzE1TmR5NHJMaS1kWDBlTDRPSXlieTNXV0U5YkgtVUhF?oc=5",
@@ -2974,6 +3694,18 @@
    "severity": "other"
   },
   {
+   "id": "d540a07f9736d3ba",
+   "title": "[LTA-P&C] DEPUTY / ASSISTANT MANAGER, CONTRACTS (SYSTEMS & SERVICES)",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONXRrd3BoV0pkaDg0eVQ4cW80UDFWUWtXY1hTdFF6c2ZreC0wbUZzZTQ2c1Brdkp6WHM5MUJLZFRDQ3h0YjAzXzFqS0NXa0VCNHA0NC0zS3ZiWjJJdFQ4VS1KdG5qakVZaVRFWWFCY0V3S3hnSGFKQnlvM2lqbTZmUGZLSml2dVdFeWc?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T11:12:14+00:00",
+   "source": "Gov.sg (all SG agencies)",
+   "country": "SG",
+   "group": "gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
    "id": "0e8c57bc7e61dcf0",
    "title": "Johor sasar jana 5 GW tenaga solar menjelang 2029",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObjNMUkZjWDNHbE9WYy1aTnlHSDBMaVBWNkY4Q1NaTHp2bzl4b2c3TUlLUFdSbWFjYVotWnljOHhMZVJiUjh2cFJpUG9tLU9NNnA5ZE9lSUtNOVRySnVlalYxbTNuMUt0N29zNXZYWWxVWTlVVVo1RmJUV29weWFhd1RmMHFmNnp5dkU4MmFvNlhDQnNTeDAzWTl0NWtVMnN4SEhvamxDTlhENXI5eWo2bnVCNi1wVnVYdTZHSWpWZnd6RzA?oc=5",
@@ -2983,6 +3715,18 @@
    "country": "MY",
    "group": "gov",
    "lang": "ms",
+   "severity": "other"
+  },
+  {
+   "id": "a44c9d5d3df53879",
+   "title": "东海岸 | 星洲网 Sin Chew Daily Malaysia Latest News and Headlines",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xa2ItYlNZMUhVa3hDMDN3c2tRck56c3JIaVA1ZTA1UklFLXBIQzdtc2pCV1RUNDdnQ25KbkJVU29feFplZDlobg?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T11:10:45+00:00",
+   "source": "Sin Chew Daily",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
    "severity": "other"
   },
   {
@@ -3262,6 +4006,30 @@
    "severity": "other"
   },
   {
+   "id": "67711b3361aa66ec",
+   "title": "IRMA KAMARUDIN",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nMnJ5Slo2MlF1bXJmZGI0RS1sbXU1eHVka3RiZlhiRU9TX29YNDYxd002MG95bWVpZ3U2SE1uUWtQSmwtV1ZNYnp3VzlnVVBtVHlVLTB3U1Q2ZHY2M3NQTA?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T10:54:00+00:00",
+   "source": "Berita Harian SG",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "ms",
+   "severity": "other"
+  },
+  {
+   "id": "9649d16194f594a4",
+   "title": "Latest Parti Pekerja",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wV2oxcERYRU13enJRNTh3aFh5ejY2MU9iNWk1YXIyRmU5am1raHdyMk8xY3VIWXBtNkJKX0kwUkt6cHVaUHo1c2JVS0tVWVpaTFhseVVra3pUZw?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T10:54:00+00:00",
+   "source": "Berita Harian SG",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "ms",
+   "severity": "other"
+  },
+  {
    "id": "b0e7841b1cced7ab",
    "title": "Spanish police make 128 overnight arrests in Barcelona over looting",
    "link": "https://www.freemalaysiatoday.com/category/world/2026/10/25/spanish-police-make-128-overnight-arrests-in-barcelona-over-looting",
@@ -3370,6 +4138,18 @@
    "severity": "other"
   },
   {
+   "id": "a1593a63a90564d0",
+   "title": "Canadian PM Hails Importance Of UN Charter Principles On UN Day",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxMXA5OUxZOTFYd08yMGNuU1U5cXV0ZXBjS0pFMkxwc1A3OE5MWk9WaWQ3RlgtZ2RfdWowOHQxdEFMWGU5Wm1ZWWk4T2gxN0NRQ2RBN0ZCdWJIMVlleEZuSll3?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T10:45:05+00:00",
+   "source": "Bernama (state news agency)",
+   "country": "MY",
+   "group": "gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
    "id": "e22f4c2ca4403737",
    "title": "Bulgarians Go To Polls For Presidential Election",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45Sy1SN2YzbmMzTEhidkg1WURwNzZnWTN0cTBIc1NEV1RzQ05yQ0FYaVVuc2RDdEZWWUoxQnVPUmpqcDdBYktwZXQ3Skdoc001dWtLRW5oVFRQcWZELUFQZkFn?oc=5",
@@ -3399,6 +4179,18 @@
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnRnRGTXloTExHTjN3UzhFdjc2NXpEVlhWelc5dHJscmFKdmJWdFNvZG1nanc3OTREUHg3bm52N1g4NkRLSElHNC1za0t5OGtmRjJfcGhpa29Hb1VyZGdjbWtEdTE1eGJKelFr?oc=5",
    "snippet": "",
    "published": "2026-10-25T10:44:14+00:00",
+   "source": "Bernama (state news agency)",
+   "country": "MY",
+   "group": "gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "6c40ac757c5dab5e",
+   "title": "Sri Lanka To Deploy Military Units To Protect Wild Elephants",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCNklzeVhmZnp6a3BDeFg3a1c5bmQxQXhndWZVYnFrYUJXQXJtVXE4WV93dVQtZkpBWVNoTnAxNHFCam9KUGZBekFaTndFVEwwTXpiZUkyQlZqU1gyaFdqdnZR?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T10:44:03+00:00",
    "source": "Bernama (state news agency)",
    "country": "MY",
    "group": "gov",
@@ -3569,6 +4361,18 @@
    "published": "2026-10-25T10:34:22+00:00",
    "source": "Gov.sg (all SG agencies)",
    "country": "SG",
+   "group": "gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "a766e2e0db29137c",
+   "title": "BERNAMA - Malaysian National News Agency",
+   "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE50QlBuVmduTWdBdk81RU5xZFdwLVNUZThfNUZDQVp6U0ZPZ2tnY2VGclFRNFpnaEZfQVN0Tw?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T10:33:40+00:00",
+   "source": "Bernama (state news agency)",
+   "country": "MY",
    "group": "gov",
    "lang": "en",
    "severity": "other"
@@ -3803,7 +4607,7 @@
   },
   {
    "id": "2870c7b7c786135d",
-   "title": "摩哆撞上皮卡后起火 20岁男子当场死亡",
+   "title": "摩哆撞上皮卡后起火 20岁男子当场死亡 | 社会",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UU0RCLXYtcFdpYS1Oa29hNTlmNU45VnFBTE0wVEJFUXQ1WFdWT1Z5VWE2amJhbjc2MzFmQVd4YnVoOWtUNG8wUUZ5ZWpaV3ZQX24tRk1jbk9WVGtEdTNFcVA0d1dWQnQ5T3VuYXN6SkQ?oc=5",
    "snippet": "",
    "published": "2026-10-25T10:20:00+00:00",
@@ -3850,6 +4654,18 @@
    "severity": "other"
   },
   {
+   "id": "d826ff34883ed593",
+   "title": "父涉性侵未成年女 梅根与父决裂 声称“永远别想见孙”信件内容曝光 - 国际 - 即时国际",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IOGgzRWhsTHZ5czY0VUdVaU5lRENXbzMxODlBU0ttblJVSGFISXVjdVJsY1BtbUdNbXgzT1NBaEQtenVIQUhQVUQ5R1BoVktHSWdlNGpzYTQxMXRNOXpTTFBtUmp4NHVNOFBENXNBMA?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T10:14:02+00:00",
+   "source": "Sin Chew Daily",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
    "id": "7b5126ba764d0e54",
    "title": "Bersatu muktamad jumlah kerusi ditandingi PRN Melaka esok",
    "link": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/25/bersatu-muktamad-jumlah-kerusi-ditandingi-prn-melaka-esok",
@@ -3886,13 +4702,13 @@
    "severity": "other"
   },
   {
-   "id": "a44c9d5d3df53879",
-   "title": "东海岸 | 星洲网 Sin Chew Daily Malaysia Latest News and Headlines",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xa2ItYlNZMUhVa3hDMDN3c2tRck56c3JIaVA1ZTA1UklFLXBIQzdtc2pCV1RUNDdnQ25KbkJVU29feFplZDlobg?oc=5",
+   "id": "d3aa236c3e8d126a",
+   "title": "利用职权让妻子“不知情当老板” 56岁男子涉诈骗逾200万元被控",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWRyMFlpOXpvZFowdmlPSmkzV1d5NTA3SWc3dWl3Y0RCdDZCRm5GaWFRcnZxU3hkbmhTYU16cjBLWWJ1TUFTa2hEdE84SGo1d3dVSUhFanBRRmp6NTlYaEdWRTM4azJla3pXWFZNZ3o2a19GamVsamJPU0VTdnNEZ1MwWk1fVnY4S3JVOUIzNkRneEZKcGpqLQ?oc=5",
    "snippet": "",
-   "published": "2026-10-25T10:08:52+00:00",
-   "source": "Sin Chew Daily",
-   "country": "MY",
+   "published": "2026-10-25T10:10:30+00:00",
+   "source": "8world",
+   "country": "SG",
    "group": "non-gov",
    "lang": "zh",
    "severity": "other"
@@ -3935,8 +4751,20 @@
   },
   {
    "id": "035ceeb862eea6ec",
-   "title": "Trump campaigns in Michigan a day after Obama rallies Democrats",
+   "title": "Trump invokes 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNFpteVNXOVk1eXdaalYxMzJqeGVYV3pseGlzcHhyWW0yR003YVJOeG9BNXVmR2h2R2Y0R2tIaHp5WE5nQ3hoVDJISXZCSWRvZkV0TnQ5WEJtcEdRZWlVelZUSlF2b2w4REhRdGl0YUZOaHJfLWVCNUV6TjRoUlEzdE9lNnFzSTdhRmU3N05Bb3p5SE00WXBuenlCLTQ2MWM?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T10:05:00+00:00",
+   "source": "The Straits Times",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "3988f8d05ebbf382",
+   "title": "Explainer-How Ukraine's strikes on Russian energy sites deepened the rift with Trump",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQby03Y2RDMzNUMkEtWEZwMjlZVDM3YkNwSzl5UE45djQwNU9ZRXJCLXJtbW4wdGdvcnpQMkE0RFI0dTNsUjNmelFoSjE5M2kzRF80LWV4MDhjc0FZbDVQVFliUW1HMW85M1Z5TXV6QUFlVXMtQnIxcWJ5amdCOFp2bTJRcHk1aFRDTms0VU9TaTJVdXFTdnc0QVk0eHMweXhFVHd2eDA5eWNyM2loTVhIYUYtTWZ6R2lLYUQxRnR6TVFDWEE?oc=5",
    "snippet": "",
    "published": "2026-10-25T10:05:00+00:00",
    "source": "The Straits Times",
@@ -3955,18 +4783,6 @@
    "country": "MY",
    "group": "gov",
    "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "659419ab5dbeab71",
-   "title": "星洲人| 星洲网Sin Chew Daily Malaysia Latest News and Headlines",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zb3dsdndNRDl6YlBRU19NbE1OeTc5LVFmV0FfRjBWb3B0bnEzdlk2ZWQ5VVotWmpaUV9qdGZ3emxObG45WDQ3Q1pIRW5ITlVNWmVDZkpMbGFVcGhza2JpSVZVXzFrRnZtUUVzeVZRdHg?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T10:04:08+00:00",
-   "source": "Sin Chew Daily",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "zh",
    "severity": "other"
   },
   {
@@ -4066,6 +4882,30 @@
    "severity": "other"
   },
   {
+   "id": "3a4beec35ecabfe8",
+   "title": "竹脚妇幼医院引进VR技术 助妇科病人缓解术前焦虑",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXR0Qll3N3pCSFppRmxNUkI2dGtFSDVfYTRDUWNBczZ2SFJLZk9IZ3dnRGU3eHBXVzRCQkFRdG9oTXkxb0ItTzhHTkJhQUN1Z1VwZWZYRWpxcUZ3Tld4MF9sVjV3ZHMwWk1ZSFB5YUtPX1FwMkoydXRWR1dILWNTcFJ3cVJVdXhW?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T10:00:00+00:00",
+   "source": "8world",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "aa5bf9bf46ccc459",
+   "title": "BERSATU punca PN dibatalkan - Takiyuddin",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHRMb212dFRLUk9jR2haa1RvaG9hQnVlT0x5dkczOE5wTHVPeWRQSUhDZmpsdnpONlRVOE1uMVB3N2haeUp2eV9MQjBnczk4MHNsLW5mdUxfWjRFMFBRZWN0VkVWQzN5d01DZGxMNFBFUWFmVUF4Ui1Yc3VyQ1FkSWdRN25GbWJjTUE1THRGdjByWHfSAZgBQVVfeXFMT1l6a1BQWm1UcnVIVVZsdmdwb3Q4SUUxZ0hsZUIzZlpOQWc0MkM5ZmhKNWNsXzRLOGdkOUltRDB6SjB3bFJyQVpiQWtGZ2R0MkJBWmVDTTFJSjhGay1SM19MS1JhanRVWGpoSDZvekphcElBNVdoZ1VJazNseUlhT1ROaWR5VXBRRzAyRGRvRHZmZWhxWmJIMnc?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T10:00:00+00:00",
+   "source": "Harian Metro",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "ms",
+   "severity": "other"
+  },
+  {
    "id": "bf99a90546fe0fc5",
    "title": "马六甲州选｜刘华才：就算一席都没得打 民政遵从国盟议席分配",
    "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQa2xCNGk5R3JtMnVpZ08wZFdfZ2Y5TWFMVjA2a2xrMDZ6RVliSkRTOGYzUXVIci1yX0dyV3oydmpUZG9vaWNxa1lPTnYwLTJTdnRSUDBQUHBXdENNendZWm9tZlpLQ1VMcVVOVS1JcnpiVnhMRUljYmZ3dC1FeUJLN19nVFQtcFFmcjd5OHZtMFE5aVVUbFFvZHpfWEtsb2wtUV9uTi05Q3JrNTVTZ1JZeW1VNjVtc3F3dzdGdTZTYWhBNlNPUFNWX3V4LS1KU0RqYkwtV1ROOTl6X3dzUTRlY2lFMmxpdFpMV0tUVTkxcVFkYUVQM3NEdkFmR2hkanRHaldCaUJwSWFDWmdzMFNOalkyS291ZV93VklKUUlXalY2UjdFWHFfR29CRjA4UERGSDMzdWZmTzdWVi1yUjlqVHRyLS0yVC1wNnR3ZG1pYmNLWVNyZXdUQXp6SQ?oc=5",
@@ -4090,11 +4930,23 @@
    "severity": "other"
   },
   {
-   "id": "80f9b2e69ba6602f",
-   "title": "Harga elektrik S’pura tidak terjejas dalam tempoh terdekat dek pemotongan eksport gas Indonesia",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdTMteExoeWJob3V4Y2dvZXZfZTc5R1FLZFU4M2x0QVhMZ1BjYWNyQzhla1pKUFhjYXR4dUZiRjlqc2JVNW5aNGRvbTQ4Q04wdnpnZldEM3RSR2gyMi1SM21JclhMX3l4ZkF1a0lpN055RlpTVlVMdGMxdUhvb2NIOGdJNXlZYkxRLUY0U2Z5RnhKV0xFRWQzWnNCTUVIV19XZ05MMGF1amJFU2hFaVJFUzhZT2piYWlRaF9NbzBMYnl1OW1k?oc=5",
+   "id": "092b4cb7df136796",
+   "title": "巴西总统决选 传美国两高官幕后推动博索纳罗家族重新掌权",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMaGIxX3p2ZkxrdEc4bHQ2SzRqVzl6RHlTLVJXMUN4LXZJSS1QMXhXanlWQ0VrYk81SlFsblNqd1JMTUxuakNGVDd5ZmFSaWlLZFg4TGI5Mi1FTjBhWFJSZXktOU9xOUY0Q1E?oc=5",
    "snippet": "",
-   "published": "2026-10-25T09:55:27+00:00",
+   "published": "2026-10-25T09:58:07+00:00",
+   "source": "Lianhe Zaobao",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "4c17f6b7d0dabe1e",
+   "title": "Harga elektrik S’pura tidak terjejas dalam tempoh terdekat dek pemotongan eksport gas Indonesia",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ndjZQekdLSlh2VWt0ajIxY3k0Ui1lRmRjaWxFMlpkYmR5eVZ1eUdieW5uQ0p6TWxNNTRWeVFnNXY2Q1puZWFQcHNvNVJlVHV6RFBXMjh0QUdXUQ?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T09:55:00+00:00",
    "source": "Berita Harian SG",
    "country": "SG",
    "group": "non-gov",
@@ -4123,6 +4975,18 @@
    "country": "MY",
    "group": "gov",
    "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "4cafac198ac83ded",
+   "title": "Tiada piranha ditemukan dalam program mitigasi di Empangan Klau, Raub - DOF",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRGlJMmp6LXEzRVRTbzV4TFhSeHBmOEJzY1I1Slk0ZFdINkFrTTlod1ZkdEEybGoxSzlUaDlzOVpaRnd3TllHUVJqcXY2ZXhBYlYwU2xiMDFMZlFTQ09JTDFfZU5vUXNLRHNoNkE5MTVlM0ZHOWl0SEVUeWM2ako3UHJ2MWRod0lhcU94bzhWTGVPUTRFYXl4TTNqNFNJN2RaeFVFYTlFMDB4b3RHMjNFckZGYnFjUV9sOFEwWnVRNEzSAcYBQVVfeXFMTUNsc3dmeU9mNFZISk4xcS1CN1NUSjFOVWJyYjFVUUphRW0zXzBUMUNQZ25jdnZIM0RaTFRYejgtWmZualN5OGp5anI4bEVJdUNmMjJ6SmxfUk1FRUpkYTgzOVd3ZXBWeFFRNVBLMlJHN0c5V050TjVJdEQ0SFFVbmlweTFsSnRpcGliRjRLa2xPeHhNUnVHYkhoRTNLdm5rWGJqMEtvZUdnNkJSME5NSFBEb1E5ZWYwZzZvSDlWWHJoVl83RkZn?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T09:50:55+00:00",
+   "source": "Harian Metro",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "ms",
    "severity": "other"
   },
   {
@@ -4183,6 +5047,18 @@
    "country": "MY",
    "group": "non-gov",
    "lang": "ms",
+   "severity": "other"
+  },
+  {
+   "id": "3396f182c41f164f",
+   "title": "强力磁铁勿靠近iPhone镜头 或致损害光学防手震功能 - 国际 - 即时国际",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DSWZZS2NEOFR2STJORWxPN29kd0pzLUxFcnZZR2Y0N09YMUJlUHBHNTZoREZZZXhfdWJjZ2tPR19ibTI4ZTN6LXN0bXZ6MWw0TVJiS3dqS05yMm1ibm5KbUw0TVN3Vm92WHZ4TEV5RQ?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T09:48:07+00:00",
+   "source": "Sin Chew Daily",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
    "severity": "other"
   },
   {
@@ -4259,7 +5135,7 @@
   },
   {
    "id": "57b9d8f1a08a5591",
-   "title": "以色列大选前夕 数千人上街反内塔尼亚胡",
+   "title": "以色列大选前夕 数千人上街反内塔尼亚胡 | 国际",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Bb0xDWDJRWXcwdk94S2J2ZzVfSGwybEFuUVBzUDkyTDRacmtyRnIxVG9OR0JXa29MNVdBSzAxMWRlR21MWmJKTVpHV3V4c2FhLW9CcnBHUVNjS3NvSzkzNjlDLWxuemFneXBaX2NoMFVOOVRWVmppUg?oc=5",
    "snippet": "",
    "published": "2026-10-25T09:43:00+00:00",
@@ -4337,6 +5213,18 @@
    "published": "2026-10-25T09:34:44+00:00",
    "source": "8world",
    "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "5aa484f96a8f03c7",
+   "title": "柔佛放眼2030年 增5吉瓦太阳能发电容量 | 南马 | 地方",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XSWtncmo1SFZUbGtNQjg2U1RFREhxc0hQaFFmMFhDeFoxSVNWcVhkOS0wYUhqR3VEbDZqRm5ZUFJVNjZKZmVseEdXOU52VTY1LW5zTlBISXJDRFBraXdvVGFBd3VMczIyUDR2MHpn?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T09:34:00+00:00",
+   "source": "Oriental Daily",
+   "country": "MY",
    "group": "non-gov",
    "lang": "zh",
    "severity": "other"
@@ -4522,6 +5410,42 @@
    "severity": "major"
   },
   {
+   "id": "304cfe6e2f9e37e7",
+   "title": "第61届金钟奖节目类完整得奖名单",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfSXpGdzZhS2RibU1udUNRU0NaV3NHZXhCbXhVcEFKanFEeHZTZUMxX0lRMlhYUEpzOGFfSTVZS21HdEdXRUo5UFlnSFp0cmQyMzlqY0FvZXRkeTN0akIwYzNmQUlic2NTaVM3NXJDc3NoZw?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T09:18:10+00:00",
+   "source": "8world",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "177236078243f4da",
+   "title": "Kakitangan MARDI maut disengat lebah ketika ambil madu | Sinar Harian",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2Jid0lWclNSUGdmV2lLX0ZraWs3Z2UzR0psaWpxbXVBeWxLaTdiUDNOSUJKdEpMOE5RVEJFNm9vY08xemZLMFV6SnpXTmlJRFkwUWhMMzNXY1pxc2ROQlpuNkVkalpkX1lLaE9oYmpLc0QtbVJsbnhkS2lUdUdtbUc3ZktRNnBPT0tHR1VPMUpWUjhIdjdWZ0JTbzRHOFdFOEhzQ1FzVTBUUGNqdElkT0h6VVHSAVxBVV95cUxOcVBKSk5lSEkwTElYS3N3cmZuTTJfMjdQYlE4VWpoRkI3ZWZCaURUNDVTODhsNzlERERlUlVyTXE1dTNQTDFIcGQ2QzFZZFBGX1BDNzVnM3YteUY5RQ?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T09:18:00+00:00",
+   "source": "Sinar Harian",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "ms",
+   "severity": "fatal"
+  },
+  {
+   "id": "0577ef848cf9270c",
+   "title": "Tragedi balik konvoi: Penunggang motosikal rentung selepas rempuh Toyota Hilux",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVJBREdfZVRzTXFfZUcyRDdFUU1UZTF1clR4UzM5bTJFNElaZng5X2tXaXZ6OTNZY056emFOelJMMGhkb1p4SzVGYVZ4UURWUllUNGNZQnVMZUNpendiS2JXWXVGdjdKbDNBaWtSVnA5N0I2ZW5WbG8tU09RRU5EeVR6TDhjTmUzcWdPdXkxSkFYeGYtaXBkanQ0dEVjV0o4SjVoYUYxVTQ5UEZnNjU5VVFVTFIxVW15akE4aDlkWdIBxAFBVV95cUxQbXp0THhWNUVTSFV4ZmdDZjFJOWhhdmdUWWdJVVotaDVub2RKby1RNlVvTjgwN3g5RTd3cDMxU1l2NGFlZU9YTklMa1JmeWZaWFVJYVBlSjRGS1Z5TDR1WTlhbnBuUWxRUHlTQ25aNjNxYS1MOEppMGVua2J2d2MxNkhVczV4RTFFX0U0WFdjY1R3YldHUGJlZERHbUpJSFY3eURuRVV4YS1hVWJRZTRGX2pFTGk5cEpZMG9KbW4yWWNwM0xG?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T09:17:47+00:00",
+   "source": "Harian Metro",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "ms",
+   "severity": "fatal"
+  },
+  {
    "id": "830f6459d5c62ef3",
    "title": "Kesiapsiagaan pertahanan negara di Selat Melaka tumpuan Dewan Rakyat esok",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPek41SkI3UWcxWV81d3JJSVY2TC1pbXJTeDdhVEc4NkdmejBPZ0lKaHRmeWNHWHQxQjNHMUVEMFFUQk5xSUdfM0gtc2R2QWRiN1ktQnMwS2hNVFZVSkd2UDdaX1A2Um5KMU9VZTdyQ0NTRjM0OFMyWjQxcU9wcGJQVTZlR3BPenVzNTVmWmJBajdpSE1QZk1lUmt5VmRrYXprNzA0X0szc2EtYXlkNzFZdXBidHhpd1JOYTJ0RmtGRmo1NHdZY3fSAcsBQVVfeXFMTU9XQlFKSTZEN2pPV09vM19UazdlZWNOd1FzcHlwaVliRHNsWnFMaml3M3pGVVFSd0t1NUFFVkoyLWxBajlKVTdncEp3cDIyQ0VzaEcxVEhNbzNMN3ZrTmQwQVJTaDhPdGpzRTBncm9NUXNCblJIcjNaeU16Y29kOVA4MEpOTnFfcG9iZmJSMFEyWVE5d25BUWtyLUtEU18yd2RueDE4eUNmZ01NVllzWGY5V25ldkV1cG50MHAzLUdUalNZeldhUDdiWlU?oc=5",
@@ -4630,18 +5554,6 @@
    "severity": "major"
   },
   {
-   "id": "81d2577528e3eff9",
-   "title": "Kapal Malaysia bawa 1.16 tan ketamin terima bekalan di Laut Andaman",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSDg3TFFoQnBXMFRZRVJTcWpOaWV2eUs2TGRub0tJZVQ3TWJXTE4zdjNncWEwNF8xZkhrM0lHS09PZTYxV3J6LVJMZnRyUHFkVm9qWnBqUjNabHJPNXVxVjRpV2tEXzlnbWp1Rnd5YnVxdVFPM3BVSWEtQWh4Yk54WElnOFV2WFZyZlhtMG42NTNRQ181Z3V3THB2T3dSdXpGdnVFczVUQ2ZIRUtsY0cwbllMaGJBMmVIMERjNTE0cHpxSkHSAcgBQVVfeXFMTThmcDhRc0NXYXVxbk5oNDZmX3VGYUlDWDNoYWpoZGotSlBZRVh2WVIyT2pTbmVIZUtnWkFRNzlQTVFFZ0dWWGxhQzRoS1FNWmswVGRDWVpNZkp5bGxRWTI5d1JGU0xUYzY5MzZJdjJOejk3SF9mYmZLZzRIdGdPRW85b1FLZUlIUFViRWdDZGxHRE1hUVFjZjdIeW53T3lBMDhOd1FWbXFka3JyOUxfbXdybFVCLTF1LUJYN3lyYUJHZGZ3NWExb1o?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T09:05:31+00:00",
-   "source": "Berita Harian",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
    "id": "44ab2462460f6330",
    "title": "Magnitude-7.0 earthquake strike waters near Japan's Ogasawara Islands",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQenRsRjcyX0hCbXctVy0wa0xTNUxmdFl5LVVaRHFFT1RJN2NGeTRjWjNod3ZyNmswY0R2cC1aMDZnYUt4cFZRVkNiakF4dG9uQVczckdlOGxVa1BKY2V3VlFjQjRYWmU4aGxhU0VoWkxyY0JuLWdpUmFhemFrTS1DajRtTGZSekhfZGpEN3NoSFF0VGtueVFackRSY21SQmlNUXFqTTBoa0RxazR4T0ZWWnFuYkFHTjJ6bzBwRldET01rd09rcUgtTjN0OUd5Zw?oc=5",
@@ -4660,6 +5572,18 @@
    "snippet": "",
    "published": "2026-10-25T09:04:00+00:00",
    "source": "Sinar Harian",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "ms",
+   "severity": "other"
+  },
+  {
+   "id": "1b8e7bf42d45085b",
+   "title": "Kapal Malaysia bawa 1.16 tan ketamin terima bekalan di Laut Andaman",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQzY5M2pkVWNwTjJrbjBzUlJyRUx3cGRYMDBBME56NjJfbl84ZktBY1JiS3pKLU5GMDQyLUdhSExlenR5X21peWhrY1AwTC00c1BoV25vT3JIZ0R6Z0hwMmtMalB6MVE1ZXlBRE9BakxyTlZrUDl5eFBEbENwQ09FOFF6T2VFeFFLS2MtSHBDaEhSdW5wUjFBZGZoWHVUcXhoX0dfTUhjUU51aFpVV3dERk5Ka0zSAboBQVVfeXFMTlFkeThENDI4N0ZHT05aYlMtSGRWVXE2RlkzeC1DX2Q1ay10YVRDa3lKSGdmTTQ2ZDhKSTJ0Q0tQeEpsX3FJR1F3UFo3cnduWWtFZVFMSHNOMkt5bk1QNUQtSEVUTE0wWVpLUjl5a1Vzam5hOVZER0E0RDZVS1ZhcGJ1SGNhQVNEV1J1QndobFNjaGZORV9HR1YtSDBOR3dZMm5zOGZSa1BUNXV3ejdIbFdBTWd2VU92UDhn?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T09:03:23+00:00",
+   "source": "Harian Metro",
    "country": "MY",
    "group": "non-gov",
    "lang": "ms",
@@ -4762,6 +5686,18 @@
    "severity": "other"
   },
   {
+   "id": "a8906500c6d9e435",
+   "title": "柔社会主义党呈备忘录抗议霾害 印驻新领事馆拒签回执 | 南马 | 地方",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zUFhvUHpJdnlyLUlFYWFJd3p3TUp4MEd5RkFSRzUtU0xBMERfZzg3Z1RfaFotZEc4dktreHpmSGw4VzJWSHlxVjRodDgzZWtxaTVLRTZzZ1A2bGtQYjVRLS0wcFdSNDVMTERTM1Fn?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T09:00:00+00:00",
+   "source": "Oriental Daily",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
    "id": "bc6304d0b93f63df",
    "title": "科普",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1SmIteXpUTDh6bkpjSGh6TXIyNVpIazJZbktNV2NnS0s1amNTS3lvb1ZKOGFnc1NyOGdPWk5KY29jVXZYY28tV2V6LVFhT1MtYko2S2ZFVmNSNDVC?oc=5",
@@ -4781,6 +5717,18 @@
    "published": "2026-10-25T08:58:22+00:00",
    "source": "Lianhe Zaobao",
    "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "959bb069e59fac38",
+   "title": "中学校长涉“骚扰”女学生 教长指示教育局彻查",
+   "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPV09QYnB1bXBzSzBwRjZJb2l5YmMxNnFDcG5GQlRtSGJTYzkwZS1aZGdyWE9XbjdaZ0tqNXpXUWRLRXY4WnJmd3E4RF9fZUo5N195WVBrRVY3QUlIZjhzdTl1eXM0cWN4QXVIRTI2bkdjQzItYU9SQnoxNU9xWXMzbmJkNVhQQ1FvNXFCaEpCNlNkMTNfM1NuUF9XdlNYZlVnRXAtY0FRQ2luYk9fT21vb0o5aFE3NFlOaXFGaGdHMVc0aUZ0eVZqNGJmWnBFSXJ3QWZCaUxNcVBiWVlKWDlHR3JuS0xia1Y1ZTV4d1VtSndlQ2F2R3JXSU5tT2NNZVQ1TGtFRTk2ZXV5am5idjRFcnpPU1VINzNCdXhGVmQ2U0ZlOUhYYjE4aGNOZFNybjJZcG40UzJDWQ?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T08:57:55+00:00",
+   "source": "China Press",
+   "country": "MY",
    "group": "non-gov",
    "lang": "zh",
    "severity": "other"
@@ -4822,8 +5770,20 @@
    "severity": "other"
   },
   {
+   "id": "dfe067c1fbca17e6",
+   "title": "梅根父亲否认持有儿童性虐待影像 承认曾付费嫖娼",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdWN2ZWJSbUt2WDRvd1RkX2tRSzRIUnduZlUwSnhBUjc1dWZaaG9BcGdZcU1jc3F0SkVYaXNRYUYzNGNzRlRhRlk1UExyX3dwR2dFWFlQOGJhbVhsZDEwWUxsSmc4M3hIN2RNVHBDbGZfV20zeUdicVQ5dzZvYzdvMjUzRGFZRXhlTUlLXw?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T08:52:39+00:00",
+   "source": "8world",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
    "id": "188eab1c9e9d7dbe",
-   "title": "民兴党放眼大选夺26席 沙菲益：扩大沙巴在联邦话语权",
+   "title": "民兴党放眼大选夺26席 沙菲益：扩大沙巴在联邦话语权 | 国内",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzX1V0aTZxWTNzdk12R1RqQ2RpcVQ2RzExNjFacVpOeXRSX1JuSmJfYVNlQXRfYmNzeUJodkxrMzB0Z2pFSXF4UWZIVkcxNTJaOVhSQnNNWllXNXNwSjJ6RnJjSTBsT2piVkxfeGdTWQ?oc=5",
    "snippet": "",
    "published": "2026-10-25T08:52:00+00:00",
@@ -4855,6 +5815,18 @@
    "country": "SG",
    "group": "non-gov",
    "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "565d36545e4811d9",
+   "title": "MUIS to refresh Befrienders Programme to better support Zakat beneficiaries",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSTA0c3FtNGdGY0t6Zmp4R25ybGNLcEc1aDVTXzhKeGthMmZ0MERWTDB2N3lEMHY3S25zUXpMYk5RSGh4UUlySnQxREJpNXNrOVVDR3NUcDRNRTFfR0doTENEc21zUlVFRjI4S0RYalB4Nkx2WnJybTJvb3poZE1mUjI0OXEyaHhsQU9ZZWdKRjlabnU3QTNKUEZQcUs5cHp4eksySzZRbXp6TWdmeERXY3ZUV2YwRTVMbTNXTk4weHhBMlE?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T08:48:11+00:00",
+   "source": "Gov.sg (all SG agencies)",
+   "country": "SG",
+   "group": "gov",
+   "lang": "en",
    "severity": "other"
   },
   {
@@ -4930,6 +5902,18 @@
    "severity": "other"
   },
   {
+   "id": "72cb739ca3d7f225",
+   "title": "疑树倒压毁小食店屋檐 2男女被砸中受困获救 | 南马 | 地方",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZZV9wM205bXktamxVelJ5SXptcFJURE5saFV4Q0lPYVRhcFpGd0ZpQVhmVldqX2pGcUM5Wi1KQUl4OXN5cXZwc0d6X0draXJUd2IwT001b2x3M1hnT0F1QTk2alVuS3VWWXlFQVBR?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T08:41:00+00:00",
+   "source": "Oriental Daily",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "major"
+  },
+  {
    "id": "5d34f172b97c2fef",
    "title": "MBPP halts condo and road projects near fatal Paya Terubong landslide site, orders fresh environmental study",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSnFnejllOU9qTDJQci00WW9PZmRybUtwNEU3bVlZUW1KWDZLUXVxNm5pT3d0Y196QV92anZiSlBoSmptTEtNVl9Ra3Z6VjZKWm52bi1yZTlMRXFrR3VXMnR3UXVfdk1McnRlRHk0Q0pwSzF1RzNkWGlxbHpkaVJmNy0yckVmdzh3WFRpV1FhSVNRREk5bWZWVXJUdmxRZ2lVQVc0VjBuMXhFYUIxZC0tWGFxUXhiOU5kX2F3U0NWSjNlSzdIUXBRSjJvY3M2WWVGR2hhQlVUT3lqa3g2SVZodDBId3R1cmRLVm43T2o0YjdYZERaMG44WNIB_gFBVV95cUxOVDVxY3RKSHZNamJiNmE3WXJGdjdieV9jaGVtR3FsdmZVS2l1cEdRMHZ6ejc5LTlHREFSWmlFd3NTd3RJSlY2MkRlNUxjbkxPQndQSTk2OFhfM1JCcmI3b1VsRzN1RU1xaUMzc1VnWEwzM0lfTndoZnZkelRDRGh6MnZ3TEh5MHBrYjMxMTBuOWl1YTB2TU9ZQ01sT2VQbmhPVmZESFNHbGhFdzZ3UzFlYURSS21hMzBnNnAwUE8zY3FpVnZGOS1YMDBYQVZLNFhvZWZZYTBjRUU0a2h5NGFOODBrNnRaSGRIYUJEYTJsTDRjdm10UjRTblpMTWY2dw?oc=5",
@@ -4964,6 +5948,30 @@
    "group": "non-gov",
    "lang": "en",
    "severity": "other"
+  },
+  {
+   "id": "eddf96ca8bf98304",
+   "title": "Takiyuddin sahkan PN hantar surat jemputan kepada BERSATU hadiri mesyuarat malam ini",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNejBtcHZJVElBb3Vkc2dubzdwSDZsbTU1eHNZS2FncE9tQlJaRTlZLUJkeTZVTHBRRXAwUDYwREZ0VDdkZVJNZkFxaWFDVFRJc3JYXzl4bUw1MWlGNjZmQ21jSDU0YmVEQ3F6bEVyNjR2aDJaQXljLUxwaGExMm8tY2UxQU9JeVdYek5hejJzU2JRdGlqX254aXo1a21zTmhtRk5neGxJQ0g5N3ZmRnNmdFJ3YjBDOEZ2TlFKZ250cnbSAcYBQVVfeXFMUF9UN2IxWnZIblkxa1V1R09CbUd1eGh5VXlyanNtaU9FN0Iwbjkwd253bDVJZnA1ZFRJb25oaGhIT1dwc3REVTJXamJiWXQ3bFU5MVJzYjVLelpSd1VXYTFqQmRZNjNiakIwMDRaZk1FYjF5eEF0bjJDZTNmYV9fMVctN0pYTDVqYVRfMHJNcWdzMzdTM1pYVjVTRkxsX0E3X1p5Y2pNaC1CQk5nMkJSU0lMdEZ1WWdyY1I4QUhhYkFoQmFtbGh3?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T08:39:49+00:00",
+   "source": "Berita Harian",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "ms",
+   "severity": "other"
+  },
+  {
+   "id": "cf03dcfba018be4e",
+   "title": "Malaysian Rescued After Falling Into A 10-Metre-Deep Hole In Da Lat, Vietnam",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5acmx1azZULV9EZWNGeG43bDdEVHVmSHhXS3RqX3ZEV3NmemFCRlBRWk9KWTBZemJDRUlKYk5FUFdWSHZxVzhxRGZFMDVPS2lHVHRKdzk3bDh2amtucEcySHBB?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T08:39:37+00:00",
+   "source": "Bernama (state news agency)",
+   "country": "MY",
+   "group": "gov",
+   "lang": "en",
+   "severity": "major"
   },
   {
    "id": "0a794a50130cf8b0",
@@ -5095,6 +6103,18 @@
    "country": "MY",
    "group": "non-gov",
    "lang": "ms",
+   "severity": "other"
+  },
+  {
+   "id": "c16c7215abe0fe37",
+   "title": "赛沙迪贝拉麻坡办“人民宴会” 逾万民众出席献祝福浪漫溢屏",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqcndGVEljdS1uVHpfUllxLTE1T1lWVEFPd3htOUJUUGZhYmlYU2U5eEtJZU5JS1l0TU5udDRZcmRGSjhvWkZ4QTliOW5OaFl5RjJ1LVc2WFN4NXk0akhaV1B1b0JNaWZJZFlpRWp4NA?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T08:30:00+00:00",
+   "source": "Oriental Daily",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
    "severity": "other"
   },
   {
@@ -5410,6 +6430,18 @@
    "severity": "other"
   },
   {
+   "id": "0d0ff9aea2ddc238",
+   "title": "柔州分两阶段复课 周一及周二仅限应考学生返校 周三起全柔学校恢复运作 | 南马 | 地方",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqeGZaVXhOQjdEX0F2TjN2azhHY0NJQm1TQ3FDTmNDdEQyZmM2SzV2S3VEcUhhQ3ZTZG9EMEJLZXQ2ZHF2NjZObzByMU9vZDl2R1B6dE5CdGFUd0h0RzFBMzAwdXlKY0E3V2FycDN3?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T08:05:00+00:00",
+   "source": "Oriental Daily",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
    "id": "1eb5b9a3f7784e88",
    "title": "Tehran strikes Iranian Kurdish opposition base in Iraq with drones",
    "link": "https://www.freemalaysiatoday.com/category/world/2026/10/25/tehran-strikes-iranian-kurdish-base-in-iraq-with-drones-iranian-media",
@@ -5722,6 +6754,18 @@
    "severity": "major"
   },
   {
+   "id": "2b90e49c410615b2",
+   "title": "Trade Ministry puts the squeeze on uncertified squishy toys, seizes over 5,800 nationwide",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYzEzQld6VmlVTzl2cm5jc2s3UmZqdERUcldrRVlDdlVpV2V1OG8td1laYVdvSHBIY2tPSjNNRmFNbk5IWGxodHA5cEpTSE5OMmRnXzFNbTNMS1AwMERTbF9LZmN6WElnRlU0emlGbDdFLXE2M3JQcjdFaExSZTNKYW5xa3Zld09kVGJVcDlSMm0xUjdqR2VGcUY0Z1d2UnRHUmM5dV96OWE3X3N2WFA2dU01T09LV0cyaWpmR3dJUUZUWF9BVXZZR1VtQkFiNXdxRTZiNl83Tzk2dGlRcmfSAeMBQVVfeXFMT3JIRWFtaHBtMTg3Z2hvQnBaaG0tYTdreTJDNkE3OUJoaUlydEpnQTNrT25wT3NkT3RMaG9jQV9US1hSa3Uzc3N2Sk5JZmpSUnV5aEk2ZFZpQ2xNWjlHNTVDank3a2gtSEdkdHBuZUtOOFN5aE9mOUF2Ylc1MGI1Um0tWHVub1pYbEc1OG4yNGFFaDZUbUR5N0RLaF9ickVBLXROWW93UDlsV1NSZzQzdjl1QU96QTRwejhFZWxGU3IycWpsaFVJbzRPZ3BJUVVVd0ozdkhmV3UyMk9ZVjZndjkxbDg?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T07:32:14+00:00",
+   "source": "Malay Mail",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
    "id": "2090206ae9e333e2",
    "title": "Ukuran kemajuan negeri bukan dinilai pelaburan bilion ringgit - Sultan Selangor",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORjZ6S2NuWnFKVW1KMWlmdjc1WHQ1NW9Pdi11c0NQVkJCQVhsLVBLQjNqVUVGNFR2QjNqbjdWZ2toUjgwdlhrS2NMOGJZM2UtWUxSTnB2U21mWHJmdDhCelBkaFZlbENWWG0tYmJiblBfMFAxUWZORzBZNWQ5LWx5LVJVLWFyMUpOc0VKMzhITTVvS200VmZmenYyUGlXRjNXOUR3X1NVTlozNk5oU2ZMSUEyOU1LRTNGcktYYjB2anVtTk1hX2fSAcsBQVVfeXFMTmtlX185RlFwU0JnQkZTZWVKSWdOTlM1Y1ZtMC1yYUtUMU9DRFRaLTJzYVpGYWNnamhHLWlKNzJWOU9za1lyR19haThFN0FrT2ZUS200dmNKbzJPekRUOEgyZ0lFOWFjM09FQkZtci1oSHZNZEZaRFY2MkxTbVRTdnBCOWRBVU13T2dKTjd2d1pVeTFqT0dYalVXN0lkaS1pWlcwdzdJeHpEZzFySVlFcEwzck45b2V0RklsOHE2ZzFRc3JsdmJyN3p4TUU?oc=5",
@@ -5926,6 +6970,18 @@
    "severity": "other"
   },
   {
+   "id": "3cb834d2943c70c8",
+   "title": "以色列大选将至 数千人示威反对内坦亚胡",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11ZjBtc2V1MUtCV2NWM3ZMb19mLThoNVlCMDBKU2R6QllLUnhSNjBQRmpxZ3lSVzRZaFgtY19vY2Y4YUUxLVZFRm93bVJiYnJjVE0wMWFkNGdzS1lNa00wRWc3WU9OOTFDVXVsVzZzNXh6TXY0MUVpX3JTdjByQQ?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T07:14:09+00:00",
+   "source": "8world",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
    "id": "b99dfbbea4d461e2",
    "title": "Polis akan tangkap dalang bawa ketamin guna kapal dalam masa terdekat - Mohd Khalid",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRnJabGh1eHh6bFJZMDB5RE9FTElnREx1cHBSbVdNWVBqeVd3RzRoS3M3TXhxUzNlbndXNUxJeDZYdm5sZGRMSEFzSERiRkJHQ0pOOWZWSlpxZmxBSkYxU3RBVmxhbWlINXFYZl8ya1VnRkJuanQ3NFJSLVRGWUhyNjd1OHVLNW1NdnFwSWVQWjhoUG1nTGlhTDlDcHV1dW9qdVhKQVU0OVFscWtQUmduMG43MEotSDVMQ1ozUlB3emFCdnlzZmZETtIByAFBVV95cUxQRnJabGh1eHh6bFJZMDB5RE9FTElnREx1cHBSbVdNWVBqeVd3RzRoS3M3TXhxUzNlbndXNUxJeDZYdm5sZGRMSEFzSERiRkJHQ0pOOWZWSlpxZmxBSkYxU3RBVmxhbWlINXFYZl8ya1VnRkJuanQ3NFJSLVRGWUhyNjd1OHVLNW1NdnFwSWVQWjhoUG1nTGlhTDlDcHV1dW9qdVhKQVU0OVFscWtQUmduMG43MEotSDVMQ1ozUlB3emFCdnlzZmZETg?oc=5",
@@ -5951,7 +7007,7 @@
   },
   {
    "id": "225c8c5876c3ac1c",
-   "title": "中六生生活津贴明年发放 教长：每期获800令吉",
+   "title": "中六生生活津贴明年发放 教长：每期获800令吉 | 国内",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZNV9UYWZ5Z0JJOGZmdEkyeVM4MVNUejMtSmZmWlNJeXdVa1N2WlY1YXp3aUQwY3VfWklvMnA4Y25PcjJCR0tGcWhmT281eGlWZlZUUWdoQUZDUUlhVjZfMU5oTEF1aElVVlpPUkNIYw?oc=5",
    "snippet": "",
    "published": "2026-10-25T07:11:00+00:00",
@@ -6058,6 +7114,18 @@
    "severity": "other"
   },
   {
+   "id": "735fb500586fc1e7",
+   "title": "Senior Product Ops Specialist (SLA)",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RZnJsNHZ1YzhhLVgwbDJEZDVkLUNSRUppUjREdDZnajZ5ZldhNkpkOFZwYXRxTXpzeFhlOG50YmgwVndHbzNSRU1LN081dGdXZWphNHRQR19lSTRPQ25RVjJPa3o?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T06:59:55+00:00",
+   "source": "Gov.sg (all SG agencies)",
+   "country": "SG",
+   "group": "gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
    "id": "819c9557a1346ac0",
    "title": "Loke announces RM1,000 payout for Melaka taxi drivers ahead of state polls",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdUlrc1dDc2ZrQWdQVUV1N2g1YjBPNGJCd2x4b2dteDlSVDdIcU90V3ZTTjllb1pySXlYbEJsc1RmQnZDNUxuWlVjaDVDTGxCRXVKXzNpbEs5ZHR1R0E4aWpOanVTRWZETGZ1LUVoNDhIaFpSV0xwSFZaQ0FzMm5jX3I3VGRsV0syMzl4LTVOTTVYdEgxWXhkb3pMNE4xMnhVdTREMmViVWRPUHhrU19uSGEzMC0zanFBand5Y2o3UHNQempCWE9MdG5QQdIB0AFBVV95cUxOd0stX2d6X3hxeEVPQlhINVlBTzNTakxLT1hkeGZ1NHc5Nnk0ZXZ5R2Q4clg4TmtfdFdGRVBhQ0ZWbi16RTZIMUo1TlpjTW94TVZCblBXVlJwaHcxMG5zS2Q1OWlSZGZTdDh4NmtjejRnSW9jd1ZMV1lpZlZxd2hLdk1BWHdwRnNRTHlFaUVtSHFxT3Vua0FwSHlKNkE5SzR0S2RZWk14TTZwbnJmTnNqR0szaTAyYmpkdUszWV83bHk1cUpLdE5OeTRJZV9HY2Rj?oc=5",
@@ -6130,6 +7198,18 @@
    "severity": "other"
   },
   {
+   "id": "796273889d3c5f02",
+   "title": "State govt respects fair, honest reporting in building better Sabah, says state minister",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVUdxeXJSTE5oT3FyRzNRdHI0SHZhbkJzVUVDQ0ZQeEdNemRrQ3VjMW5KWE1IWmRqdmZyX0lDWXM3cUxDRUdjNmFWWTMyQ2h5UERKT0JDbEdObENCdm04MlpIRmxMbEJ2VE8tMHFzTGFDeUxPX19zcHFBTWNPci1XWExXaWh0WktSbEh2aV9uYjNtd19SeGN2b291Ym5OQXlvck01V2dxMlJveWducmdxdlJtS3hPX3VISkJyU05kc01tZkFHb01ZbUpYUEx2SzZlUXc?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T06:53:00+00:00",
+   "source": "The Star",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
    "id": "6417becfb75a9cd2",
    "title": "Bacaan PM2.5 kembali normal tetapi PSI tidak sihat di kebanyakan kawasan",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc1NnSURDMVdLMEJjeFcyc1lmeWxCSTNscWwwNElzLXR5cVludmZpTVh1S3V3M1JKQThpdmdRMjhmRGdvSnc0TC1QWHl4a1prUkszMTNuOVFUSEc1dGtkNVVFU0ZTTVZjUlZCR0t4WXlHQlZwNkRmeWRiWXVRd2ZBZ3NodlNQVEFqeWlrQ2dpTWNiV28tMjNZU2lhX01fdnBtdDhNQjM3VkZobDd4Q1cyci15WQ?oc=5",
@@ -6143,7 +7223,7 @@
   },
   {
    "id": "86762019f68e4a36",
-   "title": "Yemen's Houthis target Saudi Arabia's south as Riyadh airport due to reopen",
+   "title": "Flights resume at Riyadh airport as Houthis attack Saudi Arabia",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWFk5b3A2Vms3U2JSNzlkNncwZGZDeFQ0c1RzUk9WbXg1d1ZwV2RkMHIyOG1DRWwxbzVjS3BmSEJZcnFHOXhiZjZwTm1rNzUzcmhiTTRiZnVPUXFHdEJ4aUUyUmhLRkdBSVlDSmxJT0hsSDhuRDdKR0pvRTJ4YklHWHBrUXJkUnVMSlE?oc=5",
    "snippet": "",
    "published": "2026-10-25T06:48:00+00:00",
@@ -6166,6 +7246,18 @@
    "severity": "major"
   },
   {
+   "id": "949208e613de9caa",
+   "title": "【活动预告】《疫线人生》梁玉心教授自传分享会",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaXFCRldHeHVLdjlSMWp0X3dDY0h5WWpsSDlXdDBYWHRYZjBkRVJiRUlrRDFEQ09EdHJPMkhPUDVUQ2Fua25OMTZWWGNidkJBYzRlLUFFSEVxRWNLU3RTVGhycEJLZ1VHajBRcEM1U1poZ0M2SXN1amhqUmhCS1NXQUpuX2I5dw?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T06:46:31+00:00",
+   "source": "8world",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
    "id": "1dbb3b5090af7d0b",
    "title": "We warned Penang govt, says SAM after doctor killed in landslide",
    "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/25/we-warned-penang-govt-says-sam-after-doctor-killed-in-landslide",
@@ -6185,6 +7277,18 @@
    "published": "2026-10-25T06:44:44+00:00",
    "source": "China Press",
    "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "b5256af6fabf0e5c",
+   "title": "【活动预告】新加坡海南会馆华语讲演说明会",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LNDN6TlNZWkVKMmtvTjdQVlZHUXh0ZjJxRUg5QTFfekhlVVFDWW5ldXBYNGFaZ2U1YjE3UU9ZNTRndzlaMWdrQVptaXl2S19iOEFJR1FCWGxGQTBTQ2plUC1FMmNGa2VtRWJiUVhyeGRDcEdYMHV0VXBXemEtc28?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T06:43:08+00:00",
+   "source": "8world",
+   "country": "SG",
    "group": "non-gov",
    "lang": "zh",
    "severity": "other"
@@ -6310,6 +7414,18 @@
    "severity": "major"
   },
   {
+   "id": "84e4030159249ba7",
+   "title": "【活动预告】海韵-李云川书法展",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CYjIzODJOcUxOVjhaQmtfMkZMVC1STTBkeGZFcVVqZThCb3lCYnJha2dHeURlT1hrYjJMR0NsV01FcHpQV3RKckZKRzhkRTd0SmtxYnhFV28zTnJRbUo2b2VudW1hVVFsb0pieg?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T06:34:34+00:00",
+   "source": "8world",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
    "id": "ddb861eec4b5bee9",
    "title": "Elaun RM2,500 Tingkatan 6 dibayar untuk 3 semester",
    "link": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/25/elaun-rm2-500-tingkatan-6-dibayar-untuk-3-semester",
@@ -6403,6 +7519,18 @@
    "country": "MY",
    "group": "non-gov",
    "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "117049fcfbcacd9c",
+   "title": "奥巴马批特朗普发动不必要战争 呼吁选民中期选举求变",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT3JaYTNJUHpNM244bjJDSGUxZEJLUy1jTnhfMl9QcjBTb3NiR040WERsVTFKQTBqLXJuQkVMNTJNdmJ5NlBSdU5KWXRTTEd1N3V4Z29yekxnNkpLUVdyTm0tYVBDcE5EbTdRVDJIWmlRSFlzSGtWeTFLNmtOWDhua3UzY0ZLSTlLYmVGS1JrYk9DT0tTTy1UVkxTUnJDTTE1MjJpUW9ON28?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T06:19:46+00:00",
+   "source": "8world",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
    "severity": "other"
   },
   {
@@ -6502,6 +7630,18 @@
    "severity": "other"
   },
   {
+   "id": "f4536c50475af4f6",
+   "title": "Indonesia's gas export cuts: Is there more to the decision?",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNjJSZ3R6SmNyWmFfWERtWGxzU3ZIUFR0amd2aHJOTXF4X2dSSnBxZkFrU2MzY0NFYm5OREk3UkhXNXFEblhtdjk1emhnbVoxSFdKeUFQTXg0clBjamRIemlYSVZLZWVvbVlqTURaUHdPV0VPQ0xXWWZDZzZ0dWk3a01sZmg2ZF9OZ1lJQWtpSmd3ZVp1VTBtcQ?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T06:13:20+00:00",
+   "source": "CNA",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
    "id": "2bd9ea3265363c66",
    "title": "Sultan of Selangor: Criticisms aimed at safeguarding people’s well-being, not interfering in govt affairs",
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZ3p5ZDV2ZkpJY2hzbW1FZ2lVRnNKWVAwbzJjZ3FyTVByQ1ZLcS1wWF8wNlY3cWNuMnpnczdpWlFkeHVLakd5NXdHYkRQN1dkQ1liOFdNSFlXejNZZDByZGVHa3QzdHA4NXJxX21tTFpNZEczcXNqZkNaUVVOaEtWYndTQVBhTF90eFdwWkFITVpwc3VIdGRYREliNTQtSGVsV2J1bHNtRnNIV3F4cUpEQzdnVXhYUklzcTc5a0F2U19UWEdtZnNZTHBmb1RqRWZsdHJVUWUzQl9NazVpQmZlLXNlRHV3TE9BeVRMTUtHMFB5d9IB9wFBVV95cUxQNkV2MG9HRWk2TzFxdjBSRmxCYll1bGZLb002VzNfNVlQUjhzcGdFam9oWlNUQkczdng5QmRIeUlLZFlfUkVWZ3hoYzNVajY3UDBBVGhiNldiUjdmNTRLdW9rR3pTejBoaEFwOVFwemxvSE82WUljczlVMll1Y2RicDJHcGJnLU5mYXY1czNKYnZpdFcwUV9YamJuR3hHc0RwSTgxS0kyNlozeXd3TkRDeEprcENLeVpiaGozMk5zTGlEVHBCTVBWZFIyRHhUOVJwcjFkX3BvSTU4LTVXWm1pUWkwaTBLYVlVMV9XZkUtTmdXcjRuSnlZ?oc=5",
@@ -6523,6 +7663,30 @@
    "country": "MY",
    "group": "non-gov",
    "lang": "ms",
+   "severity": "other"
+  },
+  {
+   "id": "a291aa474222e25c",
+   "title": "Malaysian Runners Build Bonds At Jakarta Running Festival",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03bV9icEtQYnhyb29lZjZvNlhKQmNNYUs3bkZkeU1HUV9RVjlPWW4zWXFXSTJfbUZZdVRXNFUwU1hNTHVaeE5mQl9EX0YyZW5sQ0JmNE96U0xpdzVLOVQ1dHVR?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T06:09:37+00:00",
+   "source": "Bernama (state news agency)",
+   "country": "MY",
+   "group": "gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "441b807e497c73d9",
+   "title": "Cambodia Resets Economic Growth With Small Industries, Smart Agriculture",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52YmxBRzI5YXpVZUhoUjZabVFma0ZKbmd5eFdTVDZNYm5sMVNLZWdRWjNSQzk0NlR0bWRGWnlKZnR6V2h0ZTBoUmVrUWZnMi01NmJOX00teUhnRnV4ZDk0MG1B?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T06:09:07+00:00",
+   "source": "Bernama (state news agency)",
+   "country": "MY",
+   "group": "gov",
+   "lang": "en",
    "severity": "other"
   },
   {
@@ -6598,6 +7762,18 @@
    "severity": "major"
   },
   {
+   "id": "24dcc027413f6e46",
+   "title": "印尼珍稀猴宝宝困火海获救 隔天与母猴团聚",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwRzE0RjhDcjA1MU00TjA5a3dWdDZtaG95OUdBTnRSWlV1UVFuSkZOMVk0RFN5Z1FOS2JqMVFyRDJLdmRVRWFpZ2NLZXVLYVJieDFETFRvZUZZTldTc2lHSXlBMlR0UkU?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T06:01:40+00:00",
+   "source": "Lianhe Zaobao",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "major"
+  },
+  {
    "id": "1077e708a6f66b57",
    "title": "意大利示威骚乱｜这手势回敬暴徒 神父：也没必要忏悔",
    "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOdHplbHFpWE1YemR0bHQwQkIyZURfOFNUd1RQd0plWE1GYzZZUTJGbUNlTEljZkdsU24yMUtqODJUb0s0UkNYd2xRZ2txZmlZbEhWRGhaYmFTSG01X0lELU5JTWhfc2FMeUg3bHdVdU90OVQycUxuaVNLU0hWYWFiZU5SYjNRR21oQk1RdHN2Y0xaZ3Y3N0d2N1pQX3gyNWhrV2JmLXpTOWZXQ2lmVHhVTVZvZFRYeC1jdFNjU3BwMHJuc2ZwRlM5cFk4YjJPbmkxcVYzdHA5aFhJelI5eVFZMHk3LXNqXzVTZGE5eGVDM3VSSEFSa0tmejJJcXRMQktURzdLM280a2ltWEJ0V1hxcUJoVlJ6MVcwMXhWX0tTM0xXRGlydGRZaXN5cHRLV21GUVRaQkhXaFAzY2pEWWhmOTNsTlJ4MFFPUllKOVFpNWo2djBvc2hVZnRhZw?oc=5",
@@ -6634,12 +7810,36 @@
    "severity": "other"
   },
   {
+   "id": "c41d3b0c6f3f3a52",
+   "title": "Pakatan Harapan to contest Melaka state election as united team, says Fadhlina",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNW9xT0FUV3dfb2FVdVotSHhpcnRoY2ZqODNNRnZfVVVNc0VZcklib281SWhqNnBaVXlOdU9GT2dpZUc2ZXcyQm52elpXbENxV1FFLVFYenlfNENnSFpHbV84TTltZnhzV3Iwczh5ZF9MVi1KWTFhWG9PeGNOalJrYlRmb3RPYjVYS3MxbGt1RHhrcU5oNnlyeENBT1pGekZ6a1JOMVlvVDJrVWxGcTR6VEl4eG1IbExUa180NDZCdGNTSmc1YWc?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T06:00:00+00:00",
+   "source": "The Star",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
    "id": "44edebef657ba039",
    "title": "金价下跌 深圳水贝市场挤满人群",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fcV9CdDFqUTEwekFyYmV0V2o1NjBUbmc3Z0l4TjVwMFMyZFRsMXZmczFoLXo0ZUVwQ1NGclhFeGRmN1JpSXZ0a3VMWl8xNFU5eXB5dkxvZDdlVFZDWXE4SVdaaXlNWGwwRGc?oc=5",
    "snippet": "",
    "published": "2026-10-25T05:58:00+00:00",
    "source": "Lianhe Zaobao",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "82ae3d4275bf785a",
+   "title": "看球不想被打扰 男子竟用胶带将妻子绑椅子",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTHdxc2VrSi1EUVBNYzlaczU0Q1JvX2FFT01CTzJnNWtHN1VjZWNlRGZUaC1pRUJkZk1OckREZkZBdWxjdDE4bkpDXzRnY25UQ2FObkN3ZU1fcDZncHRHX0ZMOFJMVW5QdlhKeGd2bGlxY1BtR20tSEE1V3pwSFdtdm5nSFRBNEYtM09R?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T05:56:56+00:00",
+   "source": "8world",
    "country": "SG",
    "group": "non-gov",
    "lang": "zh",
@@ -6790,6 +7990,18 @@
    "severity": "other"
   },
   {
+   "id": "aa7539460c6e0d95",
+   "title": "Why EasyTranslate ?",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93dzNRNmIzZzk3VzBmQ05jOEdiUzhONldIQ2NwMXliRzM5N2FuQklGNmJiLTNHRDlYZUFkazd1dnZ0bWdncWZRY1cxSmRELXpvU3JOYXZKZWNyYkZ2RVZN?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T05:43:45+00:00",
+   "source": "Gov.sg (all SG agencies)",
+   "country": "SG",
+   "group": "gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
    "id": "05972a65b1fb2fa7",
    "title": "官媒披露辽宁舰编队“豪华版”配置 分析：远洋打击能力将出现重大变化",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CUk9tOEVVN0NhQmtzRkVMSWZrMFFDbzFWSzFwU2J6bE5wclNmZGxFeFBSbVVOYm4tOFlVZXN1dWRVX1dtZUdyMUNqNTNPbEl5SHhBZlVfbFRydGFDY256SUdlQ3BFM3lrVlE?oc=5",
@@ -6811,18 +8023,6 @@
    "country": "MY",
    "group": "non-gov",
    "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "230ddb2e925c3608",
-   "title": "专题特稿 | 早报",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PRXN4QndrUjdZcXVxa3E5NG53Q2lldVJKdXZHOGI5YUMtbExNSWVyVXUwVmUwWHg1Y1Q0RV9qRkNwWTJicWlVOQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T05:41:17+00:00",
-   "source": "Lianhe Zaobao",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
    "severity": "other"
   },
   {
@@ -7318,6 +8518,18 @@
    "severity": "other"
   },
   {
+   "id": "50b172aaaa536bed",
+   "title": "Orang Besar Istana Syed Budriz Putra Jamalullail leads six Selangor honours recipients",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaXc4VTZtTVlsQWZiUWxfYmlVcU9lTjZRRnNtcmdWd1ZOM3pJYkpaS2prYnBvUkZENXFFWXN6WWJpMFlMdjV3SFYwcF8yT3F4dzJoNk4zenUxak1MVFROS3VGelZsLVotZXZ0NDRJRUhOVllqTndmd2xUMGZ1ZldnTjJ1UE16anFLZ0x2NlZ1Qk5SZlRzWmM1NHBJQzJJZHpXV2NtM2kxakE1ZUdHM1JMTld6dUxlbGg2RDdqNGs2Tmhxd0RMbzY3V3JkbkdWeUs2b2c?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T04:47:00+00:00",
+   "source": "The Star",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
    "id": "97e55e76993ea2d8",
    "title": "Tanah runtuh: Arahan henti kerja dikeluarkan, 5 rumah disahkan tidak selamat",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZU0zVFUwZUZNcnRCT0FJajBHNy1QVzV4bEUyQ2IxTlhPVU14X2s3RHc0a0poREF5MVJFX2RJdWM2Tmp1amVFRXNHb1BxSEs0NjBJOVpDX1hKbkpJdV9fVXl3NGJXVG9lcU9NdzlEV0xhN2FKV0lqaE1renJxbGVaRnZkT1lzQ1poWlA4eTF2eVVBbWhiRm1PZmdsSjJGWVFtQU1VZHZLZ1AybnhadE1xWUJ5SEJSNngyM0RnOWljeEF1aUnSAcgBQVVfeXFMTzZTUmVCWV9DNmxyQVRkVWlMY1pKa0ZxdW04Q2djX3l6anhsS1lRdlk4bG5fTHVoZnZfTEh6R1ZzdHlTZjk1cm9VSXVNZEh2VUVoWTQ5QUdCTTh2bmFhTjlRdDk2WmRPWUxwMllORmVTdWJOVC1fU2lBMXpYclJQZmVXX3hxaU1vODZkMnBHV0N3MU91Z2hZZlB5T1FSdWw0OUxVdjJ2SWc2elVTQ1NoZlNjc2xPOF9xdFdoRFZxMEtITG1zY1o2VUc?oc=5",
@@ -7522,6 +8734,18 @@
    "severity": "other"
   },
   {
+   "id": "c93f7c6768abf153",
+   "title": "PAP votes in top decision-making body, Jeffrey Siow and Jasmin Lau nominated but not voted in",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdXI1ckxXbjBxV1dlbng3RWQ5UGtadmh2VjZ2Z3RzcVQ5anRpNndOSDdPcFdlbUtIaE4wSFo1cEViMHd2N2ZSWmtidnhDbjJlUy1yUjhpeDVpU3VzdmhKalM5X3E5bGNQdGt4eGxDSXIwTEJWNFFfSjVkbnM1SGRRaGwtdw?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T04:24:00+00:00",
+   "source": "CNA",
+   "country": "SG",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
    "id": "251040f41a65244f",
    "title": "Aibkan kehormatan wanita menerusi WhatsApp, TikToker didenda RM4,500",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDNyZ2FXdW1VVFFTMG9xckpBZGVWenVOSW5QN0c0WmwtejhoUHJudkc4NUg1N1RwSU1GbW5FSnhNeXRHOHJRTjdqOTZzVng3dDZaanFmQVViMzhBSW41eGdrUEJ4b3Y4cnhyOVJRYWYtckU4TFItXzBHOGM1d2xjMlJnYTZscTlpUjVVX3dSRWZZcnpuT01QUm84RHJfNmdpX0t0ams4NjE5YlFaSGVYZ1dHZ1RsZVc00gG-AUFVX3lxTE9WUlh5WWY0NXpEWjFvOVpwUm1tMFU1YzhFUEY4VlNzQzFFejJhVnYyZ3F2Y0NDUm5uOHJHZUV6N2Z6OXVjMDQzSXAyU29YX1I5Q3NWY2FERVFRbjNGMVoycEJFU1dqcThRUlFOeU5ROElXclpyVUxBakx5LWtrRU9Bc1JIVzBLQkQtQ2pMM1RQUlJiYjRhNXctUV9hWnRralN2eHM5TDczRDBLODlEYjZ2Mk5Ib0daU01IQ0pJb3c?oc=5",
@@ -7601,6 +8825,18 @@
    "published": "2026-10-25T04:12:16+00:00",
    "source": "Sin Chew Daily",
    "country": "MY",
+   "group": "non-gov",
+   "lang": "zh",
+   "severity": "other"
+  },
+  {
+   "id": "73098de07b37e377",
+   "title": "妻毫不知情“被当老板” 前物流经理涉用假发票六年卷走逾200万元",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWV1JnRXFNOVJicExTYU5rYmd2VTdVZG9pRDF5STZnS3BsOElFRVlISWppUW9EQU82cEVPbEJZUnhLdlVWNnJKVzFoY2lBVUdwOWlyMThrM0pRVG9ZbTBaVHNIRmMyc25tYmNMNm1MWQ?oc=5",
+   "snippet": "",
+   "published": "2026-10-25T04:10:31+00:00",
+   "source": "Lianhe Zaobao",
+   "country": "SG",
    "group": "non-gov",
    "lang": "zh",
    "severity": "other"
@@ -7911,18 +9147,6 @@
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS01KTTFkWS1uVUhTQV9mMlJwenRaVFI4R3ptZ1NDdDg0bWo1cGFRam42U2d2TVFWV0JXVS1EN0JtamhBVUR3Um1QUC1Xd1o2c0FRSlNvV2hyUjJnUVVxUmFvNEVXcHRqa3BYVUdJY2twbEExMENQSjdueGhOVDdCbFFLSklfTFNud0tBSmpULXRTTzNmRnZQNWlvSVJOTnJkaXlPUnlMc1AyMkFRcjQ4YVdJaDlyZDd6TXd3ZWJjZlZEQQ?oc=5",
    "snippet": "",
    "published": "2026-10-25T03:50:29+00:00",
-   "source": "Berita Harian SG",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "67711b3361aa66ec",
-   "title": "IRMA KAMARUDIN",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nMnJ5Slo2MlF1bXJmZGI0RS1sbXU1eHVka3RiZlhiRU9TX29YNDYxd002MG95bWVpZ3U2SE1uUWtQSmwtV1ZNYnp3VzlnVVBtVHlVLTB3U1Q2ZHY2M3NQTA?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T03:50:00+00:00",
    "source": "Berita Harian SG",
    "country": "SG",
    "group": "non-gov",
@@ -8467,1230 +9691,6 @@
    "country": "MY",
    "group": "non-gov",
    "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "10fd3d2efa85edf9",
-   "title": "Reject politics of hatred and build Malaysia together, Anwar tells Melaka",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnRmd0FRWlYzUzFBblBQUU5adEx6bjNqLU9oM0tHa1liMFY1b243TE1qemFIOUxMaGw3b1V1cExtY09IRlc4d1hIWWFRdUEwekNGdjE5eE9NOXh0Ynk0YjZfN2piaE9iSkdQbS01b0dfcVE1LW0yZXpxWFFYelQzTUR3RFVRRnNSdDVyNTFJUWU4WUhyN28tbUVXS1BCVVdOMko2YlB3TzJBdDJOTzIzbHlYUEJXN1R5N1NiNEZpRzlUNERfMUh5Yk5B0gHPAUFVX3lxTFB5YXJFLUszbDZHTGhKOEM2UUNaOVo4M0ZNTlhJbXlSYTFjeklvVUt3cjlrc3JPemswQV9EU3J2c1U4X280d01ZNms3TzNLTjQwLTVXUVhRVDlVbHFhb1dfT1pUZG50VHJuU0xJR1o1RVNDY1BnQ0JXcllqMjNHM1FteWZUUy04SU5fQlExcGxJWXA3TVVZM0RSYV90MERkLUpieXBvR0RLU2pCTG9hQnh1ckFab2I2ZXhwRlpfR0c4WmgzVkwybldlSmQtUnRoYw?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T03:12:35+00:00",
-   "source": "Malay Mail",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "7a4f1c370fe60933",
-   "title": "Alexander Skarsgard and his viral 'Wicker' transformation",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOFFJVER4S29rVEZVcEI1Q1lWY2dFLWVKVHNKWm5qMlN4STVjT2NrVklhZTk1N3JhZjdsRXZoZXpwYklGcFJDRDRDckNnWXN4a2dyM1FvTmcxRGJ6ZUhCNmQ5dGRzeXFjeE85Y2h1NFYzc2xOanI4TkxNb2Rla3cybjZ1Qi1jbFVHbHBNWUxCcEEzWEZYOUJiZlFhQUpYblFYVEZ1WDN4dnByRGFma0VGd0hNd0tkZVnSAbcBQVVfeXFMTzhRSVREeEtva1RGVXBCNUNZVmNnRS1lSlRzSlpuajJTeEk1Y09ja1ZJYWU5NTdyYWY3bEV2aGV6cGJJRnBSQ0Q0Q3JDZ1lzeGtncjNRb05nMURiemVIQjZkOXRkc3lxY3hPOWNodTRWM3NsTmpyOE5MTW9kZWt3Mm42dUItY2xVR2xwTVlMQnBBM1hGWDlCYmZRYUFKWG5RWFRGdVgzeHZwckRhZmtFRndITXdLZGVZ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T03:10:33+00:00",
-   "source": "Malay Mail",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "31c02185a8271594",
-   "title": "PM Wong: Pemerintah PAP mesti rancang masa depan, buat pilihan sukar demi S’pura",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZmtXSHgtWHJndllSeTVHZDA5TC1YX2xoZ1g1YlFNSGlYd1lhMWVWdWNPb01zeFBMNV90UjZkLU9GNkwteWZvUVdacl91Y3FWX1NzeEV5MmpxbldodU1FeEo5VjY3ZEFobnN1TWZpR0N0YVk0OGJ4dDhvVGJfcnJWc05zeHdCekIyaU1BSUs3ZjFIekNEUDZRYzVVOTcxUVE2X19ESVYzR1hySVA5eTJpY19tbjhPZw?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T03:10:32+00:00",
-   "source": "Berita Harian SG",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "c02d76089b823d1e",
-   "title": "All-Malaysian Final Guarantees Malaysia The French Open Men's Doubles Crown",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tVFJ0WFJRVE9ZTU1penlmVjdWSUpxYzAtUXY5NmNnRDZ5M1JtRlRpUWc5SEptM1FxaHk4QWdSZVNHTThUbVRyemdPZzlSZE5wdmVpZw?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T03:10:13+00:00",
-   "source": "Bernama (state news agency)",
-   "country": "MY",
-   "group": "gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "02a9cfd0fabc883c",
-   "title": "Squash: Sivasangari continues hot run to clinch Silicon Valley title",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQjhOa2dveGdmbWlvRC1EMVJPYzdKNjhNcTZ4Vmc3TFE0SzdWbWctd1ZwZ1l4WlpGMWh2bnQ4UVlleWsweG5ad1F4LU5ydVlIaU1Nc2xibUthb2Q3RTdwbXVMcElWY1RnRlNHTDRFQU04bTVlbkNLLUt6NnRsVG1uMWRKbjQteTVSX0hoSTZxZ3lDa0NuNzA0cE1ua2ljbE5aYTFfYnA2ek4zMHhjZVNtcA?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T03:10:00+00:00",
-   "source": "The Star",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "b7ca0835a2179988",
-   "title": "KPDN sita 5,801 mainan squishy bernilai RM70,428",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkY4LWt0R3IzVkFEeVV4SV8wcURvREtpZEROczlhRV82QTRMZ3ZrM1p1eWNfUGhvU2t2OTlxcWl2X1Y5STVqQmd5M2xRVG4xZHZpTF94ci0zZFpYUU52djJpc1QxODdRaV82ekVVRVFiN2M2UzJRUWFJSUhPdEtfYzRJMGdUVV9GX2NEQ0YxLTh2NUNNMUJ0MzJmVzlNdUljRVpNLWpGaTXSAa4BQVVfeXFMUFVQTEpUbnZlc2R2RGpjd0hGbWFRX2dvRi1xeXV3R0RYbk5FSUR2UTdwTDBINWJFV09uQUpCNmpLZngtSm1laExXRkc0SEhseTREMFhzQm5ETGpCOU1BdXdCOHRZWEV6VmdzUHhVcmlfX2JqR2ZWak5sblRvcmY5T2cxQmprSWpZVkpwdWJFajEyUjFqNlVzODRCY0w2bURrS3dnbWFwQ1o3Vld5LWxB?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T03:09:58+00:00",
-   "source": "Berita Harian",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "b81fdd37f900f95f",
-   "title": "Pengikut Qadiani didakwa enggan terima nas dan dalil agama Islam",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWDloNFJxRmZKbzd0M0twa3o1TlZwSUNZZVMyVF93UmU3MlhzTlE2dlJ1YkdvWkJPbmVUNjYxX2RHeEU3bmRPODVtVHRUMFh5cm5fbW5ReXdUaHBxalFYUnE4WVJ3Z2EwclRKZ3hMOU9HV0RDYWRaMU9zcWxhUEIxdHJsT3Nfd2tORWVNUlEyNnU3T0kwcUtVVEp5NmJBZzFBcWJSV2lQS2tTSm1jbE1Rdkp4ZVRZak1OVThWa1RwaGtDeGstT0lqdHlFaUNJU05YRm530gHGAUFVX3lxTE0tMlN0cUdyc3JJTGJGRVE3U0dVN1pudXJkVHdOdFYyUC1rY0swa05EeXVMUWVfMTBxd0p0cVRmNW1VNFRsemZMeEVhTEVRLVdXdHFyM0hSZFJjalo3Q21IdlRFN1FCeFNYT0ladXNpU3hrMWVjLUhQNVRLMS1HcGFqWmNCcklYVVhTY0l2YU5OeTh3cXltVHJnQUZ3SG5GQndXMHRTbWRHaUl3aXcwOUVYMlRjaFNrWEtfcWxLQmR1RXJUVldHQQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T03:08:28+00:00",
-   "source": "Berita Harian",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "38fd2be9e8f0b614",
-   "title": "Baitussalam didakwa terjejas akibat serbuan mengejut pihak berkuasa",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSW5hSkk3WTNyNnhfRk1kbS1CMHNuVENJSnNNN25HeER0eFZjejAxZV9OQXRKSkJDaXMzenhEY0N3cUtoLWJXYnB1WkFzSTcyNUVYSDFJemd1MHMzaXg1eXVCRTROU1JYN3hmbDg5V1hDSDNuQzNzemNGM3ZzUkVPNEZmLXc4clpTZUFLVHN6SnhySUY4c09hMWJGdndwSm1adHFpb19Pb2FqNmVKbDlselU3SUdTZ3c4Vk16aDFLclczazBI0gHKAUFVX3lxTFBBakFPYmh2VmV2emk0RE0xUVptbjk3UGpwbjBjOHM4Slkxb0dtd1RWa05YTno4bTJoNTVNWGc1WHhCTmFHazEtZmpjQ1dOSGlTWXBwZ3lMcnJKeU50SnRLMW5vVnFwQmtPa0FZOUZITFM1bmFRenNOZ2ZBLVB2c01IdmwtWnphTWpCOHZPTkdaVmZKUlBobG9nV0VIZ0JNMjhDVmc3c2lYV1l3N0pmbGJxMWh0N1ctaExSbS1ya0tsQlZIci1UYU9MTVE?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T03:07:51+00:00",
-   "source": "Berita Harian",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "46c02923a6911ad2",
-   "title": "Ministry seizes 5,801 squishy toys nationwide over safety compliance mark",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1BGNldvVGtNYU02c21yUjdSaG1IMnpSX29yRjJZYlZPTk9UaFg0YVZGODcxY2NlaWRfaXdiSWJwUGk3RkYxWXNpSmZwYVNNODNxQWgtZnhXMnpxV2VYWGQxOU1RbDF3d3psRDl1ZWR5WEVFQ00tX0dMLXBhZDBvcW1mMXdsRHUzdHB1dGxvWnNfTkRKek90YjhmVUJsaU9XTE1pM2FiLUtROEdUUUlYN1BqS3pFNTA2Y2Itc0RXQQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T03:07:00+00:00",
-   "source": "The Star",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "fb2b315e4cced271",
-   "title": "Israel to close all land crossings with West Bank on election day",
-   "link": "https://www.freemalaysiatoday.com/category/world/2026/10/25/israel-to-close-all-land-crossings-with-west-bank-on-election-day",
-   "snippet": "The announcement comes a day after Israeli forces pushed into the occupied West Bank city of Hebron and displaced around 2,000 residents.",
-   "published": "2026-10-25T03:06:43+00:00",
-   "source": "Free Malaysia Today",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "17b44112aa408b5e",
-   "title": "日本少女被拘18天未遭起诉 数月后离世母亲告警方",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX1hrX012VzlaNkloZnRITGh2Um9qbV94SUZSYWNkdXFHR04tbGlNZWpzUVEwWVEyQU5temI3bWhwVkUtYWJjcXo4bjNlQUNiR1c2Tmp2cC1NRDh1NFJTSElPbGROaVQ3cUVvX1lOcTE2WnBxSGp3Uk1JVGJYUWZENHA3NWNxN2dYZW52RHZGWFlHaHQ0?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T03:06:38+00:00",
-   "source": "8world",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "0c52cb11f9cfeace",
-   "title": "Gempa bumi kuat gegar Rantau Kepulauan Vanuatu",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNFh3Q0U1UkpsUHBwY1ZCa3U3S2hLX05QcHNvS3AzZllNX0NLNF93QlZxeF9aN29QSi1hR3QyY29YYXVEVHRPaXY2Nm9uZzVHNlZRckJSb1NRUVZsZWZCbFBic3NTMmJCY3ZfSVhNRnJUMFoxQmFrRHVLc1gwTjRIOWJ5YVBjTTJsdkNrSmtJMTZKMFBXejNzXzl0WHNJcVF5RWhUYVgtX3lQaFdKU1pCeS1Id0NGaE5rLTRERzRBcw?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T03:06:35+00:00",
-   "source": "Gov.my (all MY agencies)",
-   "country": "MY",
-   "group": "gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "aea2d8af32925629",
-   "title": "Presiden Kelab Sang Saka Biru menang TKO di gelanggang Muaythai | Sinar Harian",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRWNvWkhweTlmRWk0SXIzaXpmUXdISjAtVmpfY09MX0k5OVlrNmdtcVBub2ZiQWpwdWRoa3dzeWd6QzJzR2dqQmVKNmczNlVmMEh1MWpYbkxTcmpMc0dMN185ZnkyMFpBM3cway1jLVV2OXFtZlo0QVBBZXFBal9rRkw3ZWdpYllSQkFSc3FtNEZLM0wtT21DaUppUl9kekdKWkp3RENyd0U5TE1EVUM0RVROdkNZRVY0eXliSmJ5SdIBXEFVX3lxTFBqZEdXZzBocFdSNHoyQVRWUlV2RktSc2phWEJYNXBZQm53ZF83ZGJ1TEpUZ2ZESDZQWC1UWEFUVm5PeVo3ZlBQYW8xcjRmdnp2ZFMxSlIwT2ZDb0xX?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T03:05:00+00:00",
-   "source": "Sinar Harian",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "f5436bcac4b0f4de",
-   "title": "健康保健",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tMWdFeXZGYXBhVEJZZXlCZUFFQmdNTGNpNmxWWTdWb0ZIbGtMTnIzMGpVQUN0UTFZMHhpT1ZmVVFFdE5mb0xqaG5VU1Z6RUI0Z2VaTA?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T03:00:23+00:00",
-   "source": "Lianhe Zaobao",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "144fa5651207bfc5",
-   "title": "Tour company gives visually impaired people more meaningful travel experience",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVVl2TUhyN1Bvd2pKa2s2c3Z3a3c1NjZRTWJfSGI1MDh4Z3NNNk10YmhjYlUwX0xFQVJHSzBEUWgxSVV0blFJSTAyV2RNUU42U29pQ2NtZ3ItanNpc1dqTGcyRmUyZHZwWEV4NTF1a0o5eXVMSWphUTFZQXMyb2JidGdkbEFoY3VPUnlJQmVteEN2UnZvc3dNNTRJa3RxQXBnNlRuMkJpbzliQ0xxZ3ZJSnVEUzhBako3cXF4T21nUUptaWJ3N3VKdktHYkk?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T03:00:00+00:00",
-   "source": "The Star",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "e6d3104dc055c11a",
-   "title": "Banjir kilat di Taman Cantek dan Jalan Jelawat, 20 rumah terjejas",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVXppSFdFV0pMSlpGNGtmbVZISEZTRncyV1ZYZzl6eWFSRUVmTG1vc2hOa1BUc1FmdTQySEpGYkJYem0xYlBwWUh1MXFaUVNERDRyVzM2MXZYdlRvdEFpMGZIaUY5WG1ZcTc1c3dmNjJySjJkY2EyWTZaNGt6VFlvcWpIRTlZZUtES1dNQ0RaMVVubTRVUUhERDk2RWhEVF9nYVRMdGJ0Z1RrTHU5RTBqUG15WjlmczJlalRQLWhpWjHSAcYBQVVfeXFMUHdaaU5UNGJNb1ZJem9kdGdCMG9hTjlva1hGV2pkTmhJeldRc0lXeklIY0E5TVladVU4TkNuUjMzQ2ExRGxabGtySlR2VWZkYlBXbHNOTk5HVURmMzVyZ01lOXIyMzc0UkMtQUl6WXh1RTdhRm9EY2NZN0ZIX21FbDRfMEk2QkpkS2xBak9VVXBlUzdjOHdiQlFPRGxBM1NCZmY4TmRDM1JyNWV0M3gtdGFyZ1RWUXdVRlVrQjdLelZzdEJhQWVB?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:59:20+00:00",
-   "source": "Berita Harian",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "major"
-  },
-  {
-   "id": "d7bb3607bd1ffb9b",
-   "title": "Klang Valley haze clears, but Serian nears very unhealthy API",
-   "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/25/klang-valley-haze-clears-but-serian-nears-very-unhealthy-api",
-   "snippet": "Parts of Johor, Negeri Sembilan and Terengganu also continue to report unhealthy air quality.",
-   "published": "2026-10-25T02:59:00+00:00",
-   "source": "Free Malaysia Today",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "49d5f38a1648f214",
-   "title": "Branching out beyond palm oil",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaXE1RV9PY0MwZVpWU0RnQXhwVXVEUmN4ckx5U045M0l5ajZDZXpzc1g4dUNSTmZJZVVtaWZKM0ZyOXBLTEZBblA3WlJEZ0VuY3FTWlUxdmRHOWNDS3JDV25WV3FzN1g1akxMRWUzY3BhdFZhV09mMEFCRF9IREpNQTRMQ0d4bEZSRWpqS0VQZFJES1ZF?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:57:02+00:00",
-   "source": "The Star",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "f7e86e383bd33624",
-   "title": "We will do everything within our power to protect Singaporeans: PM Wong on haze",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeFBqeC0tOU8yTlEzRmV3Ti1hTFhFaVhWMWNpN3BkdVQ4YXF5LU5vc3pTSzJudEc1TFlBU1prcGZfa1lCSjdUdzlrQVlGcWdqRDNLYU54LTIwYi04U0JhNFRPaW1wNDNKeXZRdmZVWmFBMkdUMjBaRnF6NFB1ekxSeTRpQW8wQ3RaZzBvZ2NnSW9UczgyMDBQZGl2eW94RU12cnlFeEV1VnRXMk00VUktWGhsUnRvUG1QN05v?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:56:54+00:00",
-   "source": "CNA",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "edc5ce8a228cb062",
-   "title": "Malaysia condemns deadly attack on Jordan church, stands in solidarity with victims",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWnpjWTV0UDdBQTNKSl9mUTVpbFpLRHZrZ3VNTjBFaTdyNUE3MVVGS1hiSUxXN0dtbWpqSHQyU0paUmVxdkJfMXFtdW9vZktuLXl1Wkt3U2xsMlJ4cVROVXFJdmNXaTZ3aUFmS2hOdlNKWEZyZjU4STVvMjFPQ2NFRl9YbXVlUXdMYmNPUnhldnZGVzlabms4eG15Wkl2eERtcDNhQXVPWWRZWnI5RVdJRVp2Z3JZWXZpbFBYbzJWUVdGTW5TNzg3eGJwd1A4eE82SUJqdGlxa9IB3AFBVV95cUxQN3prM3ZoY0NVQTlzN0NWUXZxOG1adEZDekd5YnpYVnlhdXpuUXdQTHlVbjJ6cHJfVWU3ZWpIRW5wRF9nQTdpTC1nMEduSDRjdkRKWUVoTERjY3BrdF9SdzVMM0t6bjd4RTdROEZSRzN4a0dMNFF5UmxrMEIyTzNqTXdFZ3lxRlMtUTd4VE02Z1JVaG5rN0RDSktNQlN1RF9NZ0JaamVTS1JybFJRMGt3UFZmUC1EMVMxVWU4cENaNlpZT0ctYU1yV21LLXZkT2xwd2xBUU5kTGR6SFRE?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:55:49+00:00",
-   "source": "Malay Mail",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "f5caa6757830b901",
-   "title": "沙努西：国盟放眼下届大选接管布城 四国盟州同步州选仍未定案",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sM0xTUmFWY2t5MWZZU09ZQl9GdmNwUVN3TGJUcVBpNGt2b3djc0ZUemRxOEVHeGxtZVJyM1E5TGhMZ19QRFRSRVJMZWdHa2JGNWRVQU9YeTZNU05kUkxaRm9iYk5PVmFiUjVNcDZLUQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:55:00+00:00",
-   "source": "Oriental Daily",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "cb7f2711b5680b4c",
-   "title": "Lelaki maut tertimbus tanah runtuh: 'Bunyi itu sangat kuat kerana dekat dengan rumah' - Saksi | Sinar Harian",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTUR2Rk1kdDIzRmZ2dGZyeTBVWUwtNnZ0WHJzTVg4cFFEbUxoWm5mQXFyUXJSNnJFZ3pTb3hIUVNCcEZlOHBJcC1lcDExWjlNR3N0U0pGTFZtdG5uUGFWWDNBRjlzUFBycEVaRFEyOXFXZ3g2OGNDVVNvWDctNm43RWVzbTFOQzV4NXpKYWVHSDlVMmNDRjNnYzNQV0xnV2dwYTZwU1VxejVfejVfbnByalVDYlJEdndJT2stOEY2LWI4RHZtOW5kOTg2NnBNajlPTVJzb0pSV1VOUEl4UDRHMDV2U1bSAVxBVV95cUxQRzAtREFzenFPeGU0djROVnZic1pqVk5LNWVYemdDT0FsbVpxSm9RZmx2YnpDTFRvQ2lFNzUwT2FITmFKTDVub2wzQ3lkZDB0REtKLWRHVFp3cDRyMQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:53:00+00:00",
-   "source": "Sinar Harian",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "fatal"
-  },
-  {
-   "id": "c66a8827a61ced9d",
-   "title": "Trump announces Audi will build US$4bil factory in Georgia",
-   "link": "https://www.freemalaysiatoday.com/category/business/2026/10/25/trump-announces-audi-will-build-us-4bil-factory-in-georgia",
-   "snippet": "The president has pressured automakers to move ​production to the US, raising tariffs on autos, steel, aluminum and ​parts.",
-   "published": "2026-10-25T02:52:22+00:00",
-   "source": "Free Malaysia Today",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "78b3523356db1ad1",
-   "title": "Governing means confronting politically difficult issues, not just balancing interests: PM Wong",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcGZQM0t0Ym5KVnFmcXM2ZkpTcTlmSExldWdERUFVNTVTSzJ5MEU3U1RwbkpOdkpObjRaWHpmZGJPT2ZTQlBwSmg4ZFZHMmFtMlhUd3AzUnBNTmN2bDN4aVFDTExaRzFia2t4VXM4SjNDVXlhTnNCV3RJdjV6VnFhVVg4bWtKVTdBRmZ1Um5kRVdReUhYZkVMQWdqVWt4V0Z6LVNKVG0xWndhSzJlM1hTTg?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:51:00+00:00",
-   "source": "CNA",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "b281bcb1b63cc719",
-   "title": "马斯克指责乌克兰违反“星链”服务条款 | 国际",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wQjVyZnVzbWJRcThjb2xlWlBRcS1PcUhES3JZZEd2Zm5KaEc1Njl2NmhaRHA1R1pSOHNGV2RXVXhHVTB2UmhkbkU3aG1DX3dJbEpGZ2tGbVQ1d0twRWlrLVVzbXFfXzdBT3ZZeE1PcW40MXBubXpEVA?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:48:00+00:00",
-   "source": "Oriental Daily",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "ff75c6c81aa1a4c6",
-   "title": "Singapore expects all parties to honour commercial gas contracts, says PM Wong after Indonesia cut exports",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc2liNkpYQVNoUWRjcWxadnllcFBCZmx5QTFJUWowcDh4dEJNXzg3ZTJqVml6ZkctWHlwRlBJUUx0OHZDWjQ4dV9oZjVBeTlFSGZoRm1xZzhEYWdaZXRqTG1aMU9yODFZQU1yelRQODJsOG5FZHZUWmNQb2h1VUxKZXJscWxSVWVoSWVHcThQeE9nMVN6ZS1BbTlaS0dtQlhTNno3cXJ1blN6RDUwVzIxM3psd21NejdzUUE?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:44:00+00:00",
-   "source": "CNA",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "5ba7152a1dde6808",
-   "title": "季度营收远低于预期 中国晶片制造商寒武纪产能受限拖累增长",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55Y2JaOXgzT01ZWURfTEpHS0JXb0RCOVlEaXEzdjBQRUNQSGxWQml4ZE1Qdmxfb2JLQzQ1aXhZNjJXYk5kNkRNdEV1cGllWnIwdDdwRUQzeUlOMjlTdmtYOHRKY2paRWo2dUE?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:43:53+00:00",
-   "source": "Lianhe Zaobao",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "b4610b90656b04b8",
-   "title": "Letak calon di Sungai Udang, BN mahu buli PAS, PN, kata penyandang",
-   "link": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/25/letak-calon-di-sungai-udang-bn-mahu-buli-pas-pn-kata-penyandang",
-   "snippet": "Dr Aleef Yusof dari Wawasan seru PN tanding solo pada PRN Melaka selepas anggap tindakan BN itu satu bentuk rundingan politik tidak adil.",
-   "published": "2026-10-25T02:43:00+00:00",
-   "source": "Free Malaysia Today",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "4be9817485863435",
-   "title": "S’pore expects all parties to honour commitments, says PM Wong after Indonesia cuts gas exports",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYWtheUhHVVV5RGc5QW8zN2twblNJT1ZMZXQzc3ZvWGZ6dDlQSlQ2S3FudGw3TXczNWd5SjZLWEJnS294RjUtZ2FMd3QzSThfZGF1c3BfcHExUkhLa3V2b2d5bkZzSnJRRUo0TkpJMC1SLWFBVzFTbXdqOWNyWGxmcWdpWUxEMG5GMEo5V0hkQjZNanFQRVAyZFVrNDBsaXlhMUhXWmprNnFnTFEwMHFEako0cnBHN013YllhSldLTFJCTEtQYmNydFNoNklxUE03dzZrREMwdzM?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:42:00+00:00",
-   "source": "The Straits Times",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "339c10138def640d",
-   "title": "PRN Melaka: Ka Siong terkejut BN umum calon malam tadi, Zahid jamin pintu rundingan dengan MCA masih terbuka",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc3hlenpHOGltdDVpc2FweDJyM0g3WTQ5ZnBuRnVYMEppdW5tSWJka3dtcEJlVHRCMTNJUXlBYlY0VlNCeEhBYm00aHJSZDNHZDI2SHFQUVluUl9TSldES0FYSG1LY2pXcl9VemktV2U4eU5qWkFHTUJVcFdFUXV3Q0ZaUUhMd3hXYVFfdWpDTGZPbUhqRGk2WUdVWUQ1NDh1U0tvUmhDX0dtZzg5LWRUaWl5VzVPU28ycktISmM1YVVjYXRaY2FZWmN1Xy02endXWnZxbdIBxwFBVV95cUxPQmZHVG9NZHIydjIyb3ZueEgydzdUbGktbWpoZzFPdmpzdFJqd3Fnejltbjg4d0psdERrVXZ5MlRfeURHUjJOZ0RsWmlfVFJlOHVVQ0NOZUJjaUhnczY5WXhLMjdjNXB4R0lkQzB5bXBqVVNLelhGVkRJbFJLVE1YZnRaLVBHMmpHd1ZVbjhPTmFKdnAyc2NsaEZzM0R1WlFJTm40UV9NR3VQcV9mTjN3SWNWalpwZGE5MXB4cVVhT0xZOXJrQ29J?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:41:05+00:00",
-   "source": "Berita Harian",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "e76731f14e81f549",
-   "title": "Squash: Sangari heaps praise on Anahat after tough fight to reach final",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZURlQ1Y1UWxReWY3TmNDZnpZWm5RRC1WYlV3c056bHZmbzl4RExpM0pCTWlTZmVvb0s5VU1obS1iejNjYU1ORXdLVDlla1BQRmNkU05kTnN6RkpiYjJDMHN5QjR4X0xrTzVIdTd2MTRacUZyQWZZZ2tMX3pzSTI4VWJNM292YlJsTTQzcEV1bDZSMGFPNVlKTzBWMGMxSmFORXZnUjhyU0RTMG1PVGxlSWZxOA?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:39:49+00:00",
-   "source": "The Star",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "83c21b56943b45f7",
-   "title": "Volkswagen to axe 12,000 more jobs in Germany by 2030",
-   "link": "https://www.freemalaysiatoday.com/category/business/2026/10/25/volkswagen-to-axe-12-000-more-jobs-in-germany-by-2030",
-   "snippet": "The cuts come on top of a previously approved workforce-reduction programme that includes plans to eliminate more than 35,000 positions.",
-   "published": "2026-10-25T02:39:33+00:00",
-   "source": "Free Malaysia Today",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "06e02a1cfb3a91fe",
-   "title": "Sultan Selangor kecewa terhadap salah urus TH",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcFkzSDczS08yVDEwaW1BNWJjYnNkRlNfNXQzRVg2VW5uVWJnYU93ZVoyU0FxaTA4NGxNTnpQT3NXSGR0WGdzb3NYY1Q4UlVrNDdQTmlPQjMwdDhsN1VIdmVPQ0tOcTI1ZVY1Sm00NVM3YmtxNERRY3BFR0NWVkM5MVJ5Tjg2TjlnUHZUeVRrVk9RdGFVRHpVY1RSamzSAaIBQVVfeXFMUFA0SXljNkMtSkdGTGxoQWxabjUyLXJRSHNoaTBKYkR5LXhheEUtYVBnai1oX09Nc1dmOU9xV1FvblBTdGlmbnRIS3pGUWxHcTV6UHZjRTRsdVhETzZUUzFtaHZfNEdGMXVIVWtiTzRGV1JsVFdIQ2xjeWMxbTdTVVVMQUVNaXVPWGFTYk5VaUx6aW5tX19SLWRWWVRlcW5wRkFn?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:38:31+00:00",
-   "source": "Harian Metro",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "d1710265f5f1c9fd",
-   "title": "Lawyers dispute police findings on Cheras custodial death",
-   "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/25/lawyers-dispute-police-findings-on-cheras-custodial-death",
-   "snippet": "They say Bukit Aman is contradicting the autopsy findings despite the cause of death having been established and urge the AG to intervene.",
-   "published": "2026-10-25T02:37:12+00:00",
-   "source": "Free Malaysia Today",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "fatal"
-  },
-  {
-   "id": "1b80b085d1eca3f4",
-   "title": "Mekanik terkejut dituntut bayar tunggakan McLaren RM31,000 | Sinar Harian",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcDZKQ1BoZ05CN3VVX3ROZV80ek1nQzdQVzFfenVSY1dKMjN5cGRPTWRGZGh2OGVrbnpQbnVaSG9FbnJGNGtGb2pRNUdPUkdDTHZ6bkdQTFhMa2NJSUFTUU93Ti1kREJSVG5hNU5GZFRCdkcxeEFyWHhRcl9meEw1VjdERXRaODRMSEZoSEdvMHhXdGVyNzVpNVFIV3FtZVBtRmNOVzIyNGUtQVlGcld30gFcQVVfeXFMUGNmcXJNMnl2bmhkXzk2dlh6UTQ1bWxNNDh3dFNEU1JUNFFoWGhHN3M5V2dDY0gtUWtOMEpPSi1HVGxTVFgxeTdtTUowOFUydGtVUkpsVlNvYVVpUWc?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:37:00+00:00",
-   "source": "Sinar Harian",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "7578c18f2270650d",
-   "title": "黄循财总理：理想的新加坡不能单靠政府打造 须与国人共同建设",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fMWJzVHZDajVYQkRlR2F1RWY5dXk4WTI2cXB1SlZla2E0bUhrcmhMRlJRc0F5R0MtelpGVGpjME1LTHdjR2YtbGp5QXVzNjMzeWNidHVubDFVLUwzQWdsa3ZtR2hGVXRzVmtZS1dTZw?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:37:00+00:00",
-   "source": "Lianhe Zaobao",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "be247982bcb27be3",
-   "title": "Datuk, nenek dan dua cucu maut nahas pikap rempuh lori",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcWdza09nUlptc18wMGtGZTYxbWN6Qk9QUV9PamRKemJpVmFnSnA3N19xb2VwUGZ3OU92ME5ZeFRudFpsWk9GVzAtSHpsWkZ6VlJidEdpamhfTzd5Z1hXcWZTOThQQnktVGhKQ0FGRDZMSmxQM2ltWUlJMjRMak9GYXAxYnJjYm8tVFVuUWExZ0xIU29nQVJnMGdOTFdzaG45Tmh5blJBY0tPXzZEUTdLYVBn0gG3AUFVX3lxTE5RSmNHS09pOFo4X2JuZEFzWG9ZSmE0dkVqVThpX2d4ZWdVbzNoUzZ4Mnp6U2lLMUMyV3YyOWdRZGJYOW9kNGhmazNBdmljdUtxV1FtSXFpbGNIcDJHajhNcHdNZ0xha3U3YVd6VnNoSXotbWlFUE5ZSGMwcFpNcWJUSHNOTDVQUG5BaEExbUIzLTFVUkJjdHpUeW9pYTVSSmN2ZzhfSG1YRU50OGdOaU9QejQ4ckFMbw?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:35:03+00:00",
-   "source": "Berita Harian",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "fatal"
-  },
-  {
-   "id": "1b5e29eb41c1aafb",
-   "title": "金正恩结束访华丹东行程 承诺深化朝中友好关系",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdjNCZ3RJZnFhQkNwSUdSZE81a01oQlByQ2p5M2NmTVU2ZHBITkNxYnZhTUw2TDZJSkNoUldHaUtUOTVOT0p3UkFSNF9MVFVEYU1zeURSa3B0Wlk4VHQtNEZOSGJkb1llbjJUMEtrVVpDVXoxckk0dHRCbWZJOWlkYXhDcXYwLXNjaU1IMkE3dzF6NXpVd21XelZMblI1MDBBVDJUVFk5bw?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:34:09+00:00",
-   "source": "8world",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "83c40bf26525f99f",
-   "title": "Datuk, nenek dan dua cucu disahkan maut dalam nahas Ford Ranger rempuh treler | Sinar Harian",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT19KeXltOEVkSmRLLUduMVN2Yk93Wl9iM01BMnZ2V3lSMDFWdmJ3Nl9sZDR6a1ZPUW5mQWY1YWYtNTRrRXZCZHhpT05kclVUYUtueDlqVUNwaDljQUtBNUxCa1kzYW5WTFRxTVhpeEV0VklaUkRrUjNWQ2c4TmoteTVLTklLaDQ4dzRLNjRsYlROTm5zTG1lVmxaTmxXS1JVY0UzQWJzd180aTB0TF81b3JEUEFSUi15cG9pcjRELWJKdndORi1xT3YtTUtLTlBObUHSAVxBVV95cUxOWHpvYy05WXBabXpzRXdjZG1hQTJCVzhkNzNVMHdvOVRqaDdCVlB5S3JibjJPRUZsM0R1UlNWMnF2TGxDUUtib0VxSDZzRk1LVS1JUVBmUU5ReTA4OA?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:34:00+00:00",
-   "source": "Sinar Harian",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "fatal"
-  },
-  {
-   "id": "86faea002359c13a",
-   "title": "Step towards sovereign AI",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV0thWVlnM2dGcU9NMDJSbzVmU2duaWZBT2l1XzFkM3Nrc0pVY0N1allkZjA4LWhRVmdkSGZBTDQwVURtZk5ZaG5jc28zVndwb3FmdXVVQW5CRlhPTU5yWWVOcThuWUd2T1o0OFRJSF9CYy1fVDFRVER1amJHUm5mdjRCa3g?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:31:52+00:00",
-   "source": "The Star",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "394fbc7823da82de",
-   "title": "Golden girls reunite",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wUzhqdDRwbXlHcFh4V2NRQmZwWlBiS2gzMGNGWWdOZ3F3cnF4cTdMX0hLdzdoeVd6ZUZwOHJoREs1S2ZsUzBrZXU1RlBrVVBEeUh4N2hmcXZiMjdNbTJPVlFfcUdOV2FNY1RwYUZSNERESVJXNEdraDlFN2Fwdw?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:31:52+00:00",
-   "source": "The Star",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "8c96a4983ad9d958",
-   "title": "Infantino Confident 'Vast Majority' Support His FIFA Re-Election Bid",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0NmhaS2dDaENabENuYnhLNk9JRUtNeVRFSktvcFUxU1poM2s5T3VuUWhHLUJPQjJxYVNjdVNudEZFWWVlVlEwbVJKZUpCVWlJazZ2RDVFYTcycGM?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:31:27+00:00",
-   "source": "Bernama (state news agency)",
-   "country": "MY",
-   "group": "gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "eb23c9885083ccdc",
-   "title": "'Meremang tengok gambar ada entiti misteri' - Rashayu",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUJuQXBoLW5CaHdQRXdzUFdRTDFyQjF5bFFGVEZLWUhrLXFQMTRCeFNNOTdEQ0VFWmhlVHdOei1rLVdRVUhrVmRtZUNiSFc2QmNVYkROMWhGb3FEUFJRblVoRi0xSU1SY2RZaHZPeVoxaHVJRUpQQTE1NTlXNkZoQzdEVFVKNkZjSjBEd082Zmk4RE05eDREdjQ2dHdGcXZ5a0HSAacBQVVfeXFMTU1HUk5zVDZ5X0hQU0ZpUTdFSU95bW5UUHgyNXh0VG0wcXlhUkxkWU5uYVprWVctTVlDSExjMVllZ00wdnM2NG1zbnh3RExQMWdXNV9xdEJTWU1JM1g2emZlWWNMamlfZnR0Y21PMlhDOWVrOUpicUJFa1FWalFvRThqSWU5MXJDQ3NrY3Q1RUFsOGFZejZKRXZ4Sm8yUF9BR0pFRVdTYWc?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:31:22+00:00",
-   "source": "Harian Metro",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "d183adeb41b1ef31",
-   "title": "总理：行动党将让年轻党员肩负更大责任 资深党员不会靠边站",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1odXpMbUZwaThiQmVFOXNzaEQxTEFEbE1mWmRVWFMtaDR3VGMydVFfd1NIZUR0dEQ2cVNUUXFnTU03S042dTM1UkVuRkRRYlFVQ1g5eUtyLXA2eDhUUDVNdmt5ZWlOd1dTUE93T0NEa1pKWWM?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:29:18+00:00",
-   "source": "8world",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "0199330df189e296",
-   "title": "109 warga asing ditahan dalam dua operasi di Ipoh",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUU1zczdUdHg5Y3V1TS1fa0dfWmFyTXExNmNrcmdmbnlsZC1XVkFOM1h3RGl1VFVHZ2hiWEpjakhFOHZUZldqTF9XSXh2NW1uS3p2Yll1d0o3NUdpb0xwUGpfMnZJWDVPaXVISGczN3E5a2FUUzZkRnBhbVk0Tlo0V29vU1FnbWdPSFBaMVE3R01vZTRxemV5TzB6VlRJcHlIQnBKU0RUSm9IeWRvNUtDa25GNU94UQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:29:14+00:00",
-   "source": "Gov.my (all MY agencies)",
-   "country": "MY",
-   "group": "gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "fd976f5c113308e5",
-   "title": "Husband returns from phone call to find wife submerged in Penang condo pool",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUUFwVmNwRkJmOXY4aGtpRVRZYkdHNEIwaGo1M011ci1WMnRLdllwcFN6eENicEpaMzFZY2p6alJYMFlPcHREcW5Idi1OQXVoZXBFMUI1dzBZWXNrN0gxWTZZbnpJX3U0NldKcnRIeDVsUGhRZHlqZzZCZHZJWUZNNnYxNWg1LWFnZUQ3RGhDQ0c2OGsxN1NIeHA3eUNGenBTT0lpRXl2bGRnbjZ6bzJQZGZlcjl5cGdqUklLTVJEc19wcUpKU1ZzTnoyNnNjd9IB0wFBVV95cUxPVlp6dnItMm5KN293b1BtdW5ob1RHNFg3V25JbmxOUTVEZUlPVHU1dDAxSENsb1dlUjgzeXhqU3F6MXRYWDZQb2NGcm4xYjRaZ1ItQzZVbVUxaEFKUUtFYVZ1cVNTZDZtMk1QdUl2Z1d1ZjJPZ2ZGSEtudWh5RjJLQ2VUUnVSQ1VuQU5YSnRxVkZkNk5jaHVRV0xRTldVOF9VVTBRVzMxcmNpdTB2emZHMmRQaWVMekJHcW0xbXl5VHNwVWxseWI4NlUxejRWU3otd1RR?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:28:57+00:00",
-   "source": "Malay Mail",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "2678e478fd57c5e0",
-   "title": "Bursa Malaysia dijangka kekal tidak menentu, FBM KLCI bertahan sekitar 1,600 mata",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT0lYLXY3U0xnM3oxRkNpNUd6cEpwSzIzem8zWDN5R1V4SVBSYmZuN1JKVDhxQ2hOZ0Y1bUZHVnZUNmY3LXpmLWdhNjVGWlpiMERBUnZ3N09zRmQ5SHJUdGFlNXJuUE80OVM5U2ExenlyZ0R0eVllSTNpUTBCekJnaDNSNFE5Z2FYby0xTkx3ZTVTWUZKNDZzQ0k3eENNUW00MnpiN2hrUVlsdmdaLTFkSWJPd1dJTlpVeG5mUTNhUHZhMEowZXpUZ0RFMjl3Rzl1d1BIS3pFWllGR1VqTFJUdFJGVQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:27:26+00:00",
-   "source": "Gov.my (all MY agencies)",
-   "country": "MY",
-   "group": "gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "1c2d3e5c9fb77244",
-   "title": "Antonelli selangkah raih kejuaraan dunia F1",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOXzVCRHRWejF2MW9scHdqWDNxRnRoanZRbnpJaVN3U19sb21RdE05NHpnVzhyLTBGcWVvZ2JnRTE2TnVmYndzSTE3MVJ5QmM3VHVoX0E3cjFhZ21uWmR4TnpsVEVPS2UwUUlkS18xTlkyRk5OTURES0JiZEpTb3U2dHJ6ZGF1UmJ5QW1YSmUzU1ljRUZtT0FCbGU5VHBGNmg1WmdZRWdRMjBXTkR2NFVaRS1GUQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:27:10+00:00",
-   "source": "Gov.my (all MY agencies)",
-   "country": "MY",
-   "group": "gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "d4bb1c339b55e2e4",
-   "title": "黄循财总理：行动党须薪火相传 年轻党员有更多机会资深党员也不靠边站",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wYTJQS0FmN2hIN1RXemRTMlhGRWtXdlM3MkFkN0pnVFhoOG5DV3FWUnN4X3B3REl4SXNIaHVEY2lpMWI2cDNvVnluWWhDZlNBUnVhNGthaENmdllBVlBoV2s4bFNkSXVNZlpRdE52NA?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:27:00+00:00",
-   "source": "Lianhe Zaobao",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "8fbcf3cbe5030269",
-   "title": "雪州进口生猪不影响卫生 陈泓缣斥组织胡扯苏丹谕令",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01aE1vdGRrYVc1WF9LM21NWlRMZWNFdnlEc21PRjhtRXY0SEhVUFF0SHFyRGJfZEdVaFhYLXFhMUhYcjZIYVlEVXpNNXBxdnV3cmlCbkxYajYtVzBjNElEY09sVXUyWlNFWXlLSlhPaw?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:25:00+00:00",
-   "source": "Oriental Daily",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "371d752bba6a1b1d",
-   "title": "[VIDEO] PRN Melaka: MCA masih boleh runding calon - Ahmad Zahid | Sinar Harian",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWk5yVmVFdlNkNGlWZEtNZzhEZm1VVVdyLUFDcm12SWFOZzdSaXYxTW5PY2FoMGt2TGg1cTlPcDJ2a0JJNmFkc190R2lqdTF2WWJKbTgzYktfdUc3TWttWkdHNGxPOVhaVk9iREM3c3E0ZDJ4SUxfSHpXMTl6Q05jZ01rOHdSanhSWDlTV3NQWFdEdldaaGZLZ3NZd3c1bXhMbEc4VzJ5R2VIcWRBbmNFamZGbjNVVEJudEpFLTZR0gFcQVVfeXFMTlRDSmU0VXVIMTc2b2duZ0RjNmVBSXRtcVpKUlBBMWFNamUwY0d4bDJyc2JXMTBwc2RpTHRiQXlsdmh6NDk1TF9PMFhINlp1N0V3c1Atbk9Uc2RpS3U?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:23:00+00:00",
-   "source": "Sinar Harian",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "5f5d0eb265d54d93",
-   "title": "Singapore Armed Forces' first woman sniper hones stealth, marksmanship skills at Exercise Wallaby",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQX29SQmxtYmRMbVU1UEpXTmFDYklGOF9NMVA5M1NQY3M5OUVMemVUcmIyNnY2MVcyS0VaRTg3VjhUU1dFcDFJNF9oSEdhWDZRZy0xX1NlMmxERG85MjBSUGRNVWVqdDZuV0VHS0ZxWUJ0Ui1CYWkyOVR4RkQ2Rm4wU0twYWdzRHY5SEVTLXFKb0g5TmZZclZoRXh6elppWHljdkRlOG9UZzFPb3hBWE5DUmEzZ3NvLU5idlhjUmNsRFUyQXRLeXBleEhjYmk5elRaZDV2N0paOUdkS2NpclNzQXcweEYxb2xDR3N6S2FGb1diWWs?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:22:00+00:00",
-   "source": "The Star",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "3fe12be4d54c117e",
-   "title": "垄尾土崩波及民宅 3人受困1男子证实罹难",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GQnBfTnFGTHBiM19rb3l1a0Y4cElNdW4zd1BXdm9XTXhPLWIwNmFGbmF4aktsdUEyeVVRYV9YQ3gzVWRUMmVlUk9Cajl2NlFBRmtub3dMdkhaY2FpaUlRbWtHT3RiY2UxWkNHc2puVzg?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:22:00+00:00",
-   "source": "Oriental Daily",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "fatal"
-  },
-  {
-   "id": "caed79ae1e07f007",
-   "title": "雪苏丹登基25周年庆典 | 过度政治操弄 种族宗教当工具 雪苏丹与民同感厌倦 - 国内 - 封面头条",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oTHZYNFhackppLVVxSzFDV0ZQT3JwUUI2N1o1eS1KNWM2b1R4TjB6cWN6aTB5cXZoSGNScmNOOHpQZzI3UmY4d0ZNdzNlYndfMVdZUnI0eXlFcVhYeDYzWXEtUHdXQQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:21:32+00:00",
-   "source": "Sin Chew Daily",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "5c5fd63d77f19d3e",
-   "title": "Teknologi dorong Kopi Kenangan kembang di 7 negara",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMU9uLWJkeHlnNTdCY1o1aFVQcldvV3NDY3l0eDVwbkdfV3hXUkhXbUFMRGRqTndTYmZkMm1KdkNzcy1LYTdaaDV1RDBrdDFCWHBablFydFQ1Uk11SFhmMzlDTC1Oc1J0UFpKZ2ZBUFVXQllvVUNvZHVPeG5ieGtMR1NienVoWTV5MmdsRTdBeGVrUQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:20:33+00:00",
-   "source": "Berita Harian SG",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "1081e4cb30725ea7",
-   "title": "PIAM sambut baik langkah Belanjawan 2027 perkukuh pengurusan risiko insurans",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMWJwRWlUWEdodk9lOXF5UUpnTnVjSHh5aS0wQUg1MktGaHFuNVlISUFjak14Si1UZlZDNnZuZVdPVlJ0V3JWR1BRX0VnQy1reXNWZkMyV01lZjk4UlByOTl1U0R6UkRQaXVtUDBYN0FwNmlHSFhDNWRhVnpodEFKNm5TeVk2OTBreDVIOFZBNnd2Mi1WRWdSSlhSYWo5VFE2Q2ZpNGZjMDhiMVZLV1RVanp1YlphNHZyTkRVYWMzZnZJdmcwM1VTU2NrOEkxWmtsSzV6aWFtQW5KcjgxejdV?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:20:22+00:00",
-   "source": "Gov.my (all MY agencies)",
-   "country": "MY",
-   "group": "gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "1232c213d5651ddd",
-   "title": "特朗普脸上突现神秘瘀青 他一段话更惹人猜疑",
-   "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPeVc2WVB0NG5RLTVkbmhOazdkS2NjVGc5QlFqTEFoVjJNMy1PYjRpQWNreXpDblJ1TzZUcFU0NTR3bEVRc2gzcDE0UjZUT3pfdlM2X3o4UkczQm9rMTc2cWQwVVc1aFNPbFJCNWIyZ0VLdGR1c0dTRGhkWjhOWG1OaHpkcUJob3pvcDBSTm1leDRqb2FISlJNM1ZtWm5icm5sb0tvTHNlVlRUbTNWSGl4dWEzdFNLUTdGemlmMUhzNzlBbkpzTFhyM3JnT3lpY1F5Z2J3SGFZYTh6VVV3MTZodUFObk5vTG84eXFLZEl6Y1hsRG5ZbjdMcFBscGxsbjBKbUM2RmluM09sdTg4c0RMN0Q4Z3Q5b0syQ2sxdmVEMlVMMjNNbkNNNjlwdklNYUtQU1VXbDc0el8xMmR5X3VSQUhaSQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:20:08+00:00",
-   "source": "China Press",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "5225e48a414e4f7c",
-   "title": "Man to be charged with cheating, money laundering and unauthorised access to computer material",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMzI0b1BLMjZ3YWQ4SG9TS2p3RVF5clNfZnUwMC1kZ2FFUjRTUHN0OW1nZDBoRlkxekdnN3hFMXRXdVNucHRqTzVkbk0zSE44aThDX3FCMVVVZVl3WFFFVlQwSE5lWWZaeWxCZl8zS2QxajIxbzhENEN0d0lDTUpITGNEM2ZXeE5pZUlXVUd3UjctQ2hQUXNCWDZzdzBweDhYYmNIMmN0MFUwcmMxYm1IcG05a1QwUmZpeHFqQjJCblg2dnQ4d2lyQ0hIcFI?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:20:00+00:00",
-   "source": "The Straits Times",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "920cca0bf27dfa55",
-   "title": "Lelaki maut tertimbus tanah runtuh di belakang rumah di Paya Terubong",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMHQzU0d6X0V2Q3hzN3RPeVZTa2hkV19Rc3V2U0VWQW5Ma1RwTHdpcktuWnNlckFBbmpBeEIyV3cydkxnU205cm4tRHNpMkVpaEh6R3M4WlNtdzZWSVB2Mm0yY2RNaFFwRG0xMTF0RlBXeE8wWmNqR25idkxZSlFBaFVONTN0QmJya1dZT0hObzJoWDE1TGtWWTBYTE9kNEIzNTNjVGw2REpIMzVEQWdzYVM1UU1QZlg1ZnVwLdIBwgFBVV95cUxPandSLTF3ZC1kTktiZEt4RThuNjFlc2lxTDl5R00xdGtONU1DLUltVGZaUGZjTEowdk1DWGJ5dVd5R2EzZVpGT3lXWkQ3b20xV0RHY01JaFRQVG9UMFlRaVNVQUROWjNkV1oyOVc5UWo2TTd2eXpPWUtLOElrV3lSRVFaQ2lJZUZ0OC1zUW1sbWtlNnVSajZXVEIyLW1Qazg1aTBCTHRXNlhoeld4ZVZGYWxOZkUtSEZEWlVuWUVVZlNXZw?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:19:52+00:00",
-   "source": "Harian Metro",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "fatal"
-  },
-  {
-   "id": "fa719efbe97431ee",
-   "title": "金马创投会议决选评审阵容出炉，集结林嘉欣、叶如芬、许月珍选出“百万首奖”",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaTc0T1dFcEdBVi0wajNyT1A0R1FVVV9rd0JHZlZtRklQZ3RiOERtZGV1SEdjWV9qQUpkeURHcmc1aHRHYUEyd2tSb2pXdnRrVVNNbmxwMmtvTURrRlhJb1RUQ0ZORTJJaF93WTdrNEZhSktnNFIxX3VWUER3TVNvSUxwbkNpT0o1?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:19:41+00:00",
-   "source": "8world",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "5474220cbec4f4fb",
-   "title": "惊！土崩泥沙冲入民宅 1男遭活埋丧命",
-   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNWWxwTF93UHFocmlJRlRnWDFfTXNubXRtZ1RPUFFVRm9SM3Z4WXdqdzNOT3VfRl9sbHkzX0pad2hRb1FiWEh5Q3FyWld1MHJZb0RmeElGOGI3NzVCZVRRdEhvS05wUkdyclZOenJpc20yUTV3cm5rYjktcjFEZFNlcXJUQWtyU3B5N1ZkTkY1N0RKV0F2cVVjSl9MaEttcWFRN0dyUEZ0Vk8tYm5nYWxfd09lSTRBX0M3eUVxSUhEV1JGVXB3WFN1eFdOX0xUUFMyeVp0aGp5dXZGbWtldl9xeDVUTS1neFlsdUhoTHZrMWZsX0Zhc2VjcDNPYnUtTEFsOWk3ejdpY3ItXzFrc3VQOGdYM0Y?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:19:36+00:00",
-   "source": "China Press",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "fatal"
-  },
-  {
-   "id": "35e28b0bff1c6672",
-   "title": "France arrests nearly 1,000 as cost-of-living protests turn violent across country",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWXVfajVoWFFjOEpPUWd0YnZibWNZNGZxajVmNURubUVHSWtCZ3Y1MEtBYWdwY1hHMGZ6VkpSa09SZmZhdWZuRHAyQXdaNDg2WHRZckNoNzVsdUtjNVU5cVQ0WFhnZm56bW9tUUY2N1daem5GU2syYWNobGZ4NFlzSTBaTG1sTkdsQnB6anN4V0ZLTnhCSVZSamFrejFTa3lKVjN6am1Ka0VsLUkwTFFrOUFOYXBzdUZEbFBwWGJua0t0eVd2TjJWYlVfQXNoOHFTa1HSAdcBQVVfeXFMT1ZkelpNRGsyaVMtMGhJVlJJMkpOd2JCWmRLcE9hRVBkOGFmTTUzNzZYZmo0NU11YzV6YzNiSndYY0V0M2NNTXhoRjVxeW5FbndJNDZlWm9DUHQzTlo5SFpLejJPY0lSSmoxYzVaR3drODZqeEtSTkhadk8yclNIZDdoZzJFcGZQNjJyYXYwbHU1QnlpYTVueGNpSzBMWl9BRnB4RE1VeFlMRjRDR19zVEYwekVjS2FkMTZwZFN5WUNvbk5mTktnamZkRTZ3UVlHTXdzdU5xaFE?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:19:28+00:00",
-   "source": "Malay Mail",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "84f0aaf8b1d4faa1",
-   "title": "Three days before Israel votes, thousands take to the streets against Netanyahu",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLVBLdXUzQ3lVYzU3eHR3dndnVzhtN2ZuVzlpdEw5cGlUWHVSLW1pNWtYQkJITnBnWEpxTU9qTEZkSks0eG90OVdPSlZMOHo2M0cwNjJCS3NIbnBDT1VuakhrU0RCZTBvYUFMWWI1UzVHNXYtSWdOZHlGUC1ZSHNsRGJ6aV9IVF94TUQ1aDZiV1FETXhUY0tKTGttLTFnU2xmVHZxYmpfOF85WnExTjMya052WjM3Wk1vckFwcHN0bFA0WUhrb2haYkVLWDdPUdIB0wFBVV95cUxPOWFueFZwN2FGcGFkcmtLZTBSeDVvWExHQWtIZmVlTHRPaFNhOV9uNEQydkI5SjBVUjNXd2VqbExndzVPVENiWGxWTDdtdHVKaWR3Tk5idmFHa3gxd3F1aEM5cHJUZGhwb1M5VjN5Vk91dTU5SmpaNzE1dWsxY0ZnWUpXeGJiM0JfcjIxeWFrVWtfUHQ2NENOck44aF80NVVRVTZLbjVwNW1GWkdTUTFFakExSGw5enpnMlZOZ0VDOHg0S3NkVEo3c2E4T19RcDcyd19r?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:19:28+00:00",
-   "source": "Malay Mail",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "db2e82b77723ca69",
-   "title": "巴西总统决选前夕 左右两方阵营大造势",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50T3ozMlFKV3pqWG1hMnB3djFtOTU5bjJ5V3pETnNUT2prMlByYS1GVHUtMHhPMTFiT21RcEVQS3NmQ1lhMzA1YU1OeHJUcTR4VFdodXhmSlREZ2t0YTdWXy1CZjB6M3VHblBkcks1eUtDZXI0Ylg0Mg?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:18:00+00:00",
-   "source": "Oriental Daily",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "b2e6b50b03ccbcb7",
-   "title": "StarSpecial: A majestic 25-year reign",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTkhLWUdlU0JOclQ4UU1URk5WOTlIX2hPMDNlX0MwQzEzdFV2OFJhMHZrRlFERFUzUDQ1LUN1bFh0SzFZZ3FZOURyUVFQOWhPN2JiSzV3TW1HZ1Z3MnkwOGc1NWtzMjM1S0xGUjNXb1FUbUY5U2hHOHpoT3FXc245d255eGVyd2o0ajA1T1FyQQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:17:00+00:00",
-   "source": "The Star",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "d30ecedded54ac9d",
-   "title": "巴西总统第2轮决选前民调 右翼前总统之子领先卢拉",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3UkdxOTJtd0dyT25laHpEQkpocjcyaXJSdkhKZTFubWhMNkZqeHVXSGh5NG84UVl1Nm5mYkRDNVE1MF9WUnk2Z0FMSHhkU1dKSkJzYXc2YmRKNksyMGZ1WGZfTkZpWnF1MjhfOWR3eFR6eW1HTjI0Uw?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:17:00+00:00",
-   "source": "Oriental Daily",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "2a828718dd95b89e",
-   "title": "PRN Melaka: Rundingan calon MCA masih terbuka - Ahmad Zahid",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRjlYb0hQM2JMTHdTX05ZTThEOXpTVTAzOHJieGJsRndIMW02UE1TYnNpOFNzQ3hRNTd3ajREbVNET0FkVXVkRVA0UEt2UXUzUExVVk4xWEpDNXIwZk91UXJZbVpHOWlrZGFCQTlCLS1YM1d6czdLemZhNThFb1VFZDBnSTlqS081eTAwZWVJb056TWpuaGhlZm1ETXpaVWFId2NUQVI1UW1oZ0nSAbABQVVfeXFMT3RiZFgtb283dHJiQjcydGhZNVJwb3BGeEFPZ09QQXBsd1BsXzl2YmtYaTRMWVY0T3VySTV4V05aVmlvc3ZSMVZoeWF3ZHN0RFpnVUNGcUtfY21LX3Z5TXlLU2VOdDBkRUFLNGtVeDlvMTJITTZBbVFjYVFUbzgwRko4OERyVi1aOWNsR093Q0dGeXJQaFg5a0pQLWg5UVlrYV9mSU1NU0JuRXJlZVdibUg?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:16:44+00:00",
-   "source": "Harian Metro",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "296dd590530f0948",
-   "title": "饮料喝不完拧紧瓶盖冷藏再喝 医生提醒不代表细菌消失！ - 国际 - 带你看世界",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5VTdybjdnR3hfSzA5V2F3WUo0eUtLc0p3VHFEX1NVLXpOSlVMQzRjSnBqbHVWUDVqM1NNVzVBZUVmaU1jUFhWb2ltdzh2ZUZOc181OE8wM0dLN1Z0aDNwNVVtV1kyZ0VMOXg3Snc0SQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:15:45+00:00",
-   "source": "Sin Chew Daily",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "622c4bad50062e20",
-   "title": "What is EasyTranslate?",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tRnc1NW56R1A0SXpPeGZ2eDJsSV90aXdLNGY4LUlGbTV1X1d0OWJVMVlGQVJyaGJPb01zdkJ3X01KbXZHU0V1Q0Jhc3M?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:13:49+00:00",
-   "source": "Gov.sg (all SG agencies)",
-   "country": "SG",
-   "group": "gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "00532a2b515d789d",
-   "title": "劝诫勿将种族和宗教课题政治化 雪苏丹：勿靠“煽动”充当英雄",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uQnlzdTVnYWJnTk11VlVZdVZQSUc2T2NWNzd4ZU03eEFHZFNVWm1OX1Utd18tNHhnUm4td29Dd1BzblV5cG1XWTJJUkFObjk0RVc0V3duY3pRZjhORW1kd3hXaXdwblRjMWRxUmVfYw?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:13:00+00:00",
-   "source": "Oriental Daily",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "9957c53cfe8c4d43",
-   "title": "总理：反对党政策立场前后不一致 执政党以长远利益为重 勇于做艰难抉择",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaWpNQW5qaHl4R2ZTLS1naDJ3RVNSWmVmRnhyTjlfdUtjV1RneXVPc0RTOWNmTmUyMWpOMkE0aUZrc1JYRF9kMlJkUDg3clBXaktmTlI4dU55dnQ3VDJzS21keGRmWGhkXzEwd3hNQzNnOUFkNlFZRW54YTFDT2FzbA?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:11:34+00:00",
-   "source": "8world",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "7dba3fdc604113c1",
-   "title": "Thai officials urge calm as Cambodian film on 1979 refugee crisis sparks controversy",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa2p4T2VTZnR1d3kxQ2F2NFJ0TUVScmFMTWttN1puSzM5bjZiWkFoUk9xZ05Gb1E4TUtDTkkxVnF0WVFiNU9ZWk1yMnplN256YnZycUl4RldMNVlxQ1dTb29xbHV1NkRRdGtHelRsU1g5aExJakZKOXhvY3phYlZtOTR2Q1pZcGdONktWUDE0enJ6bXRsSDVhWVdJRUFiZUNrV3RRZDNta01HVGdFc0lsLXdma2Frb3FjNlQzUkI2bFdSM1RDeFZxMWp6cm9MZmEybnRyZWU1Um5JUE05eWVZcQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:11:00+00:00",
-   "source": "The Star",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "858d01159b8440b0",
-   "title": "北京副市长靳伟履新湖南省委副书记 曾因长峰医院大火被问责",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oZnE2LTN1S3dySFNvaDBISjJ4b0JNQjBxRWgtU28yVEVtOWY0dFpLNkNubWJCX0ZVSG9kVmx5RDdhVDBFMV9COHRGR1FDVTMyekJ1REJZcy03amxXM2RYWmVaRTVlLWpyQmc?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:07:24+00:00",
-   "source": "Lianhe Zaobao",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "f592c8a50d0a55bc",
-   "title": "Rodrigo Holgado semakin hampir sertai DPMM FC | Sinar Harian",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTkItU1FmekJCOG1kMTJfclZPLTAzMkU4WEUtbGZQSGZUY2NpRG8yRmpSQ0czR1BzbUEyVkM2WkE1UXBpZEItVkdQREJXY3ZfeVNDT2xXTThTUVNDR19qLTJOTTYwZ1JzQ3VQVWhfNERrZ1FHczE1endqT2VjdERvaGM2dm1SUHlnckp6X2RpZVdnSjF4R1BsSW5MOGluWE1wYkZfb1BEb9IBXEFVX3lxTFBIQzA3dVNZUjFFUWUxV053eFJMSEw2U0Nkb3RuMmRPWW9IeG1Tbk9iZVhWaWNKWGdxalRYRUthY3RUaTdGYXBRNy1aN2FoWVVEczk2eHFoc0kyNWF6?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:07:00+00:00",
-   "source": "Sinar Harian",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "4fb949120a959154",
-   "title": "Datuk, nenek, dua cucu disahkan maut dalam nahas 4WD rempuh lori",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSmxfYWhjNDNCV3JQZlZQNng5SHRDa0VxOGpOT09sNFdPaEZndUtYTjc5ZHI2SDRicEpOMnhBRFRMS205bEpiYkxzck5vT0tvOUV5ZnhxaURXSjBZX3EzaWFXcGM0bDRDTXdlS3VMZW9iS0RjUW11aHh6aWlOSndEMXlGeHpBLVd5VDBaODhWbmY5LVNibjN1WXEtcEhHZTZiVGlnVkFlOVFtdGZkaFFj0gG0AUFVX3lxTE1SdVlLNzNscVo3NWpmc3FBZHdOLXdnOW9Hd2FRS1dkTGFyYU4teS1uWkR5NUpQSDB0NUZ1djFZd05Mb0NMYnFWd09TcDBPblAtbU80QkI5MVMxMVVLMjV3T0p4T1IxNk02b3kyQ3VwTzBhaE0tWlBidWNOZU5pcHd0TG5aMzZHeXdXREJBZmRENzN3UWhmRXctTmE4Zm9oeUxXTjVCVW45T1lTYVREWlhRaUlTbQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:06:42+00:00",
-   "source": "Harian Metro",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "fatal"
-  },
-  {
-   "id": "7d8d576c3e04b3fe",
-   "title": "同团",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QMGh2TnZqV0VlSzhvTlFneUZac3dlc283YlBtRUtaWDBDX0tTc3NwTWhKNkZWOThoblBkS2NfV2JxUGEzM2lsZDh2WURSQQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:06:00+00:00",
-   "source": "8world",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "a9497491ba13a6b4",
-   "title": "总理：经济增长须惠及全民 持续缓解生活费压力",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wWG9GVlNaMWlYSlBSOWFvUGM3Z0dleGF1NEo0M1JkaEJWcy1VbExkMVFOd0k5cDBpdGFtMldXWDJlZDVaeWtrTWx4clJYTHN1XzJFd0g1TWJTTVNPVjZtdVBpU2kwelUtSTdSMl9zU3RwRVl5R0ZQVg?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:05:03+00:00",
-   "source": "8world",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "16e6aba49f9e52ec",
-   "title": "Lelaki maut tertimbus tanah runtuh di belakang rumah | Sinar Harian",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMThsYktJcjlwaEJ3dF9kSExpekQyLVhtVGw3ZVg3dG1MLTlwUVFJamJ4dE9uVkgtTUdMcUNWcHNSOVBrQ3g2bjE5czl5Mk5MV0RRaDBENU1VV0hLdXhadDktaFZFVVJVYW5zR2t0ekhUTVFuYWpMbVZvMGdrTHpmc0pjcmhlVFppanJIU05Xclh0R1JoNjhCYUEtN3BOdnJzTzJ1VFhoemxTNzVqT2FGc0130gFcQVVfeXFMTUMzTF8wRTU1bVdWb3Bkc1BXcTJoY3h1dnk5YTZFNFg2SnZMUzcySnNUOHhfUENRYVVfbzhIZHJZM2ZOUjJ5WWE5NDZxb2FNNmdBZGN5VzE0bmRwVHE?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:05:00+00:00",
-   "source": "Sinar Harian",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "fatal"
-  },
-  {
-   "id": "aee2635971a3e270",
-   "title": "21岁青年参与音乐会活动后身亡案 甲警方逮捕10嫌犯",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9udTd2OC1aaEk0aW13RUtjbzU5cGJhbnkzUlBRRUpNalh6ZUJIV0hSZEdvQUlrdXR5MEJybUVJaC1MRmlqUUx5N0xxM0NUd1IzcVk1UUFjUGQydVVOaTVvUHo4QnBrZVNEUWRERUp3RUc?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:05:00+00:00",
-   "source": "Oriental Daily",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "fatal"
-  },
-  {
-   "id": "de4fe206d812972e",
-   "title": "Tumpuan kepada calon pilihan, 'drama' saat akhir",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQejNYNllZVVY1TEllQXNyTjZIT056LWxaRDg4YjZlaDR2TVVOYV9RRnFRai1fYmRBTGhKVEp4bzhZbEx1QXh3d3pnaWE1Mm9xcG9wbXJHWGdqcEZodHhTcFNiVmMwWFlNcExqOVlDWUJYYk0xUE1wMWpKTW5ZNGRGUjNVNkFaMWlSWTVqTnJiWnlrb3pLRDhLVjlhcnNtOWFubFJaNzQ1VdIBrAFBVV95cUxNRjRKc1RjNFBpQi1oazExS2dVZHFZU3hfR3N4dnVpMFJXc3lyTktXN2tldDhZX3NSQnJ5bXM0Z1VwTEFQSzBXOTExVHExeEN5ZHdSZU9na1MyQ21zeERhTEtxWkUzMHN5Z0pjTVoxWE5iT202Y1lYNmozT0hYd0c0aFBFeVl0MmphSTFWdV85bEd5V1huZlBnY2kwbUNaNFNkLV8yYUxDYzYySDlD?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:04:27+00:00",
-   "source": "Berita Harian",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "4bfe319cc0c09d27",
-   "title": "台女抵日仅30多小时陈尸酒店 同团女子涉持刀被捕",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV0VxdUVlN1M3bXNwSEIzUHVPRzdqaHltdnlwcl9nWW1LZkVFT0IzZUR5bkJ2cDRJdktHZ2ExNGFZSGhwMnFYNkpMNWI2dGp5RHJxdUk0U1ZpNTJzcDJHaHhmZGRNUENBNlhjbmEyTnIxZTB5aUpiZ0xya0NraGhPMk5tMkFPYXB0dTVr?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:02:49+00:00",
-   "source": "8world",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "8d138021195a61ed",
-   "title": "全国12区空污指数不健康 西连193点最严重",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhLUlaY2VwVmV4cHNOckdHZWRrMkNPUXRGaDR0Q09FUHhQZWlaQi1QSUxqQUt3MlpHQXlFM1F2OVlaMHp0UExjQlFxdFkwS3FRQkowdzFXS3JFQXlzcHVmS0J4SzFtbDd2czhZank5MA?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:02:00+00:00",
-   "source": "Oriental Daily",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "18ade8104dc0742c",
-   "title": "Ada yang sukar adaptasi cara hidup",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcG9idXNUQUMwRmFhdFBnYTdJSTBwZUQ2bC0wbEZrNUk0c2RLcng5MWFISlRYelBmSXVwUmc5NnZiQjVpanBycU02aDVPZGprUjRTeTdkSk00bzd0SVZXQ0U1Vm9iUTJ2RkdZRDhGU2xqcU9RakxaeUVMZWFETkdGOE40cFkwQ0VvQlpxVndR0gGTAUFVX3lxTFB6bm1PTFF2bDFPcHgyQ1NERFdnZFRLeVBjQ2paZDNxdDZ3RlFxcFZmUWw2ZEhFU1Z4NGZEdi1ieUtLVEgyZEZScm9YMEhOOXhlSl82TVd5cGZZRmxBcXZWd2JmUXpUMUxsVDhvOTAxVGJLb3BHUGJOYUlMd3ZDczEzRUcwcjVkVmk4T3MwajJyekpYZw?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:01:29+00:00",
-   "source": "Harian Metro",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "530cebe052167967",
-   "title": "Isu hidu gam perlukan pendekatan rentas agensi",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdWtMVlVpTHlBcWVxRWlvcS1XaGN6OUJvc095UThEd3lvdUY4dG9iYXBrVEtLUDgwSWVrUlR2TUpIZXp0c0h0WUFVY0xUNFotYXpOb2hKY2xVTkRyaldoMzRTcHFvaGVxQ2V0VlJ5ZzZzLUdwNTJEaTJwWGR5eVpkNE1SM3l4VEUtNTFobHM2djk3TTAyRXFHS09pQzZGd9IBowFBVV95cUxQd1pyZjdkb2VxdkxoNUR3anBabEtWN1ZfSXlGX240NmFSOERDSld3QTIwXzd5NjhaUHl1aHlOZGUwcXRFUUJHYzJFa3doZ3dnR0FQYXZ5ekE3VVVOY1J4bk85TmQxN2R4T3VUOTVrSF9PTG5nYUh2MTltMUlDNldVLUhucjJoRmROY1FLU0RfbzNUU19kdlFBRHVJMXlDSmZLd19R?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:01:01+00:00",
-   "source": "Harian Metro",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "9d11b4a65147d13a",
-   "title": "Keep race and religion out of politics, says Selangor sultan",
-   "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/25/keep-race-and-religion-out-of-politics-says-selangor-sultan",
-   "snippet": "He says he is also fed up with excessive and unproductive politicking.",
-   "published": "2026-10-25T02:01:00+00:00",
-   "source": "Free Malaysia Today",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "7d77023c01ef4689",
-   "title": "Pantau sumber gam, pihak yang menjual: HCASS",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTG1GU09VTzI5YWN1ZVdubkp3al9rNHFtTEJCT3NIZWRwc2FnX3l5ajFBeFdpT1JHM05janc5RElIWVVKekdwSk8wcU1Jb2RzOWgyOGlCUUNhczg4aE9Dak9Wb2wzVkxCR2x3TDhZVWtzRmNjaVdfeEY3VEZMd2w5QjNhOHZuZ0ptT0Q1RkIzMVVMaFBFdGViTNIBngFBVV95cUxQeW1UVTZwV2luQ2Z2b0Q2cGtnV1hEbkpGNlZ5VHZoeWNCN0VpSzdzR1RTRFkwQmJLal9PbDF5MDNGc2hacDluOFlQcTNwM291QnVWYTFBSDJIMFVsN0lKeHc4dzctbHdVQnN5N1RVdVlYemxnQmNUM012c0lqZTZmbFVjZ3N4VVN3QmxuX3AzVDd3dzdZVWdSRjZvSEt1UQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:00:36+00:00",
-   "source": "Harian Metro",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "8794daeb5912835e",
-   "title": "Pala'u menahan lapar",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nbG5wZmdHemlxNEVVaGJMSVZfUWhXemxyVFd4RDk2eGxBM1VodDdyU3dONU5KTWk1OFJsbndpbDhZVExuYUhqbjFIanhXNHVRb1A2OGZvNUFrT250VFUwSjVXZ2lDSzBzWGU1VEVyZFlrc1g0Z3fSAXtBVV95cUxOU3p3cnZQNmpscmtCbE5ITy1EV2tDQkhnMllxMFl2NzNXU3EzaGoyV1VoNmNXQ1RRb3FGUWlTWnRDVzJmR0hsR0FPLWJfV3ROX1N5VWZqSnF0eG01bmY3bmp6dm9nY25BRlR4U3I5UHNhUU9FNVkxNnRCYzQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:00:35+00:00",
-   "source": "Harian Metro",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "c4c85ec035f5fec6",
-   "title": "Thailand’s ghosts of 1997 hold growth lessons for Hanoi",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUkE5X3FzeHFZY0cxNUc5OEU3b3NEUG9BWjhEeFZxYXNqdHBza0FRTHFCTjZ1VjdSSGhCWFlHdWVDeEx6dVU1ZExVTjJ5MExTdklISWNJUy1weEJzVF9ic1VQVmNzVlJvRHhqMk5SMS05RDdjQmpmbXBtaVVDSmJmdEZWX0NQU1ZBNjRCMDlKbktNNG96dHc?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:00:00+00:00",
-   "source": "The Straits Times",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "a7fbdeed1bd71f5b",
-   "title": "Aubrey Suwito jadi figura utama OSK selepas 30 tahun di belakang tabir",
-   "link": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/25/aubrey-suwito-jadi-figura-utama-osk-selepas-30-tahun-di-belakang-tabir",
-   "snippet": "Individu di sebalik lagu popular cipta sejarah sebagai komposer tempatan pertama terima penghormatan menerusi konsert bersama Orkestra Simfoni Kebangsaan.",
-   "published": "2026-10-25T02:00:00+00:00",
-   "source": "Free Malaysia Today",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "287320d7ad065c5d",
-   "title": "Aubrey Suwito steps into the spotlight after 30 years behind the music",
-   "link": "https://www.freemalaysiatoday.com/category/leisure/2026/10/25/aubrey-suwito-steps-into-the-spotlight-after-30-years-behind-the-music",
-   "snippet": "Having shaped some of Malaysia’s best-loved songs, the composer was finally celebrated centrestage with the National Symphony Orchestra.",
-   "published": "2026-10-25T02:00:00+00:00",
-   "source": "Free Malaysia Today",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "3db38217e36d91ae",
-   "title": "大选后首个干部大会 行动党将选新中委",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNXzRCM2s5UlIzVGgxdmtPZFdmTXI0NFM4YjA5UzJMa1hZSHJKN3E2dFN0RFd5Q0pKc0F0Um9EX1hfYnNhcjJCRkdhb25UOHVOSVBtaktObHJ0S3psVVNmSk12N1hnVy1rQ2cwZnRwdW41Z1ZFdWh0WGZJYlIybGo2OUEtWEE1SXlPSm5n?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:00:00+00:00",
-   "source": "Lianhe Zaobao",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "d3a65879a45b680a",
-   "title": "When diarrhoea strikes your young child",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFJZazE0NmdhbjV2QnBfVk14WGNjRlcwNHgtZGc3MnF6N2hvbXdUWjJMc3NUUnJIdGJUbm00QnY2MnRqOVF0MkNWSUJoUG5jYVE3eGplVjhfSlcxQUZsS1phbEh3Q1UyU2hzQW1IMVBLS1djMkpsb0tEZ2ZsSFJOS0VYdzFxaXNid3pwUm1NYWkyX05rUG84aw?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:00:00+00:00",
-   "source": "The Star",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "5129aa20340dbc7c",
-   "title": "【看见乳癌患者的心3/4】从乳癌患者到扶持者 Pink Light乳癌成长协会会长朱采燕：让抗癌姐妹不再孤单 | 特写 | 生活",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fbkFURVgzRzIzakQ3OGZic2Jyck5PVDdIR18zb1FUV3d3STFzUU52Uk9rTnNhT3JLUm9FVGJacFpOd0FSUDFMa3lWUm1LMmtZRjZrWHVReEZweDk3RzVTZnkxYnd4Rlh6VEVfTw?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:00:00+00:00",
-   "source": "Oriental Daily",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "838b35b21c31feb2",
-   "title": "Award-winning Malaysian bungalow on forest edge blends architecture, art and nature",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZW1fM2M4c3E0ZlVEWS1qX0hNa2dWal84N1dPZm9DdXB2ZEprWnM0bG82dnU5TXEyUnh3aDFBSm5QWFplTWZlWVlDcE1oUTNES20zT28wRTlXREFQekRmRThJZUdrcGtrQTlfLXFld3hCaGE1bl9hWGJMRDdTWnZLVFJFWmpxS1VwUDhqVFBJXzcySDFUUlJuV25fUzhFRkJUWTNuZHNFWVBhaEg0V2JxQ3pDWFhMRUhPXzB1R0RvNHMyT3BINDloa05DVmwxMkdBTDQ2c3FBMUpwYkVDOXNYbEhZUTc?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:00:00+00:00",
-   "source": "The Star",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "4bf0103629582dae",
-   "title": "Airbnb guests no longer have to wash the dishes or strip the beds at checkout",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUmhyV29qamFMVzVRMXZBaDdCUHJlUEpYUHJKeVh6VDhRTEk1NWNyNUJkSEd0c0xXbDB5aEFHcjFFMDVKWEFWWmdrU3hMRnhNMEk2N0JVZFNKMjZWNFZLYTh1WmdQVUxRRnJYUENvVS1qYkRfQ3UwV243TkwtYi14TmhobGRVLTVlaUlOWXhmZkJvcHdTV05iSEM0ell2c2o4WnYzcl9pa0pZSG5Ba1o4aHZhSWdDZG9feHdzTw?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:00:00+00:00",
-   "source": "The Star",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "ffccb3ac1e7637f6",
-   "title": "Why the book world remains obsessed with celebrity memoirs",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ2FSb0ZlODVGN1dhQ2Q1OHVmSUs2Ty0zR3pUbnFIVi02TEpuUm5zT0tjLXhsekJzUVpWMER2YlZNSnZuYkR1SzFlRGI0YTRRT1hBb3FmUWNaM0QwQVRXSC1nSlEtcVN5ZXVnNV9JQVJXNUVub3poaUhPWU5NTXNjSDVYT2pCNjAzLWhEcGcwa3pXUE4wUzV0dTFOVTVUeW4wTEJnQ1pVQzNMc043NjdHdVFzV0M?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:00:00+00:00",
-   "source": "The Star",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "eb0c020703b25d5b",
-   "title": "周兴哲吉隆坡开唱首晚宠粉无极限 感性告白：大马在我心中有特别位置",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rTzdmcmN5U0hCVWtfalB5RjBhNXJmLUMycExpV3FZWU45VjhaWFE4TEs1cjdqd0pSb19oVEpRdVB6YmtuYWxWNHk4NWhrZmdEd0NSNndQcGhTamFoZGZSNElQWVJsT3MwRE1KOGpNQUh4X0pLVXVHeQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T02:00:00+00:00",
-   "source": "Oriental Daily",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "1a1081e0cf09c427",
-   "title": "Noorkhiriah nafi 'menghilang' kerana masalah kesihatan",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0xRTUZYQ2hlR0gxMThzbXR2U29CT0JjY0pfWGhnRUZlWUw3UTR0YjdETjJTYkVkRmgtSmFhT185SWt5cEc2cU5Pa3NLWVdUSUY5a1d3Y2JWUmVvY0VsRWIwd1MxS3Rvd3p2TzRfQVBmRGEzbnNqQ25rRWZyOGRIZm1wbk9QLTVWN2diZ18waW90UENuWU1LWnU0OTBPYTNYX3MwVEk1cHZ4TFRhVWZwUUk0TdIBuAFBVV95cUxNMkoydWcyaEdJLXNVTEdCUEFHV0U5LW1TaUdQZTBRNDhyZWU0WlJpOUw2RlB6d0ROenhXNGpMRmtFRk43VmJlNWR6V0k5dEF3V0tncUFPWHlNemNNbkhBS0FEMS10OHYwRDNfSGI2cnpIblZfMDhaMnB0ZHAtZjZmNGRDOUJlZ2Ffa3dtRUpkdUYxZFdNZHlGM0RYNktEeUJocGNQV09jN2ZsWTZ6U2UtaGpFRzFPenBw?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T01:59:07+00:00",
-   "source": "Berita Harian",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "471bb46f4cad1dc6",
-   "title": "Don’t chase votes by exploiting race, religion or royalty, Teo tells parties",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSWp0QTlWc1d4TFIyTllSRWxWWVh5cmQ4QWVHXy03WVpmellETEl5N19wOTg3aVJBUFJjdXdjLWlwVGhLS1phLU9FWGY4M3BpRklLWVNVMmdSOVlsbV9Oa0lMaWVrTS1RRnRFX3B6TXY5WUdYb0hqekZWWHhLSG1fcC1RTUhNVHI3RHR5RDRLREk5ZTBHX01ab1RwZkRyZVI4NExJZjdacGFsQTN5STBjSE5EOTRMTlJEZDhWOEtyRF9FSGtERFlvX1dPMNIB0AFBVV95cUxPLUdMRXR2U1pLaDBmX0JDeTc2M1NlY0pfQ21ZdDhZSHVrUXZrSzhuQ3oxc3lnX3dueWdlTkxfeXBKaG0yU2lQOFVZQVU3S1MzUEs2LURhN1FJRjN2UDYxSTFvRk5tT1M0Y0c1ckFXd0hZTzNReGdCM0dBZ1pmVVZ2VDJfOFlRSkk0c0dwX3VFdTZRTDhxOGQyalNIYUNRQ1JRWFdvYWJIOHdXeXkzOFVMZUhfM01pY2FqWWwyUm43WHVnTldyWmNuNWRESGVic0Q2?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T01:56:41+00:00",
-   "source": "Malay Mail",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "44914e906b786d80",
-   "title": "印尼减少天然气出口 狮城：只占需求量不到2% 没有造成冲击 - 国际 - 即时国际",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zY1hyOENGclp0WTBJQTFiaEN2dGVubmoxNkRkOVdNRkRmSFEyMDhiUHZGTV92Zl9SU1U1OElnakhOOEVBQ2xIZU1jQVFXWGVjWWhrN2lTQkZZdWRTbURMdmdnX25KX1NkMkVsZldyRQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T01:54:33+00:00",
-   "source": "Sin Chew Daily",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "582b9ad47ff3af7b",
-   "title": "Baby, child and two elderly women killed in multi-vehicle Pagoh crash",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSjJla0t3cUVhTFJ0RWJHdUc3LUl6Y21za1hmZ3ZYV1g2cDRNaWRRYjdJUFNhZHc0ZDZYOFJWVFBmOXU5aWlDWmtXcWtMWVRfcW9GNl82U3BQb1M0cVNXbGN2STN1eF9nR0F5R1pDQzh5dXJBTTdkWUh2UVVaUUYzZ1ctek9FUy1hMXpZTVF6c3R1dEtZNWtNSWFyVUJGZFh4Z3RXMG11SWppY3lyNUI1SVI1UzNnM1d2eDZWcS1qUXdCRXAw0gHKAUFVX3lxTE9Gb09yaTl2X3h2N3o0RVhXalozdmM3amJJQk1idmwyNk00YWF2Z3J0bzg1X3hJZ1lGbUduUXFJRjNZejVRNnNibnBONFlWeTRNLV9jemtwNHFOd21SYVRvQkU1QTJ3bU9ETElkVndnSm1vVmoxQjVsQzdxZVNyQ1RlZDY5UnVjNkQ4WC1ORkpQdFFxblhMV3ZhU0hDUWExNjVxdkhkWm1EajZsNUlzR0JFOFhoaUl4S0NRdTNlOXBqQjFTeDRQb29pWUE?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T01:51:41+00:00",
-   "source": "Malay Mail",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "fatal"
-  },
-  {
-   "id": "05aff649e2618270",
-   "title": "以色列大选倒数三天 数千人示威反内坦亚胡",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YaHhuVFFiaEtVVmpWQ3h0UTBIVkVWbjJPMEEzYTVwWWx2M3BhUlNLcGM2aTVJX2V2S29jX0lhb1Q1a2R6TFMydnhoNWlLOERpdGVwbUMtQ0JrR1JKVlRHQmR2dS1PbURQS0E?oc=5",
-   "snippet": "",
-   "published": "2026-10-25T01:51:12+00:00",
-   "source": "Lianhe Zaobao",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
    "severity": "other"
   }
  ]
