@@ -1,20 +1,23 @@
 {
- "updated": "2026-10-27T19:50:29.714213+00:00",
+ "updated": "2026-10-27T23:33:48.408680+00:00",
  "sources": [
   {
    "name": "Gov.sg (all SG agencies)",
-   "ok": true,
-   "count": 100
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "CNA",
-   "ok": true,
-   "count": 100
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "The Straits Times",
-   "ok": true,
-   "count": 100
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Mothership",
@@ -23,38 +26,45 @@
   },
   {
    "name": "Berita Harian SG",
-   "ok": true,
-   "count": 100
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Lianhe Zaobao",
-   "ok": true,
-   "count": 100
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "8world",
-   "ok": true,
-   "count": 100
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Gov.my (all MY agencies)",
-   "ok": true,
-   "count": 100
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Bernama (state news agency)",
-   "ok": true,
-   "count": 100
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "The Star",
-   "ok": true,
-   "count": 100
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Malay Mail",
-   "ok": true,
-   "count": 100
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Free Malaysia Today",
@@ -63,36 +73,318 @@
   },
   {
    "name": "Berita Harian",
-   "ok": true,
-   "count": 100
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Harian Metro",
-   "ok": true,
-   "count": 100
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Sinar Harian",
-   "ok": true,
-   "count": 100
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Sin Chew Daily",
-   "ok": true,
-   "count": 100
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "China Press",
-   "ok": true,
-   "count": 100
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "name": "Oriental Daily",
-   "ok": true,
-   "count": 100
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   }
  ],
  "stories": [
+  {
+   "id": "42c0dbdc4c42076e",
+   "title": "Why cash aid won’t harm the country’s economic productivity",
+   "link": "https://www.freemalaysiatoday.com/category/opinion/2026/10/28/why-cash-aid-won-t-harm-the-country-s-economic-productivity",
+   "snippet": "Rather than induce laziness, financial assistance can boost market activity and offer opportunities for self improvement.",
+   "published": "2026-10-27T23:00:00+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "5fca732398b9b7cf",
+   "title": "Mengapa bantuan tunai tak jejas produktiviti ekonomi negara",
+   "link": "https://www.freemalaysiatoday.com/category/bahasa/pandangan/2026/10/28/mengapa-bantuan-tunai-tak-jejas-produktiviti-ekonomi-negara",
+   "snippet": "Memaksimumkan potensi ekonomi Malaysia memerlukan pendekatan dwi-trek yang seimbang, bukannya perdebatan dasar yang bersifat bertentangan.",
+   "published": "2026-10-27T23:00:00+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "fd5b73fa7e9b0dc3",
+   "title": "Before you tap ‘invest’, check if it’s a scam",
+   "link": "https://www.freemalaysiatoday.com/category/leisure/2026/10/28/before-you-tap-invest-check-if-its-a-scam",
+   "snippet": "Financial planner Bryan Zeng explains how fraudsters win trust, the warning signs to spot and how to protect your money.",
+   "published": "2026-10-27T23:00:00+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "212f22c7885ee145",
+   "title": "Rubio joins Trump on campaign trail days before US midterms",
+   "link": "https://www.freemalaysiatoday.com/category/world/2026/10/28/rubio-joins-trump-on-campaign-trail-days-before-us-midterms",
+   "snippet": "US secretary of state Marco Rubio and vice president JD Vance are widely viewed as top contenders to lead the Republican Party in the post-Trump era.",
+   "published": "2026-10-27T22:58:52+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "821952cad2bd5110",
+   "title": "Former Grand Slam winner Wawrinka ends tennis career",
+   "link": "https://www.freemalaysiatoday.com/category/sports/2026/10/28/former-grand-slam-winner-wawrinka-ends-tennis-career",
+   "snippet": "The 41-year-old Swiss bowed out of professional tennis after losing 7-5, 7-6 (7/2) to Czech Jiri Lehecka at his home tournament.",
+   "published": "2026-10-27T22:55:00+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "0996d068e6ac16d9",
+   "title": "Brazil’s Flavio Bolsonaro flees to US after election loss",
+   "link": "https://www.freemalaysiatoday.com/category/world/2026/10/28/brazil-s-flavio-bolsonaro-flees-to-us-after-election-loss",
+   "snippet": "The son of jailed ex-leader Jair Bolsonaro faces a corruption and money-laundering investigation and is set to lose parliamentary immunity after his election…",
+   "published": "2026-10-27T22:48:42+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "d65facfe5ec37f31",
+   "title": "Arsenal stunned by fourth-tier Fleetwood in League Cup",
+   "link": "https://www.freemalaysiatoday.com/category/sports/2026/10/28/arsenal-stunned-by-fourth-tier-fleetwood-in-league-cup",
+   "snippet": "Mikel Arteta's side crashed out 5-3 on penalties in an incredible fourth round upset after the tie finished 1-1 in normal time.",
+   "published": "2026-10-27T22:38:17+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "major"
+  },
+  {
+   "id": "e5e6a6bb684a9bbc",
+   "title": "US health chief faces widespread rebuke over his anti-Arab remarks",
+   "link": "https://www.freemalaysiatoday.com/category/world/2026/10/28/us-health-chief-faces-widespread-rebuke-over-his-anti-arab-remarks",
+   "snippet": "Robert F. Kennedy Jr. falsely claimed Arabs had won no major international awards and 'don't produce' science or literature at a Michigan campaign event.",
+   "published": "2026-10-27T22:33:25+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "69131c9a385cb15f",
+   "title": "Timely justice a right, not a privilege",
+   "link": "https://www.freemalaysiatoday.com/category/opinion/2026/10/28/timely-justice-a-right-not-a-privilege",
+   "snippet": "Litigants and the public are looking for immediate solutions to their issues, and want instant decisions.",
+   "published": "2026-10-27T22:30:00+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "56d1f79bc0a2b309",
+   "title": "Last-gasp Sabitzer strike sends Dortmund past Bremen in German Cup",
+   "link": "https://www.freemalaysiatoday.com/category/sports/2026/10/28/last-gasp-sabitzer-strike-sends-dortmund-past-bremen-in-german-cup",
+   "snippet": "With the match level at 2-2 and heading for extra time, Marcel Sabitzer curled a superb free kick into the top-left corner to seal the win.",
+   "published": "2026-10-27T22:29:05+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "0724712e893604d8",
+   "title": "US, Cuba shouting match derails debate at UN",
+   "link": "https://www.freemalaysiatoday.com/category/world/2026/10/28/us-cuba-shouting-match-derails-debate-at-un",
+   "snippet": "The row broke out during debate on a resolution calling for an end to the US embargo on its communist-led neighbour.",
+   "published": "2026-10-27T22:11:52+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "fd5e2e7acfbbfef4",
+   "title": "Visa’s quarterly profit jumps as consumer spending holds up",
+   "link": "https://www.freemalaysiatoday.com/category/business/2026/10/28/visa-s-quarterly-profit-jumps-as-consumer-spending-holds-up",
+   "snippet": "Payments volume jumped 9% in the quarter, signalling resilient US consumer spending supported by a strong labour market and wage growth.",
+   "published": "2026-10-27T22:03:54+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "7c12f8cef9a87325",
+   "title": "Wall Street ends higher on revived AI momentum",
+   "link": "https://www.freemalaysiatoday.com/category/business/2026/10/28/wall-street-ends-higher-on-revived-ai-momentum",
+   "snippet": "The buzz surrounding details of Anthropic's impending initial public offering helped boost chip stocks for the third consecutive session.",
+   "published": "2026-10-27T21:55:26+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "d8c00b65baf7435a",
+   "title": "Trump says will respect US midterm results ‘if they’re honest’",
+   "link": "https://www.freemalaysiatoday.com/category/highlight/2026/10/28/trump-says-will-respect-us-midterm-results-if-they-re-honest",
+   "snippet": "Donald Trump has ramped up his baseless claims of mass voter fraud as polls show Republicans could lose control of Congress in the Nov 3 elections.",
+   "published": "2026-10-27T21:49:00+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "e556a42d216fcb06",
+   "title": "Floriani hits maiden goal as Lazio go top",
+   "link": "https://www.freemalaysiatoday.com/category/sports/2026/10/28/floriani-hits-maiden-goal-as-lazio-go-top",
+   "snippet": "Kenneth Taylor, Gustav Isaksen, Mattia Zaccagni and Tijjani Noslin also scored as Lazio thrashed 10-man Sassuolo 6-2.",
+   "published": "2026-10-27T21:46:13+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "06409a86a1da1d5a",
+   "title": "UN nuclear watchdog chief urges Iran to grant access to facilities",
+   "link": "https://www.freemalaysiatoday.com/category/highlight/2026/10/28/un-nuclear-watchdog-chief-urges-iran-to-grant-access",
+   "snippet": "The IAEA has been denied access to key nuclear facilities since Israel and the US launched a 12-day conflict in June 2025, which included strikes on nuclear…",
+   "published": "2026-10-27T21:37:00+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "340b79afc77b9f6d",
+   "title": "Alcaraz and Zverev win Vienna openers",
+   "link": "https://www.freemalaysiatoday.com/category/sports/2026/10/28/alcaraz-and-zverev-win-vienna-openers",
+   "snippet": "World number three Carlos Alcaraz saw off Karen Khachanov 6-4, 7-6 (7/5), while Alexander Zverev beat Martin Landaluce 7-5, 3-6, 7-6 (13/11).",
+   "published": "2026-10-27T21:33:13+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "dcaabf15fb91ae15",
+   "title": "Baumgartner spares Leipzig’s blushes in German Cup",
+   "link": "https://www.freemalaysiatoday.com/category/sports/2026/10/28/baumgartner-spares-leipzig-s-blushes-in-german-cup",
+   "snippet": "RB Leipzig were on course for early elimination until Christoph Baumgartner scored twice in five minutes to help them win 2-1.",
+   "published": "2026-10-27T21:26:13+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "9ebc9c8ca6001e6f",
+   "title": "Russia says three tankers with diesel en route to US",
+   "link": "https://www.freemalaysiatoday.com/category/highlight/2026/10/28/russia-says-three-tankers-with-diesel-en-route-to-us",
+   "snippet": "The vessels carry a combined 924,000 barrels of diesel under a US-Russia deal that sparked fierce Ukrainian backlash.",
+   "published": "2026-10-27T21:23:03+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "5b0ac5556a6885a5",
+   "title": "Xhaka, Embolo can return to Swiss squad after fake Covid docs affair",
+   "link": "https://www.freemalaysiatoday.com/category/sports/2026/10/28/xhaka-embolo-can-return-to-swiss-squad-after-fake-covid-docs-affair",
+   "snippet": "The pair were dropped and missed the first four Nations League games in September and October.",
+   "published": "2026-10-27T21:17:09+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "3c9100c2dae92b3a",
+   "title": "Allegri suspended for 2 Serie A games after red card",
+   "link": "https://www.freemalaysiatoday.com/category/sports/2026/10/28/allegri-suspended-for-2-serie-a-games-after-red-card",
+   "snippet": "The Napoli coach will miss Wednesday's match at Monza and Sunday's trip to Juventus.",
+   "published": "2026-10-27T21:11:05+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "2d3c80f07a0f29bb",
+   "title": "French Senate weighs bill to make protesters pay for unrest damage",
+   "link": "https://www.freemalaysiatoday.com/category/highlight/2026/10/28/french-senate-weighs-bill-to-make-protesters-pay-for-unrest-damage",
+   "snippet": "Welfare benefits and housing assistance could also be seized to help cover the cost of damages under the scheme, a provision that has drawn sharp criticism.",
+   "published": "2026-10-27T21:09:44+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
+  {
+   "id": "f52544499f565e78",
+   "title": "First Israeli election exit polls show narrow edge for opposition",
+   "link": "https://www.freemalaysiatoday.com/category/highlight/2026/10/28/first-israeli-election-exit-polls-show-narrow-edge-for-opposition",
+   "snippet": "The opposition bloc is projected to win 52 or 53 seats, while Benjamin Netanyahu’s bloc is set to take 50, although his Likud would be the largest single party…",
+   "published": "2026-10-27T21:03:45+00:00",
+   "source": "Free Malaysia Today",
+   "country": "MY",
+   "group": "non-gov",
+   "lang": "en",
+   "severity": "other"
+  },
   {
    "id": "3969e4632c7e3416",
    "title": "Pelaburan lebih RM200 bilion bakal wujudkan hampir 100,000 peluang pekerjaan",
@@ -494,7 +786,7 @@
    "title": "PRN Melaka: Rauf anggap rundingan dengan MCA ‘positif’",
    "link": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/27/prn-melaka-rauf-anggap-rundingan-dengan-mca-positif",
    "snippet": "Pengerusi BN Melaka berkata, kebuntuan yang selama ini timbul masalah telah berjaya dileraikan.",
-   "published": "2026-10-27T15:52:16+00:00",
+   "published": "2026-10-27T15:52:00+00:00",
    "source": "Free Malaysia Today",
    "country": "MY",
    "group": "non-gov",
@@ -9413,282 +9705,6 @@
    "published": "2026-10-27T04:07:09+00:00",
    "source": "8world",
    "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "cdd46b096b0e0db6",
-   "title": "Singapore looking to strengthen haze law and address 'enforcement gaps': Grace Fu",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMlRzUW5JRkx6dkhWZUJKMlVRNlhMZTByeUtrRjhZN3VXU2tDbnhlRFNvdVNBS2NoVlFXVDkyWElfam1tTE83MG5kS0hsWFVEMEoxMEY0N21TcHVsSzNScVgwSjBkeXRTXzZoTVh1cVVlZEZzVFhOY09QSVJFNi1lUV83azlkU1dnZWI1aWpwRDZKOHBoVHVpUDEzMHdIU0cxRnJjNFVIRlNabUxVQWhPNkVqZlo0alhzRFMwNVlwSQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-27T04:04:59+00:00",
-   "source": "CNA",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "c25eee6aea7c519a",
-   "title": "政府考虑修订跨境烟霾污染法 加强执法和企业问责",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oSkY2NDVON01tSG5TcnU1VzY3d1piaDJCRHJZZlFTMmlxT1V6RWZLZHhta1JrUml1ZzhQRVFpZ2F3UDM4Q1RhSFhjVkV0YmY4Tk1RMmNMRGg3OElMcTVzLXh3Sl9JQVpkb09hcDl1bmIxb1F2bzZYWHpRckJ1QQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-27T04:03:42+00:00",
-   "source": "8world",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "217fec1524e7c2de",
-   "title": "再传辞职消息 依斯迈拉欣回应：谣言啦！谣言！ | 国内",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GZmJ1akNaMGUyNk01Y0JPU0NCUW5QN0JCZzdXMTlJaHFnWTZDUWw1R0I3cGMxR25FaFRzMDVHQmhRN3UwczRncmFVYTBDOHl5aXNpWURoNWx1OUxPQ2FPeTA1S1FrVEU3S2ZHNUJkZw?oc=5",
-   "snippet": "",
-   "published": "2026-10-27T04:02:00+00:00",
-   "source": "Oriental Daily",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "6ca7ce103093b52e",
-   "title": "美国中期选举",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNS0QweXJSWlNKMENPR1pyaTU4OHBLSUxZZVFJM3dnX0lzQTlIa0IxRmFoQUI2bDFtYmgxVTBFUjBxZlFweHQ0dWs5Uy1ZNUtZQzhDM3hUblJWeE5DbldYMll4cw?oc=5",
-   "snippet": "",
-   "published": "2026-10-27T04:00:46+00:00",
-   "source": "8world",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "dda8697f2db30612",
-   "title": "Mbappe dropped by two Chinese brands over video referencing Mao Zedong",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYVlpd2FRY2NqTS1QVTNDNUtsam1lbDFtSHdyY3JVUjRpWkpFNG0xN1Bjd1FpdVQ4eGZSN19OQzRhYW9OY1ZqVTlFSUVQY2dLeDRjcDBEMEtwRXpKcGJ5TUhGQUZnbW93SFhEelpuVXl0cE9QeTlPSmNKc21wZDBLdHp6TFU5WlE5WFByV1hYWEp1OFBTSHktTUFxb2FBdE1FbzYta0RDdWJUSUNicm16cksxSlRIUTJzLUJWU0lJZHlRVG5p0gHKAUFVX3lxTE5fYm1rQXRBY1BLZWprc2R6UGtFOG8wWDRwV1JQTTFSOWs3VEV0WlYxVzlRZlVVVWZhRHFPOG1UUTMtd1BwNW11a1JPZUZXZXFVRFk0QlZFRXV3UXhHY25YVjBKZzViQmY0NzV6dm44QlRsVy05bGJMV2ZoaVQycHlPNF9KNkpxR0dIUjlaNDhVUVc3YnR0T3QzZzVpZlZmdWNKQ281cHAxclFnS2FBYll3dlBPRTEzdWZZYkNodFlfM0pXY29OMTVvM2c?oc=5",
-   "snippet": "",
-   "published": "2026-10-27T03:59:47+00:00",
-   "source": "Malay Mail",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "33c13ff8380795b5",
-   "title": "阿里巴巴挑战涉军黑名单 美法院叫停部分国防合约限制",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QbENpT2RnMFc5VHRoYU5iN3VSdXROb0xBMzJNdER6OW9HSEgySkdmeEpaMHhCam9GcXNUNXFHMFM0dU8zakdWc2xOUHk1UTFXTXNMQlk0R3hDaU1BeTdmLUtoRXFDY2JuVlE?oc=5",
-   "snippet": "",
-   "published": "2026-10-27T03:59:11+00:00",
-   "source": "Lianhe Zaobao",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "eca96666d91208b6",
-   "title": "'Mak kejut jam 3 pagi beritahu ayah dah tak ada'",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRUV0MmoxLWt3T0ltc3ZRb3l4NUhrc3k2M1dpUnhmdGI5VEhNdjJibkR2bEdYRWdiVHMwUG1hWEx1V1ZqcE44RWo4Z0NLbnJXUmRRVG52dnFVaHJqQXlKcjZGRjRBY2paZlRBWDBGR2gxT1N3NEJWSndaX0NJaEE4QTBoWnFCNjhDQmctRlp3TlRMZkVlZEhTcTd30gGfAUFVX3lxTFBTLVJ4LWEySlp0MjV0czRiZ1lpbmQtaGtGZnFnTTB4eG1aLTlBNHRPMGlWeEE5TmwxVEpYN1RSTU9EXzBXa3NEZmI2cmw3OC1RalVlU1U1MTUxOWx6MFZyTnFJYktlQnZ6ZjdnZmFndjRRNVUyNDA2MmJGd0U1QkU4RThNejl1S21fRVViLU1SZWFVbWI3bnRZYnZhQ2Zicw?oc=5",
-   "snippet": "",
-   "published": "2026-10-27T03:58:23+00:00",
-   "source": "Harian Metro",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "53085608df5f30e7",
-   "title": "马六甲州选｜黄日昇力挺魏家祥捍卫马华 “国阵不是任何人的独角戏”",
-   "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPTldDVUx0a0JPZWFCcDZPakpCT3ZodFVUOTlDTl9jdW9tVE1QT25idnN1a2FoU24xMk5hcDR5U3RwV3c1ZWhJN2pwQzdELU1Hbk82SGFzbUZtRWlBNWJCSGNmQmlLblBsWTBtSkVIaDZpMVNhQnZCcl9rU1ZxTGJRdkM2RldodU1DWHZ5TWdWTFBkZkptdFNKSnVlSnZMcGZGVDREMEQyNHdlQWFoaWxQSEpYb01NUDQyZ042Rnh0d3o3RHg0eFg5X2Mwc0owd3MycXIwVnpHZGpRRk9jZmlFc0x3N3g5NFJQajl1cVlTNGlwSzVaUkVnUy1fUVRmMy1qT05Vdjk1VThrbnJ3Q3pUYmNsTGVIMzQ1dHRBajYtUlh4T0QwVTlvYkt1cHpSVzJ6dmhvam9DQWdfS01xUEU4d3N0OEV1cVl5djlZQWwzRQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-27T03:58:07+00:00",
-   "source": "China Press",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "9b3c8a251c0bc1b2",
-   "title": "Tragedi tanah runtuh: 12 tahun menanti zuriat, Dr Wong insan pertama tahu berita kehamilan isteri | Sinar Harian",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdGdxWGZMNEVyMTdqRnFuMk5Nd2Yybm1wWHZvOHlxbE92WXFDQW8wTV90YUk2NVE1bXR5UnZaUkdZNHJ3dG5ORGQyMVlrdFEyQmZvdnZDTUc3cHl1cEJ4TUM5Y0w1LUR4X1AtcG52SUtXZlBmNE1qbldGN3NGU09aVnVmVks3YVNWUE9KZ0FjN3JhUTk2NkxYNEdJczNGOV83a0VPTi13bF83Q3hIV1pxRUZYOXhTOXFaVVFmUVo5QWlYcjM2d0VEVVoxX2lra0VZRW9IdFRTdUhfRF9OMjA1QjV0SHBQbmNI0gFcQVVfeXFMUG91RUhlWnhEaDdpMGFEeFBRZUt4QjlLQkRlRXI1VkFDblg4bXRVUFBjeTFTZ2pRYi12cGM3Sy1ScTM0MXRqYUExVUl1cXZERUJlcGZkSU11ajJhREo?oc=5",
-   "snippet": "",
-   "published": "2026-10-27T03:57:00+00:00",
-   "source": "Sinar Harian",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "major"
-  },
-  {
-   "id": "d36aa0ef1df28c9f",
-   "title": "Mbappe dropped by Chinese brands for ‘offending national sentiments’",
-   "link": "https://www.freemalaysiatoday.com/category/sports/2026/10/27/mbappe-dropped-by-chinese-brands-for-offending-national-sentiments",
-   "snippet": "Two major brands terminated ties with the French football star after a video circulated online in which he apparently joked about former leader Mao Zedong.",
-   "published": "2026-10-27T03:56:28+00:00",
-   "source": "Free Malaysia Today",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "b2c8ac203e35c980",
-   "title": "Recycle Me! 2026 tingkat kesedaran mengenai kepentingan kitar semula",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdF9ZSVhzbEoyQ2JkTVlndFVQQTZZV1Y3elNRV0VqbmxiMUZhSkRHT0ttaDAxV0lPaXc3MVNvNHlHS0RoWkVCQ3VEajkyN25qVGduNm15Mml4amFxWnB1amxtZTRjYVo3bjFmZUZTWHR5clhNSFhvZTZZR1dmNklvRlotQU8xRWE2MVhyUGVpengwQmZ0Uk01dWdKdU5talhrYjZDY3JVZU1UY3hvUnJaTGx0V2V2aXRuUklTSkVaOEdYamZ00gHKAUFVX3lxTE5RSkxHTWY5V0FRd2tYeVItU19sT0FlVnExSldZU0FqYUQtNzd5YlBydGsxcVVHdVdGUE1xd3VndzlBNzFDdlRNZFNPNnhNdE1pMFEtaXAwUUlMSnpkcVRqaHMtZk9JSUhlWFhIcGVqeXBWTVpybVBMN1F3Y0I2cUZwNHF5bEtGczdHNzc3X2NlT2MzeWtOSV85MGM4NlRJZlI2NTNqUVdrT21oLWVnWENuc0dmQmpsb2t2Mi0zeDdKdExZYnhfQXAzOUE?oc=5",
-   "snippet": "",
-   "published": "2026-10-27T03:56:11+00:00",
-   "source": "Berita Harian",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "8dfe063b07b6ec7a",
-   "title": "CEO charged with cheating businessman of RM1.65mil in durian orchard deal",
-   "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/27/ceo-charged-with-cheating-businessman-of-rm1-65mil-in-durian-orchard-deal",
-   "snippet": "Chan Huann Heng pleads not guilty to the charge.",
-   "published": "2026-10-27T03:56:00+00:00",
-   "source": "Free Malaysia Today",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "c5d954651c3d600d",
-   "title": "Buy low, sell high: Kelantan shoppers see opportunity as gold falls to RM503",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObTMwb1RZYkpUNHNWTGFNREV0UFVvVUlKU3haMzM5Q0d3SHk0RjFlQXIxY1ZaRmtTQ2d5ZlU4V1FyTlFkbHgxVUlFbjdqanllWGdoNW1qQUJ0UmpPQU4yWHhnVl9oTWphS0ZRTEtSa3dDa3pfVGtXMXE2VUhEeXV4eUxZRXJiTDRIZE9XQ2VkN2hXMlpFaElZUXRNcTgzVWRER2IzejQyeXphVm13NFVHdl94VEJWRVZkajBRYjR5S255eTRHU05QdHVwbkvSAdIBQVVfeXFMTzV3X2x2cjB0MDFoZTYyM3dsQm9rS2VmbndWOVkzOVphT0tSbkNtVFVJQWJXRTJfWW1feTYzeG9vTkNHTTZ5OWtQRzJnSWhwN1d2ZlJpYU13a2Y2b1hlTXItSi1LTjRlZVRjY2FRWEVjZHRqRjlhaVpFZGVSVkYtd1Q4cGNoVnY0SlZRMlA4Mm5XT21rd0EycGpWVW9IanR2V19oaVBxNDl6OW5VektWNHZ4Y3pQWUpSUm9BSTRfR25jaFl1THFrMWpkVGZxYVBsZzVR?oc=5",
-   "snippet": "",
-   "published": "2026-10-27T03:55:43+00:00",
-   "source": "Malay Mail",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "6b558810be96bb18",
-   "title": "TuJu bukan dibangun untuk jadi seperti Waze - Pengerusi LLM",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTjVqZnFWNF82QXBtUHdlQndkRWpNU0o5QldxQkEyUE53YjF6Z0NCX19KaXVVcWJoQU1UMHNtRS1LQmE2ODhFU3JoNlhjNDlPODZ1U2xoaVZycDg0U1hFT1hDMmJzY3lnYkk4SmJxS0xTdlpISEo0Q1FaUEMtTHRqeDJSN1RpVTZ3ZXMwdWpfNXRZZ0h0M0h2eHF6dV9JY3B6YmVaV2FXdkYtRGJD0gGyAUFVX3lxTE9MS2I4MlZVM29SUTZHTC1iMTFCTWZSSzNxOERfN3E1bTVpRDhLVkhBZE5fc3NSZnpGYVBuaHUzbmp0bkc4UVVCclN3M0IzZmpscm5pQkJSNVkzbU4yWlVXeldBUmF1Q1UzRmF3TFZOSkNkcGNWcllDX2VVVUFLbmpUZkwzSjdZeDBKT0hqMHlVUi1TSUVuVm5FYUx4dko5bmNuNHdSSktzdmVjcVNhVXJyQWc?oc=5",
-   "snippet": "",
-   "published": "2026-10-27T03:55:34+00:00",
-   "source": "Harian Metro",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "c29d5499fbca1357",
-   "title": "Anwar akui pelaburan Battersea rugi, perlu lebih teliti",
-   "link": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/10/27/anwar-akui-pelaburan-battersea-rugi-perlu-lebih-teliti",
-   "snippet": "Perdana menteri berkata usaha memulihkan projek itu masih berjalan namun pengalaman tersebut menunjukkan rasional pelaburan besar di luar negara perlu diteliti…",
-   "published": "2026-10-27T03:53:00+00:00",
-   "source": "Free Malaysia Today",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "153f3495f9e1d77e",
-   "title": "胡塞武装向沙特发射导弹及无人机 多国联军称成功拦截",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tb0hJUHBSRHFIeU5zbmsxSEhKNXhKdmNZTTJOUnM4X1dZVk1UdDZ3NXFzRWZGaEtqTU53ZHpvaFZidGJOMjRqcUNDUTFRczMyVXhZQkZoR1F0R0xZS0d1Rm9tV3JPY1JUUEE?oc=5",
-   "snippet": "",
-   "published": "2026-10-27T03:52:55+00:00",
-   "source": "Lianhe Zaobao",
-   "country": "SG",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "f41c8ac99fe62eb1",
-   "title": "以总理被传选前向军方施压 要求对伊朗发动攻击 | 国际",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BMzFrUklTeDNzVE5GN2lqR0ZyLXUydTBtVzZyeGJheTY3SXNKaDZDOExSdldnZlhmUGVkZ1ZXanNXOUM5WmFwNTNKekRyLTMySlRKQWVBdkEzVmlKM2RfcUlmZXJDRFhSSjB4bG5MOXpMMFVxU1R5RA?oc=5",
-   "snippet": "",
-   "published": "2026-10-27T03:52:00+00:00",
-   "source": "Oriental Daily",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "zh",
-   "severity": "other"
-  },
-  {
-   "id": "74e0dbb7acabc82c",
-   "title": "Misha Omar Proves Her Vocal Prowess Remains Undiminished",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KMWs5cG1EOUwybDZTeHRiTTUzRE1UUkFqeHFtMXdibzRLN2M1amhqT1dKSl9NaGh2WnFUNjJILUNTdTQ3VnpaUVItcE9ad1RXbjhDUHhoNWxvYTljajlvbzFR?oc=5",
-   "snippet": "",
-   "published": "2026-10-27T03:51:54+00:00",
-   "source": "Bernama (state news agency)",
-   "country": "MY",
-   "group": "gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "3ba6fc02d39d0420",
-   "title": "CEO syarikat buah didakwa tipu RM1.65 juta pembelian dusun durian di Raub | Sinar Harian",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM25tT29SOWRqSGFxSlFDQU9YZktQR3BxWDBycEFKbHJ1aFlwRHhLa2hKS2d3V0RhdG9Bak1YZnhvdFdjcFVWb3EybGt6bENmWTFMNlBLb2dnR2s4SXhGQ1dvMy00ODJLR1YzbjFmSkxpM3BtQUJud0RtSTZCVXFPWUNLUnoxazlvMjUxOVpWc040ZFB5eFVPNTlkei14eWE1bHJUMzlBb25OYXF1VE11VGNPNTFsd201OFM1d0xzMW1aa3VPTGwxWm5zaFfSAVxBVV95cUxPR2Ewc1NiSnZ1X1pDTmVKX1FRdWRmZzY4dmFDMlBkenpYRk5QMUYtdFVzeFBOMVZ3a0NJRDVoekRYa2RNTGdqRlEtMUQ1TnVwdmdKdi1YeG11UWFDMQ?oc=5",
-   "snippet": "",
-   "published": "2026-10-27T03:51:00+00:00",
-   "source": "Sinar Harian",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "e7ce881a17e6c1a5",
-   "title": "HM in sexual harassment probe lodges report over viral video",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMU5saDB0c0FQTGdndFYyS3dRa0ZQLU1Zb0RQTTFxeHloU0w3cTlSZzBEcXhXOU9uWXM0X2VTeWd6clkwNzhmbXMtOUdXRk5kQTdETXFxa2tpV2JLbGFmR3Q2YzZSSkZzZFFoSE9QbVF4RmNHLUJQZWkyd3JoTFpLWmdSRF9ralRCWkdWT1hZeGVFWjBMNWMyLUctRjV2Rm9XdFZwTHIwN3BwNHZwQkhN?oc=5",
-   "snippet": "",
-   "published": "2026-10-27T03:50:00+00:00",
-   "source": "The Star",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "a2495f714e9434dc",
-   "title": "Judge extends block on Trump’s plans to renovate Washington golf course",
-   "link": "https://www.freemalaysiatoday.com/category/world/2026/10/27/judge-extends-block-on-trump-plans-to-renovate-washington-golf-course",
-   "snippet": "Donald Trump vowed last week to begin renovations immediately, but a judge extended an order blocking the work, including the removal or damage of additional…",
-   "published": "2026-10-27T03:49:39+00:00",
-   "source": "Free Malaysia Today",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "en",
-   "severity": "other"
-  },
-  {
-   "id": "5daaf30e394d52b5",
-   "title": "BERSATU patut tarik diri daripada PN, bukannya cuba lemahkan gabungan - Tuan Ibrahim",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMm5wS1FVUlU2akZuQnpZVWJocDNYdElYbkJ2dHRjZDYtbDhjdjlkOFZZanVvS1NYaGllQlo2Q0tKYVNjQTk2LV9OMDJwWDFxdjdfWjRlX2pWb0phT2xDekdabnh4Ui1aN2tjMVNHWkVwM2VPNkl0SUhrNTk1RHlsVnRrLUV4OHZHYlFIeVN5ZGxtMlNhaGh6RHZLVzVkWllORjkwTVpMckdHOE9XU2VORDIzUnAtZElreDVNdU1FSDZnQdIBxwFBVV95cUxPaXVhMW15SzVXa3NiMnpyOFNFaC10U1k2Z1Y0NjFXSFRKWndIcnM2MTdjZ0tab0wwTkQ3MERXc0QtVy1mZ2ZvSV9LcVZnXzR4ZmNSZU1VRFNyX0RLQ0RVR3hqMVhzX1lWcy1OQ0F1TDJTTVQ1ZWVvUEVFbFl5RE9HNElBS0E1Sk8zcVpPczVXSWdhZ05TQjV5LTRTNmJnRnp0bms3eXV2Sl82WFh5QW9PVl9EVDJKMDAzWloyaHFNeXdLeWNQOVJR?oc=5",
-   "snippet": "",
-   "published": "2026-10-27T03:49:03+00:00",
-   "source": "Harian Metro",
-   "country": "MY",
-   "group": "non-gov",
-   "lang": "ms",
-   "severity": "other"
-  },
-  {
-   "id": "feccd1487d4d14e2",
-   "title": "起诉狮城4前员工挪走家办逾2亿 中国富商被反诉追讨逾亿 | 新加坡 | 国际",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rUmxxRlliOXdFLVZ3dTJNMk1MSHJXWmwxaS1YbEN4WFdPLXYyWVZZU0xadkhWYU0wLWF5VUhyMDFlUll2d2hmajZieGhsaHI5N1FZVW40TUo1NmNvNkdrdXNTZ1VMdG9ERHZz?oc=5",
-   "snippet": "",
-   "published": "2026-10-27T03:47:00+00:00",
-   "source": "Oriental Daily",
-   "country": "MY",
    "group": "non-gov",
    "lang": "zh",
    "severity": "other"
